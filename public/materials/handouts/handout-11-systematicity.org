@@ -1,0 +1,171 @@
+
+#+STARTUP: fnadjust
+#+TITLE: Systematicity in German Idealism
+#+DATE: PHIL 4/880\nbsp |\nbsp November 2, 2021
+#+AUTHOR: Colin McLear
+#+LATEX_COMPILER: xelatex
+#+BIBLIOGRAPHY: ~/Dropbox/Work/bibfile.bib
+#+EXCLUDE_TAGS: noexport notes scrap todo
+#+OPTIONS: ':t toc:nil  H:2
+#+OPTIONS: prop:nil
+#+cite_export: csl chicago-author-date-16th-edition.csl
+
+
+* Structure of the Preface to PS
+
+§§1–4 (pp. 1–3) The inadequacy of prefaces and the difﬁculties of properly engaging with a philosophical work.
+
+§§5–6 (pp. 3–4) How philosophy is a ‘science’ (Wissenschaft) and hence systematic.
+
+§§7–16 (pp. 4–9) How the present time is right for the proper development of
+this science, which until now has not been possible, leading to an inadequate
+formalism (Schelling).
+
+§§17–23 (pp. 9–13) A preliminary exposition of some of Hegel’s central
+doctrines, viz. that the true or absolute is not only substance, but also
+subject; and that it is a developing whole.
+§24 (pp. 13–14) Knowledge must therefore be systematic, to grasp this whole.
+§25 (p. 14) One way of putting these ideas is that the Absolute is Spirit.
+
+§§26–37 (pp. 14–22) In order to grasp these philosophical doctrines, ordinary consciousness requires a ladder to the standpoint of science; the development of this knowledge is what is outlined in this work, thereby reaching the level of conceptual thought.
+
+§§38–47 (pp. 22–28) This development requires the overcoming of false viewpoints on the way to the truth; but this is necessary for a proper grasp of the truth, at least in philosophy, which differs in this respect from history and mathematics.
+
+§§48–55 (pp. 28–34) The need to avoid schematizing formalism in the method of science.
+
+§§56–59 (pp. 34–36) How the method of this science needs to be speculative, in
+following the movement of its subject matter.
+§§60–66 (pp. 36–41) How this speculative approach views the relation between subjects and predicates, substances and attributes, in a dialectical manner.
+
+§67–70 (pp. 41–43) How philosophy differs from and relates to other ways of thinking, such as common sense.
+§§71–72 (pp. 44–45) Hegel’s hopes for the reception of the work.
+
+* Why Must Science Be Systematic?
+
+** Proper Science [$haplos\ epist\bar{e}m\bar{e}$; \textit{scientia propter quid}; \textit{eigentliche Wissenschaft}]
+  :PROPERTIES:
+  :CUSTOM_ID: proper-science-haplos-epistbarembare
+  :END:
+
+- Often translated as `knowledge' but not obviously `knowledge' in
+  contemporary English sense
+
+   - Occasionally /$epist\bar{e}m\bar{e}$/ is translated as
+     `understanding'
+   - Translate as `proper science' so as to distinguish it from
+     contemporary empirical science
+   - May best be understood as epistemic /ideal/
+   - Indicates sustained and systematic inquiry into some subject matter
+
+#+begin_quote
+what is most distinctive about Aristotle's conception of
+/$epist\bar{e}m\bar{e}$/ is his insistence that it involve a grasp not
+just of a single isolated proposition, but of the whole causal and
+inferential network of propositions that lie behind it...what he tells
+us here is that it is easy to make a contribution to
+/$epist\bar{e}m\bar{e}$/, but very hard to achieve the complete ideal.
+[cite:@pasnau2014 pp. 994-5]
+#+end_quote
+
+
+
+** Scholastic Aristotelian Science
+  :PROPERTIES:
+  :CUSTOM_ID: scholastic-aristotelian-science
+  :END:
+
+#+begin_quote
+  We suppose ourselves to possess unqualified scientific knowledge of a
+  thing, as opposed to knowing it in the accidental way in which the
+  sophist knows, when we think that we know the cause on which the fact
+  depends, as the cause of that fact and of no other, and, further, that
+  the fact could not be other than it is....The proper object of
+  unqualified scientific knowledge is something which cannot be other
+  than it is. (Aristotle, /Posterior Analytics/, I.2)
+#+end_quote
+
+
+- Proper science is:
+   - Demonstrative
+      - articulable in syllogistic form
+      - conclusion follows from premises necessarily
+   - Apodictically certain
+      + premises of syllogism are themselves certain
+      + a conclusion C follows from some premises A and B, if and only if
+        it is impossible for C to be false while A and B are both true and
+        known to be such
+   - Explanatory
+      + conclusion of demonstration provides knowledge why, not merely
+        knowledge that
+      + there is an asymmetric dependence relation between premises and
+        conclusion, such that the order of the premises displays their
+        priority with respect to the conclusion
+      + the fact indicated in conclusion is /caused/ by facts indicated in
+        the premises
+
+** Kant on Proper Science
+
+#+begin_quote
+  Every doctrine that is supposed to be a system, that is, a whole of
+  cognition ordered according to principles, is called a science. (MFNS:
+  4:467)
+#+end_quote
+
+- Science: :: A systematically organized body of cognitions
+
+- Proper science [/eigentliche Wissenschaft/]: :: body of cognitions
+  ordered by a principle or set of principles that --
+
+  
+1. organize the subject matter of the science as a whole and delineate
+   it from other subject matter
+2. ground with 'apodeictic' certainty the various cognitions that
+   constitute the subject matter of the science
+3. ground/explain the universal reach and necessary application of
+   claims made by the science
+
+** Kant's Architectonic
+
+#+begin_quote
+  I understand by a system, however, the unity of the manifold cognitions
+  under one idea. This is the rational concept of the form of a whole, insofar
+  as through this the domain of the manifold as well as the position of the
+  parts with respect to each other is determined a priori. The scientific
+  rational concept thus contains the end and the form of the whole that is
+  congruent with it. (A832/B860)
+#+end_quote
+
+- Proper science is organized according to an idea of a whole, which
+  demarcates science and provides the basis through which all of its parts are comprehended
+
+** Kant's Science of Nature -- General vs. Special Metaphysics
+- Science is either transcendental (critique) or natural (metaphysics of nature)
+- A metaphysics of nature, which "considers everything so far as it is,
+  on the basis of a priori concepts" (A845/B873), has two parts:
+   1. General metaphysics
+       - conditions of an object in general
+   2. Special metaphysics
+       - corporeal nature (physics)
+          - conditions of material objects
+       - thinking nature (psychology)
+          - conditions of mental objects
+
+
+- General (or Transcendental) metaphysics concerns nature in its
+  'material' sense, as the sum total of all appearances which stand in
+  lawful connection to one another
+- Special metaphysics is distinguished from General metaphysics in three
+  ways:
+   1. not entirely 'pure' --- it depends on empirical concepts (i.e.
+      <matter>, <mind>)
+   2. extends only to objects of a particular form of intuition
+      (e.g. space, time)
+   3. depends on the applicability of mathematics
+
+
+** References
+:PROPERTIES:
+:UNNUMBERED: t
+:END:
+
+#+print_bibliography:

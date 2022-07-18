@@ -1,0 +1,5 @@
+/.DS_Store
+output
+*.pid
+*.pyc
+.DS_Store

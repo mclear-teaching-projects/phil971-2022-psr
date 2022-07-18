@@ -1,0 +1,124 @@
+---
+# Instructor details
+instructor: Colin McLear
+course: PHIL 971
+time: "R 1:30-3:35 CST"
+location: "308 Louise Pound Hall"
+office: "315P Louse Pound Hall"
+hours: R 1-3 p.m. or by appointment
+phone: "(402) 472-2425"
+fax: "(402) 272-0626"
+email: <mclear@unl.edu>
+# Insert URLs without http://
+urls: '[phil971.colinmclear.net](http://phil971.colinmclear.net)'
+updated: true
+
+# Front matter
+title: 'The Principle of Sufficient Reason'
+
+quote: 
+- content: 'This rule for determining something with respect to its temporal sequence, however, is that in what precedes, the condition is to be encountered under which the occurrence always (i.e., necessarily) follows. Thus the principle of sufficient reason is the ground of possible experience, namely the objective cognition of appearances with regard to their relation in the successive series of time.'
+  title: '*Critique of Pure Reason*'
+  author: 'Immanuel Kant'
+
+# Sections
+overview: |
+  The “Principle of Sufficient Reason” (PSR) says that everything has an explanation, sufficient ground, or sufficient reason. The PSR plays a major role in the philosophical thinking of many Modern philosophers, either as a crucial guiding principle in theory construction, or as something to be wholly rejected. Its unrestricted application also famously leads to some rather surprising conclusions, such as necessitarianism and substance monism. In this seminar we will look at formulations and utilizations of the principle from the 17th century to the present, as well as justifications for and against its application. A central aim of the course will be to understand Kant’s articulation and criticism of the PSR, as well as his attempt at justifying a more limited application of it. Another, more general, aim is that of putting figures from the (early) Modern tradition in dialogue with one another, as well as with contemporary philosophical work. Other than Kant, the primary figures discussed will be Spinoza, Leibniz, and Schopenhauer, as well as contemporary work by philosophers such as Jonathan Bennett, Alex Pruss, Shamik Dasgupta, Sam Levey, and Michael Della Rocca. Other figures discussed may include Descartes, Hume, Jacobi, Fichte, and Hegel. Note that though a background in Modern philosophy is encouraged, it is not a requirement for the course.
+
+objectives:
+  - In completing this course students will (i) gain an understanding of the role that the PSR plays in the thought of a variety of philosophers in the Modern period; (ii) articulate the various problems and prospects offered by different formulations of the PSR; (iii) assess the ongoing viability (if any) that the PSR may still have.
+materials: |
+    There are no required books. All materials will be posted on the course
+    website.
+
+requirements:
+- prerequisite: 'Nine prior credit hours of philosophy, or good standing as a graduate student, are required to enroll in the course.'
+  preparation: 'You are expected to attend every class meeting fully prepared to discuss each assigned reading, to submit written work punctually, and to offer thoughtful and constructive responses to the remarks of your instructor and your classmates. Make sure that you bring the relevant readings with you to every lecture class. I further expect you to treat both the texts at hand and your classmates’ ideas with openness and respect.'
+  attendance: 'Attendance is required. You are also expected to attend every section meeting. 1/2 a letter grade will be deducted from your final course grade for every absence from section after your fifth.'
+  website: 'We will use a course website for all materials. The site address is: [phil971.colinmclear.net](http://phil971.colinmclear.net). Upcoming assignments and readings will be posted there. Please let me know if you have any problems. Technical glitches, computer malfunctions and crashing hard drives are not excuses for failing to complete work in this class.'
+  papers: 'Please submit work as a .docx or .rtf file. All work must be typed. I will not accept any handwritten work aside from that we do in class. Your papers should be in 12-point Times New Roman font, double-spaced with margins set to one inch on all sides. Your name, my name, the date and assignment should appear in the top left hand corner of the first page. Your last name and page number must appear in the top right hand corner on each subsequent page. Please staple or paperclip hard copies of papers and drafts. You are responsible for the presentation of your papers.'
+  late-work: 'Late papers and assignments will standardly be marked down by **1/3 of a letter grade for each day the work is late** (for example, from A- to B+, from B+ to B, and so on).'
+evaluation:
+- exam:
+    - title: |
+        Four Passage Analyses: 20%
+      description: |
+        Analyze and explain the point of a particular passage in plain language. 3-500 words. Passages will be provided.
+
+  essay:
+    - title: |
+        Essay: 35%
+      description: |
+        Explain and critically assess a philosophical argument. Topics will be
+        suggested. Paper will be due in *two* drafts. Approximately 15-20 pages
+        (3750-5000 words)
+
+  responses:
+    - title: |
+        Comment on student paper: 5%
+      description: |
+        Read and provide constructive comments on another student's term paper.
+
+  quiz:
+    - title: |
+        Weekly reading responses: 25%
+      description: |
+        Submit a weekly reading response of roughly 100-150 words (500 max) to the
+        course listserv via email on Wednesdays by 8pm. Your reading responses should
+        detail your observations and questions for week's assigned reading. The
+        responses should not be summaries. Move to delimit 1-2 major points or ideas
+        from the reading and discuss them. What do you find interesting or
+        compelling? What do you find logically or philosophically problematic?
+
+  participation:
+    - title: |
+        Participation: 15%
+      description: |
+        The participation grade takes into account your attendance in class as well
+        as the quantity and quality of your participation in discussion.
+policies:
+- integrity: 'All the work you turn in (including papers, drafts, and discussion board posts) must be written by you specifically for this course. It must originate with you in form and content with all contributory sources fully and specifically acknowledged. Make yourself familiar with UNL’s Student Code of Conduct and Academic Integrity Code, available online. **In this course, the normal penalty for any violation of the code is an “F” for the semester**. Violations may have additional consequences including expulsion from the university. Don’t plagiarize – It just isn’t worth it.'
+  university: 'This instructor respects and upholds University policies and regulations pertaining to the observation of religious holidays; assistance available to physically handicapped, visually and/or hearing impaired students; plagiarism; sexual harassment; and racial or ethnic discrimination. All students are advised to become familiar with the respective University regulations and are encouraged to bring any questions or concerns to the attention of the instructor.'
+  ada: 'The University strives to make all learning experiences as accessible as possible. If you anticipate or experience barriers based on your disability (including mental health, chronic or temporary medical conditions), please let me know immediately so that we can discuss options privately. To establish reasonable accommodations, I may request that you register with Services for Students with Disabilities (SSD). If you are eligible for services and register with their office, make arrangements with me as soon as possible to discuss your accommodations so they can be implemented in a timely manner.  SSD contact information:  117 Louise Pound Hall; 402-472-3787.'
+  counseling: 'UNL offers a variety of options to students to aid them in dealing with stress and adversity. [Counseling and Psychological & Services (CAPS)](https://caps.unl.edu/) is a multidisciplinary team of psychologists and counselors that works collaboratively with Nebraska students to help them explore their feelings and thoughts and learn helpful ways to improve their mental, psychological and emotional well-being when issues arise. CAPS can be reached by calling 402-472-7450. [Big Red Resilience & Well-Being (BRRWB)](https://resilience.unl.edu/home) provides one-on-one well-being coaching to any student who wants to enhance their well-being. Trained well-being coaches help students create and be grateful for positive experiences, practice resilience and self-compassion, and find support as they need it.  BRRWB can be reached by calling 402-472-8770.'
+  misc: 'Please turn off cell phones, beeping watches, and other gadgets that make noise before entering or beginning class. Absolutely no texting is permitted during class. I will subtract up to five points from your participation grade each and every time your phone rings or I see you texting during class.'
+resources:
+- jargon: 'It’s important to be on top of the technical terms used by philoso- phers. Please ask for clarification of terms in class. You can also consult Jim Pryor’s online “Philosophical Terms and Methods.”'
+  help: |
+    Papers should adhere to some consistent practice of footnoting and citation (Chicago, MLA, etc.). I don’t really mind which one you use as long as you are consistent. On writing a philosophy paper, there is no better on-line guide than Jim Pryor’s. Please [consult it](http://www.jimpryor.net/teaching/guidelines/writing.html). Hacker’s [A Writer’s Reference](https://www.amazon.com/Writers-Reference-Diana-Hacker-dp-1319057446/dp/1319057446/ref=dp_ob_title_bk) is also extremely helpful. Useful online writing help may be found at the Purdue Online Writing Lab at [http://owl.english.purdue.edu/owl/](http://owl.english.purdue.edu/owl/).
+
+    The UNL Writing Center can provide you with meaningful support as you write for this class as well as every course in which you enroll. Trained undergraduate and graduate peer consultants are available to talk with you about all forms of communication. You are welcome to bring in everything from lab reports, presentations, and research papers to cover letters, application essays, and graduate theses and dissertations. Writing Center Consultants can work with you at any stage of the writing process, from brainstorming and organizing your ideas through polishing a final draft.
+
+    In 2022-23, there are two ways you can connect with a Consultant: Online (a real-time, video conversation) and eTutoring (email feedback). To learn more about these options and view video tutorials, please visit our [Online Writing Services](https://www.unl.edu/writing/online-writing-center-services). You can sign up any time by visiting [unl.mywconline.com](unl.mywconline.com). For more information about the Writing Center, please visit [unl.edu/writing](unl.edu/writing).
+
+  reference: 'The Stanford Encyclopedia of Philosophy at [http://plato.stanford.edu](http://plato.stanford.edu) is an excellent online resource.'
+
+schedule: |
+    This is a tentative schedule only. Please check the course website for the
+    most up-to-date schedule.
+
+    - Week 1:  Overview
+    - Week 2:  Spinoza I
+    - Week 3:  Spinoza II
+    - Week 4:  Leibniz I
+    - Week 5:  Leibniz II
+    - Week 6:  Kant I: The PSR in Kant's *Nova Dilucidatio*
+    - Week 7:  Kant II: The PSR & Ontotheology (Guest: Dai Heide)
+    - Week 8:  Kant III: Temporal causality & the PSR
+    - Week 9:  Kant IV: Limits of the PSR (Guest: Karl Schafer)
+    - Week 10: Jacobi's Challenge (Guest: Jim Kreines)
+    - Week 11: Maimon & Acosmism
+    - Week 12: Schopenhauer I
+    - Week 13: Schopenhauer II
+    - Week 14: TBA (Guest: Fatema Amijee)
+    - Week 15: Taming the PSR? (Dasgupta v. MDR)
+               
+# Settings
+mainfont: Minion Pro
+sansfont: Optima
+fontsize: 11pt
+lang: en-US
+geometry: letterpaper, textwidth=6in, textheight=8.5in, marginparsep=7pt, marginparwidth=.6in
+header-color: \#6EBA81
+
+---

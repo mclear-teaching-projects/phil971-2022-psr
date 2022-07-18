@@ -1,0 +1,377 @@
+#+TITLE: PHIL 971 - The Principle of Sufficient Reason 
+#+DATE: July 8, 2022
+#+AUTHOR: Colin McLear
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport archive nohugo
+#+TODO: TODO NEXT | DONE CANCELED
+#+TODO: DRAFT | DONE CANCELED
+#+LANGUAGE: en
+#+LATEX_HEADER: \usepackage[English]{babel}
+#+OPTIONS: '":t
+
+* Course Outline
+:PROPERTIES:
+:EXPORT_TITLE: PHIL 971 Course Outline
+:EXPORT_OPTIONS: toc:nil
+:END:
+
+Readings marked with a "*" are optional, though they may nevertheless be discussed in class. 
+
+** Overview
+- Pre-modern fragments on PSR
+   + Plato: Philebus 26e; Timaeus 28a; Phaedo 99b
+   + Aristotle: Posterior Analytics 71b8-12
+   + Aquinas: Summa Contra gentiles 15.2
+- Descartes: /Meditations/ 3, 5
+   + First Reply, 7:108-12
+   + Second Reply, 7:160-69
+   + Fourth Objection, 7:206-14
+   + Fourth Reply, 7:235-45 
+     
+** Spinoza I: Substance & Explanation
+- Descartes: /Principles of Philosophy/, Part I, §51–64
+- Spinoza: /Ethics/ I
+- Della Rocca: /Spinoza/, ch. 2.
+- Melamed: "Spinoza on Causa Sui"^*
+ 
+** Spinoza II: The PSR & Varieties of Intelligibility
+- Spinoza: /Ethics/ II
+- Della Rocca: /Spinoza/, ch. 3.
+- Lin: “The Principle of Sufficient Reason in Spinoza”
+- Garrett: "Spinoza’s Necessitarianism"^*
+
+** Leibniz I: Truth & the PSR
+- Leibniz:
+   + "Meditations on Knowledge, Truth, and Ideas"
+   + "First Truths"
+   + “Discourse on Metaphysics,” §§1–13
+   + "Monadology", §§31-60
+   + Excerpts from the /Letters to Clarke/
+- Hume:
+   + /Dialogues Concerning Natural Religion/, §9
+   + /Enquiry Concerning Human understanding/, §4, part I
+- Della Rocca: “Violations of the Principle of Sufficient Reason (in Leibniz and Spinoza)”
+   
+** Leibniz II: Freedom & the PSR
+- Leibniz:
+   + "On Contingency"
+   + Excerpts from the /Letters to Arnauld/
+   + "On Freedom"
+- Adams: /Leibniz/, ch. 1
+- Lin: “Rationalism and Necessitarianism”^*
+
+** Kant I: The Pre-Critical Kant on the PSR
+- Crusius: /Sketch of the Necessary Truths of Reason/, §§1-48, 57-9, 62-84, 204-49
+- Kant: /New Elucidation of the First Principles of Metaphysical Cognition/, propositions I-XI
+
+** Kant II: The PSR & Ontotheology (Guest: Dai Heide)
+- Kant:
+   + /The Only Possible Argument in Support of a Demonstration of the Existence of God/, §1
+   + /Attempt to Introduce the Concept Ofnegative Magnitudes Into Philosophy/, §1
+- Heide: "Rationalism & Kant's Rejection of the Ontological Argument"
+- Stang: Excerpts from /Kant's Modal Metaphysics/
+   + "Real Predicates"
+   + "Real Conﬂict, Real Grounds, Real Possibility"
+   + "Is Existence a Real Predicate?"^*
+- Bader: "Real Predicates & Existential Judgments"^*
+
+** Kant III: The Temporal PSR
+- Kant:
+   + The Analogies of Pure Reason (focus on the 2nd)
+   + The Third Antinomy (excerpt)
+- Longuenesse: "Kant’s Deconstruction of the Principle of Sufficient Reason"
+- Watkins: /Kant and the Metaphysics of Causality/, ch. 3^*
+  
+** Kant IV: Limits to the PSR? (Guest: Karl Schafer)
+- Kant:
+   + Dialectic -- On pure reason as the seat of transcendental illusion
+   + Method -- The discipline of pure reason
+- Schafer: "Reason’s Supreme Principle, the Principle of Sufficient Reason, and the Faculty of Reason"
+     
+** Jacobi's Challenge (Guest: Jim Kreines)
+- Jacobi: /Letters on Spinoza/ (1st ed) pp. 179–203, 216–228, 233–4
+- Mendelssohn: /Morning Hours/, ch. 10, excerpt
+- Kreines, TBA
+
+** Acosmism (Guest: Nick Stang)
+- Maimon: /The Autobiography Of Solomon Maimon/, ch. 15 (excerpt)
+- Hegel:
+   + /Encyclopedia Logic/, §50, §151
+   + /Science of Logic/, ch. 1 - Being 
+   + /Lectures on the History of Philosophy/, 151-65
+- Melamed: "Salomon Maimon and the Rise of Spinozism in German Idealism"
+
+** Schopenhauer on the PSR
+- Schopenhauer: /The Fourfold Root of the Principle of Sufficient Reason/, §§1-16, 17-20, 23, 46-52
+
+** Limiting the PSR? Dasgupta v. MDR
+- Dasgupta: "Metaphysical Rationalism"
+- Della Rocca: "Tamers, deniers, and me"
+
+
+** Inquiry & the PSR (Guest: Fatema Amijee)
+- Kant: On the regulative use of the ideas of pure reason
+- Amijee: "Inquiry and Metaphysical Rationalism"
+
+** TBA
+* Class Notes
+
+* Website
+** Pages
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: ./
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :author false :toc false
+:END:
+*** Welcome!
+:PROPERTIES:
+:EXPORT_FILE_NAME: home
+:END:
+
+This is the homepage for *PHIL 971* – Kant & The Principle of Sufficient Reason
+
+The “Principle of Sufficient Reason” (PSR) says that everything has an explanation, sufficient ground, or sufficient reason. The PSR plays a major role in the philosophical thinking of many Modern philosophers, either as a crucial guiding principle in theory construction and the pursuit of scientific knowledge, or as something to be wholly rejected. Its unrestricted application also famously leads to some rather extreme conclusions, such as necessitarianism and substance monism. In this seminar we will look at formulations and utilizations of the principle from the 17th century to the present, as well as justifications for and against its application. A central aim of the course will be to understand Kant’s articulation and criticism of the PSR, as well as his attempt at justifying a more limited application of it. Another, more general, aim is that of putting figures from the (early) Modern tradition in dialogue with one another, as well as with contemporary philosophical work. Other than Kant, the primary figures discussed will be Spinoza, Leibniz, and Schopenhauer, as well as contemporary work by philosophers such as Jonathan Bennett, Alex Pruss, Shamik Dasgupta, Sam Levey, and Michael Della Rocca. Other figures discussed may include Descartes, Hume, Jacobi, Fichte, and Hegel. Note that though a background in Modern philosophy is encouraged, it is not a requirement for the course.
+
+\\
+  
+The course syllabus is available here: [[file:/materials/phil971-syllabus-psr.html][HTML]] | [[file:/materials/phil971-syllabus-psr.pdf][PDF]]
+
+*** Schedule
+:PROPERTIES:
+:EXPORT_FILE_NAME: schedule
+:EXPORT_HUGO_MENU: :menu main
+:END:
+
+This is a tentative schedule. Check the [[https://phil971.colinmclear.net/assignments][assignments]] page for the most current
+information.
+
+| *Date*  | *Meeting* | *Topic*                                                       | *Guest*   |
+|-------+---------+-------------------------------------------------------------+---------|
+| 8/25  |       1 | Overview; formulations of PSR; Descartes's Causal Principle |         |
+| 9/1   |       2 | Spinoza I                                                   |         |
+| 9/8   |       3 | Spinoza II                                                  |         |
+| 9/15  |       4 | Leibniz I                                                   |         |
+| 9/22  |       5 | Leibniz II                                                  | Heide   |
+| 9/29  |       6 | Kant I: The PSR & the Pre-critical Kant                     |         |
+| 10/6  |       7 | Kant II: Crusius & Kant on Real vs. Logical Grounds         |         |
+| 10/13 |       8 | Kant III: Kant & PSR I: Temporal causation                  |         |
+| 10/20 |       9 | Kant IV: Is there a limit?                                  | Schafer |
+| 10/27 |      10 | Jacobi: PSR & Nihilism                                      | Kreines |
+| 11/3  |      11 | Maimon: the problem of Acosmism                             | Stang   |
+| 11/10 |      12 | Schopenhauer I                                              |         |
+| 11/17 |      13 | Schopenhauer II                                             |         |
+| 11/24 |   Break |                                                             |         |
+| 12/1  |      14 | TBA                                                         | Amijee  |
+| 12/8  |      15 | Contemporary Rationalism (Dasgupta v MDR)                   |         |
+
+
+*** Resources
+:PROPERTIES:
+:EXPORT_FILE_NAME: resources :EXPORT_HUGO_MENU: :menu main
+:END:
+
+**** Philosophy Links
+- [[http://plato.stanford.edu][Stanford Encyclopedia of Philosophy]]
+- [[http://www.iep.utm.edu/][Internet Encyclopedia of Philosophy]]
+- [[http://philpapers.org][PhilPapers]]
+  
+**** Reading & Writing Philosophy
+- [[http://www.jimpryor.net/teaching/vocab/index.html][Philosophical Terms & Methods]]
+- [[http://www.jimpryor.net][Jim Pryor's]] guides to [[http://www.jimpryor.net/teaching/guidelines/reading.html][reading]] and [[http://www.jimpryor.net/teaching/guidelines/writing.html][writing]] philosophy
+- [[http://philosophy.hku.hk/think/][Critical Thinking]]
+- [[http://owl.english.purdue.edu/owl/][Purdue Online Writing Lab]] 
+- [[http://writingproject.fas.harvard.edu/files/hwp/files/philosophical_writing.pdf][A Guide to Philosophical Writing]]
+- [[https://www.dropbox.com/s/lyods0bt22x8u6l/ThesisOverview.pdf?dl=0][Writing a Thesis Statement]]
+- [[https://www.dropbox.com/s/eaggc570nfu6nqa/PaperStructure.pdf?dl=0][Philosophy Paper Structure]]
+
+**** Kant Related Links
+- [[http://kantpapers.org][KantPapers]]
+- [[http://www.manchester.edu/kant/Home/index.htm][Kant in the Classroom]] (Steve Naragon)
+- [[http://staffweb.hkbu.edu.hk/ppp/Kant.html][Kant on the Web]] (Steve Palmquist)
+- [[http://publish.uwo.ca/~cdyck5/UWOKRG/kantsbooks.html][Kant's Books]] (UWO Kant Research Group)
+- [[https://dspace.ut.ee/handle/10062/42108][Kants Handexemplar von Meiers Auszug aus der Vernunftlehre]] (University of Tartu)
+- [[https://www.philosophie.fb05.uni-mainz.de/forschungsstellen-und-weitere-einrichtungen/fs_kant/][Kant-Forschungsstelle]]
+- [[http://earlymoderntexts.com][Early Modern Philosophy Texts]]
+- [[https://korpora.zim.uni-duisburg-essen.de/Kant/verzeichnisse-gesamt.html][Kant Akademieausgabe (Courtesy of Universität Duisburg-Essen)]]
+- [[http://knb.mpiwg-berlin.mpg.de/kant/home][Database of Kant's concepts for a theory of nature]]
+
+**** Sources for online German texts
+- [[http://gso.gbv.de/DB=1.28/SET=1/TTL=1/][VD17]]
+- [[http://www.zvdd.de/startseite/][ZVDD]]
+- [[http://kvk.bibliothek.kit.edu/?digitalOnly=0&embedFulltitle=0&newTab=0][KVK]]
+- [[http://digital-beta.staatsbibliothek-berlin.de][Digitalisierte Sammlungen (Berlin)]]
+- [[https://www.deutsche-digitale-bibliothek.de][Deutsche Digitale Bibliothek]]
+
+
+**** PHIL 971 Listserv
+- The listserv name is phil971-2022
+- You can sign up for the listserv [[https://listserv.nebraska.edu/signup-anon][here]]
+
+*** Contact
+:PROPERTIES:
+:EXPORT_FILE_NAME: contact
+:EXPORT_HUGO_MENU: :menu main
+:END:
+
+Dr. Colin McLear\\
+Office: /315P Louise Pound Hall/ \\
+Office Hours: Th 10:00-12:00 and by appointment [[https://unl.zoom.us/j/94199866851][Via Zoom]] \\
+Email: [[mailto:mclear@unl.edu][mclear@unl.edu]]
+
+Email is the best way to reach me. I answer emails as soon as I can, but
+primarily only on /weekdays/. If you can’t meet with me during regularly scheduled
+office hours (via Zoom) just email me and suggest a few possible times that you might
+be free. 
+
+** Assignments
+:PROPERTIES:
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :author false :toc false :type post
+:EXPORT_HUGO_WEIGHT: -100
+:EXPORT_HUGO_SECTION: assignments
+:END:
+*** TODO Week 1 – Overview & Descartes on the PSR
+SCHEDULED: <2022-08-25 Thu> SCHEDULED:
+:PROPERTIES:
+:EXPORT_HUGO_TAGS: action agency causality metaphysics rationality substance
+:EXPORT_FILE_NAME: week1
+:END:
+
+This week we’ll go over the basic structure and themes of the course and then
+turn to sketching the various things one might mean by the moniker "sufficient
+reason". We'll briefly examine some pre-modern uses of the notion (though not under the moniker as such) before turning to a sustained discussion of the sense of the principle at work in Descartes's central arguments concerning God in the /Meditations/. 
+
+- [[/materials/handouts/1-psr-overview.pdf][Handout]] for week 1
+
+**** Readings
+- Pre-modern fragments on PSR
+   + Plato: Philebus 26e; Timaeus 28a; Phaedo 99b
+   + Aristotle: Posterior Analytics 71b8-12
+   + Aquinas: Summa Contra gentiles 15.2
+- Descartes: /Meditations/ 3, 5
+   + First Reply, 7:108-12
+   + Second Reply, 7:160-69
+   + Fourth Objection, 7:206-14
+   + Fourth Reply, 7:235-45 
+     
+
+*** TODO Spinoza I: Substance & Explanation
+- Descartes: /Principles of Philosophy/, Part I, §51–64
+- Spinoza: /Ethics/ I
+- Della Rocca: /Spinoza/, ch. 2.
+- Melamed: "Spinoza on Causa Sui"^*
+ 
+*** TODO Spinoza II: The PSR & Varieties of Intelligibility
+- Spinoza: /Ethics/ II
+- Della Rocca: /Spinoza/, ch. 3.
+- Lin: “The Principle of Sufficient Reason in Spinoza”
+- Garrett: "Spinoza’s Necessitarianism"^*
+
+*** TODO Leibniz I: Truth & the PSR
+- Leibniz:
+   + "Meditations on Knowledge, Truth, and Ideas"
+   + "First Truths"
+   + “Discourse on Metaphysics,” §§1–13
+   + "Monadology", §§31-60
+   + Excerpts from the /Letters to Clarke/
+- Hume:
+   + /Dialogues Concerning Natural Religion/, §9
+   + /Enquiry Concerning Human understanding/, §4, part I
+- Della Rocca: “Violations of the Principle of Sufficient Reason (in Leibniz and Spinoza)”
+   
+*** TODO Leibniz II: Freedom & the PSR
+- Leibniz:
+   + "On Contingency"
+   + Excerpts from the /Letters to Arnauld/
+   + "On Freedom"
+- Adams: /Leibniz/, ch. 1
+- Lin: “Rationalism and Necessitarianism”^*
+
+*** TODO Kant I: The Pre-Critical Kant on the PSR
+- Crusius: /Sketch of the Necessary Truths of Reason/, §§1-48, 57-9, 62-84, 204-49
+- Kant: /New Elucidation of the First Principles of Metaphysical Cognition/, propositions I-XI
+
+*** TODO Kant II: The PSR & Ontotheology (Guest: Dai Heide)
+- Kant:
+   + /The Only Possible Argument in Support of a Demonstration of the Existence of God/, §1
+   + /Attempt to Introduce the Concept Ofnegative Magnitudes Into Philosophy/, §1
+- Heide: "Rationalism & Kant's Rejection of the Ontological Argument"
+- Stang: Excerpts from /Kant's Modal Metaphysics/
+   + "Real Predicates"
+   + "Real Conﬂict, Real Grounds, Real Possibility"
+   + "Is Existence a Real Predicate?"^*
+- Bader: "Real Predicates & Existential Judgments"^*
+
+*** TODO Kant III: The Temporal PSR
+- Kant:
+   + The Analogies of Pure Reason (focus on the 2nd)
+   + The Third Antinomy (excerpt)
+- Longuenesse: "Kant’s Deconstruction of the Principle of Sufficient Reason"
+- Watkins: /Kant and the Metaphysics of Causality/, ch. 3^*
+  
+*** TODO Kant IV: Limits to the PSR? (Guest: Karl Schafer)
+- Kant:
+   + Dialectic -- On pure reason as the seat of transcendental illusion
+   + Method -- The discipline of pure reason
+- Schafer: "Reason’s Supreme Principle, the Principle of Sufficient Reason, and the Faculty of Reason"
+     *
+*** TODO Jacobi's Challenge (Guest: Jim Kreines)
+- Jacobi: /Letters on Spinoza/ (1st ed) pp. 179–203, 216–228, 233–4
+- Mendelssohn: /Morning Hours/, ch. 10, excerpt
+- Kreines, TBA
+
+*** TODO Acosmism
+- Maimon: /The Autobiography Of Solomon Maimon/, ch. 15 (excerpt)
+- Hegel:
+   + /Encyclopedia Logic/, §50, §151
+   + /Science of Logic/, ch. 1 - Being 
+   + /Lectures on the History of Philosophy/, 151-65
+- Melamed: "Salomon Maimon and the Rise of Spinozism in German Idealism"
+
+*** TODO Schopenhauer on the PSR
+- Schopenhauer: /The Fourfold Root of the Principle of Sufficient Reason/, §§1-16, 17-20, 23, 46-52
+
+*** TODO Limiting the PSR? Dasgupta v. MDR
+- Dasgupta: "Metaphysical Rationalism"
+- Della Rocca: "Tamers, deniers, and me"
+
+
+*** TODO Inquiry & the PSR (Guest: Fatema Amijee)
+- Kant: On the regulative use of the ideas of pure reason
+- Amijee: "Inquiry and Metaphysical Rationalism"
+
+
+** Course Notes
+:PROPERTIES:
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :author false :toc false :type post
+:EXPORT_HUGO_SECTION: notes
+:EXPORT_HUGO_PANDOC_CITATIONS: t
+:EXPORT_HUGO_PAIRED_SHORTCODES: %mdshortcode myshortcode
+:EXPORT_BIBLIOGRAPHY: /Users/roambot/Dropbox/Work/master.bib
+:EXPORT_HUGO_WEIGHT: 0
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :link-citations true
+:END:
+
+These are notes to supplement student reading. Their aim is to be introductory
+and to raise questions for discussion. 
+
+* Paper topics
+
+* Configuration :noexport:
+#+HUGO_BASE_DIR: ./ 
+#+STARTUP: nologdone
+#+OPTIONS: H:4 author:nil date:nil
+#+OPTIONS: prop:t preamble:nil
+#+PANDOC_METADATA: numbersections:t secnumdepth:4 
+#+PANDOC_METADATA: link-citations:t colorlinks:t toc:false 
+#+PANDOC_METADATA: "lhead:"
+#+PANDOC_METADATA: "mainfont:Optima"
+#+PANDOC_METADATA: spacing:singlespacing 
+#+PANDOC_METADATA: noindent: parskip:.85em
+#+PANDOC_OPTIONS: template:~/.pandoc/pandoc-templates/tufte.tex
+#+PANDOC_OPTIONS: standalone:t pdf-engine:xelatex  
+#+EXCLUDE_TAGS: notes scrap todo
+#+BIBLIOGRAPHY: ~/Dropbox/Work/bibfile.bib
+
+* COMMENT Local Variables :ARCHIVE:
+# Local Variables:
+# eval: (org-export-initial-scope 'subtree)
+# End:

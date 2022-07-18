@@ -1,0 +1,248 @@
+#+TITLE: The Metaphysical Deduction
+#+AUTHOR: PHIL 880
+
+
+* Configuration                                                                 :noexport:
+#+OPTIONS: H:4 prop:t
+#+OPTIONS: ':t
+#+LANGUAGE: en
+#+EXCLUDE_TAGS: noexport notes scrap todo
+#+pandoc-emphasis-pre: "-\t ('"{["
+#+pandoc-emphasis-post: "-\t\n .,:!?;'")}[]" 
+# [/emph/]
+#+BIBLIOGRAPHY: ~/Dropbox/Work/bibfile.bib
+#+LANGUAGE: en
+#+OPTIONS: ':t
+
+
+* Two Kinds of Logic
+
+- Pure General Logic: :: the science of the norms/rules/laws constitutive of thinking
+  (or judging) in general, which abstracts from any relation to an object whatsoever
+  (A55/B79)\sidenote[][-1in]{[Pure logic] contains the absolutely necessary rules
+  of thinking, without which no use of the understanding takes place, and it
+  therefore concerns these rules without regard to the difference of the objects to
+  which it may be directed...A \textbf{general} but \textbf{pure} logic therefore has
+  to do with strictly \emph{a priori} principles and is a \textbf{canon of the
+  understanding} and reason, but only in regard to what is formal in their use, be
+  the content what it may (empirical or transcendental). (A52-3/B76-7)}
+
+  - Abstracts from all /content/ (relation to an object) of
+    thought\footnote[][.1in]{As general logic it abstracts from all contents of
+    the cognition of the understanding and of the difference of its objects, and
+    has to do with nothing but the mere form of thinking. (A54/B78)}
+  - Purely "/formal/"
+
+- Transcendental Logic: :: the science of the norms/rules/laws constitutive of
+  thinking of an object in general, in whatever way the object might be given in intuition
+
+  - /Not/ purely formal; articulates the conditions on employing the concept
+    =<object>= in thinking of anything whatsoever[fn:1]
+  - Articulates the most general conditions for objective thought
+
+[fn:1] since every division presupposes a concept that is to be divided,
+       a still higher one must be given, and this is the concept of an
+       object in general (taken problematically, leaving undecided
+       whether it is something or nothing). (A290/B346)
+
+* The Metaphysical Deduction[fn:2] (§§9-12)
+
+- Function: :: mental activity by which different representations are
+  ordered under a common one[fn:3]
+
+[fn:2] In the *metaphysical deduction* the origin of the /a priori/
+       categories in general was established through their complete
+       coincidence with the universal logical functions of thinking, in
+       the *transcendental deduction*, however, their possibility as /a
+       priori/ cognitions of objects of an intuition in general was
+       exhibited. (B159)
+
+[fn:3] By a function, however, I understand the unity of the action of
+       ordering different representations under a common one...Now the
+       understanding can make no other use of these concepts than that
+       of judging by means of them... In every judgment there is a
+       concept that holds of many, and that among this many also
+       comprehends a given representation, which is then related
+       immediately to the object...All judgments are accordingly
+       functions of unity among our representations, since instead of an
+       immediate representation [viz., an intuition] a higher one, which
+       comprehends this and other representations under itself, is used
+       for the cognition of the object, and many possible cognitions are
+       thereby drawn together into one. (A68-9/B93-4)
+
+** The Forms of Judgment[fn:4]
+
+\includegraphics[height=65mm, width=120mm]{/Users/Roambot/Dropbox/Work/projects/phil871-kant-survey/static/materials/handouts/KantJudge.jpeg}
+
+- Every judgment yields a "unity" (i.e. a propositional form)
+  corresponding to the "moments" of the four types of judgment
+
+  - Every judgment takes one moment from each group
+
+    - Universal, affirmative, categorical and assertoric ('all crows are
+      black')
+    - Singular, negative, disjunctive and problematic ('that bird might
+      be neither a crow nor a raven')
+
+- Kant thinks that the 12 forms constitute the fundamental cognitive acts of the understanding 
+- Kant also assumes that the only possible employment of concepts is in judgment[fn:5]
+
+  - This is how the forms of judgment provide a 'clue' to nature of the
+    categories
+  - They only provide a 'clue' however, because the forms of judgment
+    are /formal/ and thus lack any relation to an object---they thus cannot
+    by themselves determine the content of the categories insofar as these are
+    supposed to be concepts of an /object/
+
+[fn:4] If we abstract from all content of a judgment in general, and
+       attend only to the mere form of the understanding in it, we find
+       that the function of thinking in that can be brought under four
+       titles, each of which contains under itself three moments"
+       (A70/B95).
+
+[fn:5] "the understanding can make no other use of...concepts than that
+       of judging by means of them. (A68/B93)
+
+** The Forms of Thought -- The 'Categories'
+
+- The categories provide a dual role --- they organize both intuition
+  and concepts[fn:6]
+
+  - The dual role of the categories plus their connection to the forms
+    of judgment yields (according to Kant) a determinate content---viz.
+    the precise list of categories Kant provides
+
+\includegraphics[height=71mm, width=90mm]{/Users/Roambot/Dropbox/Work/projects/phil871-kant-survey/static/materials/handouts/KantCats.jpeg}
+
+\newpage
+
+[fn:6] The same function that gives unity to the different
+       representations *in a judgment* also gives unity to the mere
+       synthesis of different representations *in an intuition*, which,
+       expressed generally, is called the pure concept of understanding.
+       The same understanding, therefore, and indeed by means of the
+       very same actions through which it brings the logical form of a
+       judgment into concepts by means of the analytical unity, also
+       brings a transcendental content into its representations by means
+       of the synthetic unity of the manifold in intuition in general,
+       on account of which they are called pure concepts of the
+       understanding that pertain to objects /a priori/; this can never be
+       accomplished by universal logic. (A79/B105)
+** Problems
+   :PROPERTIES:
+   :CUSTOM_ID: problems
+   :END:
+
+- Completeness: Kant presents his table of judgment as if it were
+  complete, but it seems ad hoc or arbitrary[fn:7]
+- Derivation: Kant claims that the all and only the categories may be
+  completely derived from the table of judgment but fails to give a precise
+  derivation
+  - Are the categories just /identical/ with the forms of judgment?[fn:8]
+
+[fn:7] This division is systematically generated from a common
+       principle, namely the faculty for judging (which is the same as
+       the faculty for thinking), and has not arisen rhapsodically from
+       a haphazard search for pure concepts, of the completeness of
+       which one could never be certain, since one would only infer it
+       through induction, without reflecting that in this way one would
+       never see why just these and not other concepts should inhabit
+       the pure understanding. (A80-1/B106-7)
+
+[fn:8] That action of the understanding...through which the manifold of given
+  representations (whether they be intuitions or concepts) is brought under an
+  apperception in general, is the logical function of judgments. ... But now the
+  categories are nothing other than these very functions for judging, insofar
+  as the manifold of a given intuition is determined with regard to them (TD
+  §20, B143; cf. TD §26, B159; Pr §39, 4:324)
+
+
+
+** On Synthesis (§10)
+
+- Synthesis is a form of mental /activity/; it is something the thinker /does/, not
+  something that merely /happens/ to (or in) the thinker
+  - Kant sometimes discusses synthesis as an 'act' (/Handlung/) but this should be
+    understood in terms of activity or actualization, and not as /intentional/ action;
+    we shouldn't confuse /acts/ of a thinker with /voluntary acts/ of a thinker[fn:9]
+- Synthesis relates representations by "running through" and "gathering
+  together" discrete representations into one combined and connected
+  whole (A99)
+  - Is synthesis a causal process?
+    - No? --- would seem to be incompatible with deterministic world
+    - Yes? --- realism about intentional states suggests that they have causal
+      powers, and that the causal features and interactions between such
+      states are what provide them with representational content and allow
+      them to track logical relationships\sidenote[][-1in]{It's not just that, in
+      a psychology of propositional attitudes, content and causal powers are
+      attributed to the same things. It's also that causal relations among
+      propositional attitudes somehow typically contrive to respect their
+      relations of content, and belief/desire explanations often turn on this.
+      Hamlet believed that somebody had killed his father because he believed
+      that Claudius had killed his father. His having the second belief
+      explains his having the first. How? Well, presumably via some such
+      causal generalization as 'if someone believes Fa, then ceteris paribus
+      he believes $\exists$x(Fx).' This generalization specifies a causal relation
+      between two kinds of mental states picked out by reference to (the
+      logical form of) the propositions they express...(Fodor 1987, 12)}
+- All cognition demands a synthesis of representation[fn:11]
+- Synthesis is carried out by the unitary subject of representation on
+  representations that are either given to it in sensibility
+  (i.e. intuition) or produced by it in thought (e.g. stipulative
+  conceptual definition)
+  - What Kant will attempt to show in the Deduction is that "experience"
+    (in some sense of that term) depends on synthesis via application of
+    the categories
+- Two kinds of synthesized representations
+  - Concepts
+    1. Combination of concepts in one judgment
+    2. Combination of simpler concepts into a more complex concept
+       (cf. A729/B757; Logik Pölitz 24:568)
+  - The 'manifold' of intuition (either in one intuition or many)
+    1. Combination of sensations in one intuition (?)
+       - This claim is controversial, as it suggests that intuition is
+         constructed via synthesis
+    2. Combination of intuitions into a complex intuition
+
+[fn:9] [synthesis] is a mere effect of the of the imagination, a blind
+       though indispensible function of the soul...of which we are only
+       seldom even conscious (A78/B103)
+
+[fn:10] It's not just that, in a psychology of propositional attitudes,
+       content and causal powers are attributed to the same things. It's
+       also that causal relations among propositional attitudes somehow
+       typically contrive to respect their relations of content, and
+       belief/desire explanations often turn on this. Hamlet believed
+       that somebody had killed his father because he believed that
+       Claudius had killed his father. His having the second belief
+       explains his having the first. How? Well, presumably via some
+       such causal generalization as 'if someone believes Fa, then
+       ceteris paribus he believes $\exists$x(Fx).' This generalization
+       specifies a causal relation between two kinds of mental states
+       picked out by reference to (the logical form of) the propositions
+       they express...(@fodor1987, 12)
+
+[fn:11] By synthesis in the most general sense, however, I understand
+        the action of putting different representations together with
+        each other and comprehending their manifoldness in one
+        cognition. Such a synthesis is pure if the manifold is given not
+        empirically but a priori (as is that in space and time)...The
+        synthesis of a manifold, however, (whether it be given
+        empirically or a prior) first brings forth a cognition, which to
+        be sure may initially still be raw and confused, and thus in
+        need of analysis; yet the synthesis alone is that which properly
+        collects the elements for cognitions and unifies them into a
+        certain content; it is therefore the first thing to which we
+        have to attend if we wish to judge about the first origin of our
+        cognition. (A77-8/B103)
+
+* References & Further Reading
+  :PROPERTIES:
+  :CUSTOM_ID: references-further-reading
+  :CLASS: unnumbered
+  :END:
+  #+nocite: @longuenesse1998; @longuenesse2006a; @fodor1987; @allison2004-ch6; @guyer2014; @pereboom2006; @reich1992; @nussbaum2008; @greenberg1994; @engstrom2018; @mclear2020c
+
+\setlength{\parindent}{-0.2in} \setlength{\leftskip}{0.2in}
+\setlength{\parskip}{8pt} \vspace*{-0.2in} \noindent
+

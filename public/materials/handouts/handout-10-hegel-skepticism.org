@@ -1,0 +1,207 @@
+
+#+STARTUP: fnadjust
+#+TITLE: Hegel & Skepticism
+#+DATE: PHIL 4/880\nbsp |\nbsp October 26, 2021
+#+AUTHOR: Colin McLear
+#+LATEX_COMPILER: xelatex
+#+BIBLIOGRAPHY: ~/Dropbox/Work/bibfile.bib
+#+EXCLUDE_TAGS: noexport notes scrap todo
+#+OPTIONS: ':t toc:nil  H:2
+#+OPTIONS: prop:nil
+#+cite_export: csl chicago-author-date-16th-edition.csl
+
+* Timeline
+
+- Georg Wilhelm Friedrich Hegel (1770-1831)
+   + 1801: On the Relationship of Skepticism to Philosophy
+   + 1807: The /Phenomenology of Spirit/
+   + The /Science of Logic/
+      - 1812: Doctrine of Being
+      - 1813: Doctrine of Essence
+      - 1816: Doctrine of the Concept
+   + 1817: The /Encyclopedia of Philosophical Sciences/
+   + 1821: /Elements of the Philosophy of Right/
+
+* Skepticism: Ancient vs. Modern
+
+- Hegel considers skepticism to come in two different forms, one connected with
+  antiquity, and the other more distinctively modern
+- Ancient skepticism is "one with philosophy" while modern skepticism is "degenerate"
+  and "self-sundered" (BKH 330)
+
+
+- Equipollence skepticism: :: the presentation of rationally opposing positions whose
+  evidence was equal, with the aim of suspending judgment or belief as to the what is
+  the case.
+- Dogmatic skepticism: :: The "dogmatic" commitment (or presupposition) of one or
+  more claims that render further philosophical inquiry impossible
+
+  
+- Why does Hegel think equipollence skepticism is "one" with philosophy?
+- In what sense in modern skepticism "degenerate" and why does Hegel say "that dogmatism and skepticism coincide with one another on the underside, and offer each other the hand of perfect friendship and fraternity" (BKH p. 330)?
+
+
+** The Problem of the Criterion
+
+- How do we rationally resolve disputes about what is true/known? We need a
+  "criterion" designating what counts as truth/warrant -- but how do we evaluate that?
+- The "Agrippan trilemma": 
+   1. (Brutely) Assume or posit something as the criterion
+   2. (Infinitely) Regress to some other criterion
+   3. (Circularly) Prove the criterion
+
+
+#+begin_quote
+  in order for the dispute that has arisen about standards to be decided, we must
+  possess an agreed standard through which we can judge it; and in order for us to
+  possess an agreed standard, the dispute about standards must already have been
+  decided. Thus the argument falls into the reciprocal mode [i.e. circular reasoning]
+  and the discovery of a standard is blocked - for we do not allow them to assume a
+  standard by hypothesis, and if they want to judge the standard by a standard we
+  throw them into an infinite regress. Again, since a proof needs a standard which
+  has been proved and a standard needs a proof which has been judged, they are thrown
+  into the reciprocal mode.[cite:@empiricus2000 p. 72]
+#+end_quote
+
+* Starting Points I: Against (External) Critique
+
+1. Hegel's criticism of treating faculty of cognition/knowledge as an "instrument" or "medium"
+
+   #+begin_quote
+     this fear [of error] presupposes something, and in fact presupposes a great
+     deal, as truth, and it bases its scruples and its conclusions on what itself
+     ought to be tested in advance as to whether or not it is the truth. This fear
+     presupposes representations of cognizing as an instrument and as a medium, and
+     it also presupposes a difference between our own selves and this cognition; but
+     above all it presupposes that the absolute stands on one side and that cognition
+     stands on the other for itself, and separated from the absolute, though
+     cognition is nevertheless something real; that is, it presupposes that
+     cognition, which, by being outside of the absolute, is indeed also outside of
+     the truth, is nevertheless truthful; an assumption through which that which
+     calls itself the fear of error gives itself away to be known rather as the fear
+     of truth. (PS 2:54, §74)
+   #+end_quote
+   
+2. Hegel's "swimming objection"
+
+   #+begin_quote
+     It is one of the main viewpoints of the /Critical/ philosophy that, prior to
+     setting about to acquire knowledge of God, the essence of things, etc., the
+     /faculty of knowing/ [/Erkenntnisvermögen/] itself would have to be examined ﬁrst in
+     order to see whether it is capable of achieving this; that one must first come
+     to know [/kennen lernen/] the /instrument/, before one undertakes the work that is
+     to be produced by means of it. For should the instrument be insufﬁcient, all the
+     effort would then have been expended in vain. This thought has seemed so
+     /plausible/ that it has elicited the greatest admiration and acclaim and drawn
+     knowing [/das Erkennen/] away from its interest in the /objects/ and work on them
+     and drawn it back to itself, i.e. to the formal aspect. If, however, we do not
+     delude ourselves with words, it is easy to see that other tools may very well be
+     examined and evaluated in ways other than undertaking the actual work for which
+     they are determined. But the examination of knowing [/die Untersuchung des
+     Erkennens/] cannot take place other than /by way of knowing/ [/als es erkennen/].
+     With this so-called instrument, examining it means nothing other than acquiring
+     knowledge of it. But to want to know /before/ one knows is as incoherent as the
+     Scholastic’s wise resolution to learn to /swim, before he ventured into the
+     water/. (EL §10)
+   #+end_quote
+
+   
+
+- Is Hegel's position a rejection of Kant's critical philosophical method?
+   + Recall here that "critique" consists in the examination and "discipline" of the
+     faculty of reason itself, to which Kant opposes "dogmatism", which "confidently
+     takes on the execution of this task [i.e. metaphysics] without an antecedent
+     examination of the capacity or incapacity of reason for such a great
+     undertaking" (B7). In contrast, Kant's "critique" of reason provides just such
+     an examination of reason's capacity to attain comprehension of metaphysical
+     truths. Such a critique will lead to a "discipline" of reason's reach -- of what
+     can be adequately reasoned about, or "comprehended". As Kant puts it,
+     
+    #+begin_quote
+      [T]hat reason, which is properly obliged to prescribe its discipline for all
+      other endeavours, should have need of one itself, may certainly seem strange, and
+      in fact reason has previously escaped such a humiliation only because, given the
+      pomp and the serious mien with which it appears, no one could easily come to
+      suspect it of frivolously playing with fancies instead of concepts[,] and words
+      instead of things. (A710/B738; see also A738/B766)
+    #+end_quote
+
+
+
+* Starting Points II: The Dialectic of Consciousness
+
+Hegel's three claims:
+
+1. Natural consciousness is dialectical
+
+   #+begin_quote
+     the exposition of non-truthful consciousness in its untruth is not a merely
+     /negative/ movement. Such a one-sided view is what natural consciousness generally
+     has of it; and a knowing which makes this one-sidedness into its essence is one
+     of the shapes of incomplete consciousness which lies within the course of the
+     path itself and which will serve itself up in that path. That is, such a
+     one-sided view is the skepticism which sees in the result always only /pure
+     nothing/ and which abstracts from the fact that this nothing is determinately the
+     nothing /of that from which it results/. However, only when taken as the nothing
+     of that from which it emerges is the nothing in fact the true result; thus it is
+     itself a /determinate/ nothing and it has a /content/. Skepticism which ends with
+     the abstraction of nothingness or emptiness cannot progress any further from
+     this point, but must instead wait to see whether something new will present
+     itself and what it will be, in order that it can also toss it into the same
+     empty abyss. By contrast, while the result is grasped as it is in truth, as
+     /determinate/ negation, a new form has thereby immediately arisen, and in the
+     negation, the transition is made whereby the progression through the complete
+     series of shapes comes about on its own accord. (PS 2:57, §79)
+   #+end_quote
+
+2. There are a succession of different forms or shapes of consciousness
+
+   #+begin_quote
+     because this exposition has for its object only knowing as it appears, it does
+     not itself seem to be the science which is free and self-moving within its own
+     proper shape, but from this standpoint can instead be taken to be the path of
+     natural consciousness pressing forward towards true knowing, or it can be taken
+     to be the path of the soul wandering through the series of ways it takes shape,
+     as if these were stations put forward in advance to it by its own nature, so
+     that it purifies itself into spirit by arriving at a cognition of what it is in
+     itself through the complete experience of its own self. (PS 2:55, §77)
+   #+end_quote
+ 
+3. There is a terminus to the succession of different shapes of consciousness in
+   "absolute knowing' 
+
+   #+begin_quote
+     Natural consciousness will prove to be only the concept of knowing, or it will
+     prove to be not real knowing. But while it immediately regards itself rather as
+     real knowing, this path has negative meaning for it, and what is the realization
+     of the concept will count instead, to it, as the loss of itself, for on this
+     path, it loses its truth. This path can accordingly be regarded as the path of
+     /doubt/, or, more properly, as the path of despair; on this path, what happens is
+     not what is customarily understood as doubt, a shaking of this or that supposed
+     truth, followed by the disappearance again of the doubt, and then a return to
+     the former truth so that in the end the thing at issue is taken as it was
+     before. Rather, this path is the conscious insight into the untruth of knowing
+     as it appears, a knowing for which that which is the most real is rather in
+     truth only the unrealized concept. ... The series of the figurations of
+     consciousness which consciousness traverses on this path is the full history of
+     the /cultivation/ of consciousness itself into science. (PS 2:56, §78)
+   #+end_quote
+
+
+
+- What does it mean to say natural consciousness is dialectical?
+- How does one form of consciousness succeed another?
+- In what way(s) if any is this position different/superior to that of Schelling?
+- How does this dialectical process resolve the problem of the criterion?
+
+* References
+:PROPERTIES:
+:UNNUMBERED: t
+:END:
+
+
+\setlength{\parindent}{-0.2in} \setlength{\leftskip}{0.2in}
+\setlength{\parskip}{8pt} \vspace*{-0.2in} \noindent
+
+#+print_bibliography:
+
