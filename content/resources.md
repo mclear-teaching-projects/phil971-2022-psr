@@ -3,9 +3,10 @@ title = "Resources"
 draft = false
 author = false
 toc = false
-[menu.main]
-  weight = 3004
-  identifier = "resources"
+[menu]
+  [menu.main]
+    weight = 3003
+    identifier = "resources"
 +++
 
 ## Philosophy Links {#philosophy-links}
@@ -15,13 +16,13 @@ toc = false
 -   [PhilPapers](http://philpapers.org)
 
 
-## Reading & Writing Philosophy {#reading-and-writing-philosophy}
+## Reading &amp; Writing Philosophy {#reading-and-writing-philosophy}
 
--   [Philosophical Terms & Methods](http://www.jimpryor.net/teaching/vocab/index.html)
+-   [Philosophical Terms &amp; Methods](http://www.jimpryor.net/teaching/vocab/index.html)
 -   [Jim Pryor's](http://www.jimpryor.net) guides to [reading](http://www.jimpryor.net/teaching/guidelines/reading.html) and [writing](http://www.jimpryor.net/teaching/guidelines/writing.html) philosophy
 -   [Critical Thinking](http://philosophy.hku.hk/think/)
 -   [Purdue Online Writing Lab](http://owl.english.purdue.edu/owl/)
--   [A Guide to Philosophical Writing](http://writingproject.fas.harvard.edu/files/hwp/files/philosophical%5Fwriting.pdf)
+-   [A Guide to Philosophical Writing](http://writingproject.fas.harvard.edu/files/hwp/files/philosophical_writing.pdf)
 -   [Writing a Thesis Statement](https://www.dropbox.com/s/lyods0bt22x8u6l/ThesisOverview.pdf?dl=0)
 -   [Philosophy Paper Structure](https://www.dropbox.com/s/eaggc570nfu6nqa/PaperStructure.pdf?dl=0)
 
@@ -33,13 +34,13 @@ toc = false
 -   [Kant on the Web](http://staffweb.hkbu.edu.hk/ppp/Kant.html) (Steve Palmquist)
 -   [Kant's Books](http://publish.uwo.ca/~cdyck5/UWOKRG/kantsbooks.html) (UWO Kant Research Group)
 -   [Kants Handexemplar von Meiers Auszug aus der Vernunftlehre](https://dspace.ut.ee/handle/10062/42108) (University of Tartu)
--   [Kant-Forschungsstelle](https://www.philosophie.fb05.uni-mainz.de/forschungsstellen-und-weitere-einrichtungen/fs%5Fkant/)
+-   [Kant-Forschungsstelle](https://www.philosophie.fb05.uni-mainz.de/forschungsstellen-und-weitere-einrichtungen/fs_kant/)
 -   [Early Modern Philosophy Texts](http://earlymoderntexts.com)
 -   [Kant Akademieausgabe (Courtesy of Universität Duisburg-Essen)](https://korpora.zim.uni-duisburg-essen.de/Kant/verzeichnisse-gesamt.html)
 -   [Database of Kant's concepts for a theory of nature](http://knb.mpiwg-berlin.mpg.de/kant/home)
 
 
-## Sources for online German texts {#sources-for-online-german-texts}
+## Sources for Online German Texts {#sources-for-online-german-texts}
 
 -   [VD17](http://gso.gbv.de/DB=1.28/SET=1/TTL=1/)
 -   [ZVDD](http://www.zvdd.de/startseite/)
