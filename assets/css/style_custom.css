@@ -2,7 +2,7 @@
 /* @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap'); */
 
 #banner {
-    padding: 85px 0;
+    padding: 55px 0;
 }
 
 
@@ -215,6 +215,21 @@ nav > ul > li {
 /* avoid padding for page title on the simple content pages */
 header.hat {
     padding: 0px;
+}
+
+
+/* Navbar */
+/* align */
+.navbar-title {
+    vertical-align: baseline;
+}
+/* pad correctly  */
+.navbar-brand {
+    padding: 15px;
+    vertical-align: baseline;
+}
+.navbar-brand-img {
+    padding: 0;
 }
 
 /* Navbar colors */
