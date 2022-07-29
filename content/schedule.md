@@ -18,8 +18,8 @@ information.
 | 9/1      | 2           | Spinoza I                                                   |           |
 | 9/8      | 3           | Spinoza II                                                  |           |
 | 9/15     | 4           | Leibniz I                                                   |           |
-| 9/22     | 5           | Leibniz II                                                  | Heide     |
-| 9/29     | 6           | Kant I: The PSR &amp; the Pre-critical Kant                 |           |
+| 9/22     | 5           | Leibniz II                                                  |           |
+| 9/29     | 6           | Kant I: The PSR &amp; the Pre-critical Kant                 | Heide     |
 | 10/6     | 7           | Kant II: Crusius &amp; Kant on Real vs. Logical Grounds     |           |
 | 10/13    | 8           | Kant III: Kant &amp; PSR I: Temporal causation              |           |
 | 10/20    | 9           | Kant IV: Is there a limit?                                  | Schafer   |

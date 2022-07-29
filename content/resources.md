@@ -5,7 +5,7 @@ author = false
 toc = false
 [menu]
   [menu.main]
-    weight = 3003
+    weight = 3004
     identifier = "resources"
 +++
 
