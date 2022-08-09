@@ -121,7 +121,7 @@ be free.
 :EXPORT_HUGO_SECTION: assignments
 :END:
 *** DONE Week 1 – Varieties of PSR
-    SCHEDULED: <2022-08-22 Mon>
+    SCHEDULED: <2022-08-25 Thu>
    :PROPERTIES:
    :EXPORT_HUGO_TAGS:  aristotle aquinas causality descartes explanation psr parmenides plato
    :EXPORT_FILE_NAME: week1

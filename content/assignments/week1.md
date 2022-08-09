@@ -1,6 +1,6 @@
 +++
 title = "Week 1 – Varieties of PSR"
-publishDate = 2022-08-22T00:00:00-04:00
+publishDate = 2022-08-25T00:00:00-04:00
 tags = ["aristotle", "aquinas", "causality", "descartes", "explanation", "psr", "parmenides", "plato"]
 draft = false
 weight = -100
