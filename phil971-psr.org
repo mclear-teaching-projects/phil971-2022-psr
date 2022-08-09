@@ -37,24 +37,24 @@ The course syllabus is available here: [[file:/materials/phil971-syllabus-psr.ht
 This is a tentative schedule. Check the [[https://phil971.colinmclear.net/assignments][assignments]] page for the most current
 information.
 
-| *Date*  | *Meeting* | *Topic*                                                       | *Guest*   |
-|-------+---------+-------------------------------------------------------------+---------|
-| 8/25  |       1 | Overview; formulations of PSR; Descartes's Causal Principle |         |
-| 9/1   |       2 | Spinoza I                                                   |         |
-| 9/8   |       3 | Spinoza II                                                  |         |
-| 9/15  |       4 | Leibniz I                                                   |         |
-| 9/22  |       5 | Leibniz II                                                  |         |
-| 9/29  |       6 | Kant I: The PSR & the Pre-critical Kant                     |         |
-| 10/6  |       7 | Kant II: Crusius & Kant on Real vs. Logical Grounds         | Heide   |
-| 10/13 |       8 | Kant III: Temporal causation                                |         |
-| 10/20 |       9 | Kant IV: Is there a limit to the PSR?                       | Schafer |
-| 10/27 |      10 | Jacobi: PSR & Nihilism                                      | Kreines |
-| 11/3  |      11 | Maimon: the problem of Acosmism                             | Stang   |
-| 11/10 |      12 | Schopenhauer I                                              |         |
-| 11/17 |      13 | Contemporary Rationalism (Dasgupta v MDR)                   |         |
-| 11/24 |   Break |                                                             |         |
-| 12/1  |      14 | Inquiry & Explanation                                       | Amijee  |
-| 12/8  |      15 | TBA                                                         |         |
+| *Date*  | *Meeting* | *Topic*                                                                    | *Guest*   |
+|-------+---------+--------------------------------------------------------------------------+---------|
+| 8/25  |       1 | Overview; formulations of PSR in Antiquity; Descartes's Causal Principle |         |
+| 9/1   |       2 | Spinoza I                                                                |         |
+| 9/8   |       3 | Spinoza II                                                               |         |
+| 9/15  |       4 | Leibniz I                                                                |         |
+| 9/22  |       5 | Leibniz II                                                               |         |
+| 9/29  |       6 | Kant I: The PSR & the Pre-critical Kant                                  |         |
+| 10/6  |       7 | Kant II: Crusius & Kant on Real vs. Logical Grounds                      | Heide   |
+| 10/13 |       8 | Kant III: Temporal causation                                             |         |
+| 10/20 |       9 | Kant IV: Is there a limit to the PSR?                                    | Schafer |
+| 10/27 |      10 | Jacobi: PSR & Nihilism                                                   | Kreines |
+| 11/3  |      11 | Maimon: the problem of Acosmism                                          | Stang   |
+| 11/10 |      12 | Schopenhauer on the PSR                                                  |         |
+| 11/17 |      13 | Contemporary Rationalism (Dasgupta v MDR)                                |         |
+| 11/24 |   Break |                                                                          |         |
+| 12/1  |      14 | Inquiry & Explanation                                                    | Amijee  |
+| 12/8  |      15 | TBA                                                                      |         |
 
 
 *** Resources
