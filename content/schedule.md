@@ -5,7 +5,7 @@ author = false
 toc = false
 [menu]
   [menu.main]
-    weight = 3003
+    weight = 3002
     identifier = "schedule"
 +++
 
@@ -20,7 +20,7 @@ information.
 | 9/15     | 4           | Leibniz I                                                                |           |
 | 9/22     | 5           | Leibniz II                                                               |           |
 | 9/29     | 6           | Kant I: The PSR &amp; the Pre-critical Kant                              |           |
-| 10/6     | 7           | Kant II: Crusius &amp; Kant on Real vs. Logical Grounds                  | Heide     |
+| 10/6     | 7           | Kant II: God, Existence, &amp; Real Possibility                          | Heide     |
 | 10/13    | 8           | Kant III: Temporal causation                                             |           |
 | 10/20    | 9           | Kant IV: Is there a limit to the PSR?                                    | Schafer   |
 | 10/27    | 10          | Jacobi: PSR &amp; Nihilism                                               | Kreines   |
