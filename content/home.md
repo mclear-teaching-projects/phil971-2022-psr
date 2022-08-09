@@ -11,4 +11,4 @@ The “Principle of Sufficient Reason” (PSR) says that everything has an expla
 
 <br />
 
-The course syllabus is available here: [HTML](/materials/phil971-syllabus-psr.html) | [PDF](/materials/phil971-syllabus-psr.pdf)
+The course syllabus is available here: [HTML](/materials/phil971-psr-syllabus.html) | [PDF](/materials/phil971-psr-syllabus.pdf)
