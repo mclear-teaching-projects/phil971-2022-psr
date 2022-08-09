@@ -120,33 +120,38 @@ be free.
 :EXPORT_HUGO_WEIGHT: -100
 :EXPORT_HUGO_SECTION: assignments
 :END:
-*** TODO Week 1 – Overview & Descartes on the PSR
-SCHEDULED: <2022-08-25 Thu>
-:PROPERTIES:
-:EXPORT_HUGO_TAGS: action agency causality metaphysics rationality substance
-:EXPORT_FILE_NAME: week1
-:END:
+*** DONE Week 1 – Varieties of PSR
+    SCHEDULED: <2022-08-22 Mon>
+   :PROPERTIES:
+   :EXPORT_HUGO_TAGS:  aristotle aquinas causality descartes explanation psr parmenides plato
+   :EXPORT_FILE_NAME: week1
+   :END:
 
-This week we’ll go over the basic structure and themes of the course and then
-turn to sketching the various things one might mean by the moniker "sufficient
-reason". We'll briefly examine some pre-modern uses of the notion (though not
-under that moniker as such) before turning to a sustained discussion of the sense
-of the principle at work in Descartes's central arguments concerning God in the
-/Meditations/.
-
-# - [[/materials/handouts/1-psr-overview.pdf][Handout]] for week 1
+Welcome to PHIL 971! This week we'll discuss the structure and expectations for
+the course, as well as work through some preliminary material regarding
+different ways of thinking about metaphysical laws that might deserve the name
+"principle of sufficient reason". We'll be asking about whether or not it is
+right to think that there is /one/ canonical principle of sufficient reason, as
+well as how notions of reason relate to those of ground, cause, explanation, and
+intelligibility. We'll briefly examine some pre-modern uses of the notion
+(though not under that moniker as such) before turning to a sustained discussion
+of the sense of the principle at work in Descartes's central arguments
+concerning God in the /Meditations/.
 
 **** Readings
-- Pre-modern fragments on PSR
-   + Plato: Philebus 26e; Timaeus 28a; Phaedo 99b
-   + Aristotle: Posterior Analytics 71b8-12
-   + Aquinas: Summa Contra gentiles 15.2
-- Descartes: /Meditations/ 3, 5
-   + First Reply, 7:108-12
-   + Second Reply, 7:160-69
-   + Fourth Objection, 7:206-14
-   + Fourth Reply, 7:235-45 
++ Pre-modern fragments on PSR
+   + Parmenides: [[file:static/materials/readings/parmenides-1-8.pdf][Fragments 1-8]]
+   + Plato: [[file:static/materials/readings/plato-phaedo-x.pdf][Phaedo 99b]]; [[file:static/materials/readings/plato-philebus-x.pdf][Philebus 26e]]; [[file:static/materials/readings/plato-timaeus-x.pdf][Timaeus 28a]]
+   + Aristotle: [[file:static/materials/readings/aristotle-pa-ii.pdf][Posterior Analytics 71b8-12]]; [[file:static/materials/readings/aristotle-physics-ii.pdf][Physics 194b16-23]]
+   + Aquinas: [[file:static/materials/readings/aquinas-scg-ii-15.pdf][Summa Contra Gentiles II.15]]
++ Descartes: [[file:static/materials/readings/descartes-med-or.pdf][/Meditations/, excerpts]]
+   - M3, M5
+   - First Reply, 7:108-12
+   - Second Reply, 7:160-69
+   - Fourth Objection, 7:206-14
+   - Fourth Reply, 7:235-45 
      
+
 
 *** TODO Spinoza I: Substance & Explanation
 - Descartes: /Principles of Philosophy/, Part I, §51–64
@@ -249,6 +254,29 @@ These are notes to supplement student reading. Their aim is to be introductory
 and to raise questions for discussion. 
 
 * Class Notes
+  :PROPERTIES:
+  :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :author false :type post
+  :EXPORT_HUGO_SECTION: notes
+  :EXPORT_HUGO_PANDOC_CITATIONS: nil
+  :EXPORT_HUGO_PAIRED_SHORTCODES: %mdshortcode myshortcode
+  :EXPORT_HUGO_WEIGHT: 0
+  :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc false :link-citations true
+  :END:
+
+** Forms of The PSR
+   SCHEDULED: <2022-08-22 Mon>
+  :PROPERTIES:
+  :EXPORT_HUGO_TAGS: aristotle aquinas causality descartes explanation psr parmenides plato
+  :EXPORT_FILE_NAME: forms-of-psr
+  :EXPORT_DATE: August 25, 2022
+  :EXPORT_OPTIONS: author:t num:t
+  :EXPORT_AUTHOR: PHIL 971
+  :ID:       20220805T113802.074879
+  :END:
+
+In this set of notes I discuss the origins of the PSR in Greek Antiquity, its development by Aquinas, and applications of it by Descartes. A central aim is to show different senses of the principle as well as its roots in explanation and theory generation.
+
+
 
 * Paper topics
 
@@ -268,7 +296,4 @@ and to raise questions for discussion.
 #+EXCLUDE_TAGS: notes scrap todo
 #+BIBLIOGRAPHY: ~/Dropbox/Work/bibfile.bib
 
-* COMMENT Local Variables :ARCHIVE:
-# Local Variables:
-# eval: (org-export-initial-scope 'subtree)
-# End:
+
