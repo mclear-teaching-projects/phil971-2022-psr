@@ -2,10 +2,10 @@
 # Instructor details
 instructor: Colin McLear
 course: PHIL 971
-time: "R 1:30-3:35 CST"
+time: "R 1:30-3:35 CDT"
 location: "308 Louise Pound Hall"
 office: "315P Louse Pound Hall"
-hours: R 1-3 p.m. or by appointment
+hours: R 10am-12pm or by appointment
 phone: "(402) 472-2425"
 fax: "(402) 272-0626"
 email: <mclear@unl.edu>
@@ -34,7 +34,7 @@ materials: |
 requirements:
 - prerequisite: 'Nine prior credit hours of philosophy, or good standing as a graduate student, are required to enroll in the course.'
   preparation: 'You are expected to attend every class meeting fully prepared to discuss each assigned reading, to submit written work punctually, and to offer thoughtful and constructive responses to the remarks of your instructor and your classmates. Make sure that you bring the relevant readings with you to every lecture class. I further expect you to treat both the texts at hand and your classmates’ ideas with openness and respect.'
-  attendance: 'Attendance is required. You are also expected to attend every section meeting. 1/2 a letter grade will be deducted from your final course grade for every absence from section after your fifth.'
+  attendance: 'Attendance is required. Should you be unable to attend please discuss what you have missed with me. Repeated unexcused absences will result in a failing grade.'
   website: 'We will use a course website for all materials. The site address is: [phil971.colinmclear.net](http://phil971.colinmclear.net). Upcoming assignments and readings will be posted there. Please let me know if you have any problems. Technical glitches, computer malfunctions and crashing hard drives are not excuses for failing to complete work in this class.'
   papers: 'Please submit work as a .docx or .rtf file. All work must be typed. I will not accept any handwritten work aside from that we do in class. Your papers should be in 12-point Times New Roman font, double-spaced with margins set to one inch on all sides. Your name, my name, the date and assignment should appear in the top left hand corner of the first page. Your last name and page number must appear in the top right hand corner on each subsequent page. Please staple or paperclip hard copies of papers and drafts. You are responsible for the presentation of your papers.'
   late-work: 'Late papers and assignments will standardly be marked down by **1/3 of a letter grade for each day the work is late** (for example, from A- to B+, from B+ to B, and so on).'
@@ -63,12 +63,13 @@ evaluation:
     - title: |
         Weekly reading responses: 25%
       description: |
-        Submit a weekly reading response of roughly 100-150 words (500 max) to the
-        course listserv via email on Wednesdays by 8pm. Your reading responses should
-        detail your observations and questions for week's assigned reading. The
-        responses should not be summaries. Move to delimit 1-2 major points or ideas
-        from the reading and discuss them. What do you find interesting or
-        compelling? What do you find logically or philosophically problematic?
+        Submit a weekly reading response of roughly 100-150 words (500 max) on
+        the assignments page of the course website on Wednesdays by 8pm. Your
+        reading responses should detail your observations and questions for
+        week's assigned reading. The responses should not be summaries. Move to
+        delimit 1-2 major points or ideas from the reading and discuss them.
+        What do you find interesting or compelling? What do you find logically
+        or philosophically problematic?
 
   participation:
     - title: |
@@ -107,11 +108,11 @@ schedule: |
     - Week 8:  Kant III: Temporal causality & the PSR
     - Week 9:  Kant IV: Limits of the PSR (Guest: Karl Schafer)
     - Week 10: Jacobi's Challenge (Guest: Jim Kreines)
-    - Week 11: Maimon & Acosmism
-    - Week 12: Schopenhauer I
-    - Week 13: Schopenhauer II
-    - Week 14: TBA (Guest: Fatema Amijee)
-    - Week 15: Taming the PSR? (Dasgupta v. MDR)
+    - Week 11: Maimon & Acosmism (Guest: Nick Stang)
+    - Week 12: Schopenhauer
+    - Week 13: Taming the PSR? (Dasgupta v. MDR)
+    - Week 14: Inquiry & Explanation (Guest: Fatema Amijee)
+    - Week 15: TBA
                
 # Settings
 mainfont: Minion Pro
@@ -119,6 +120,6 @@ sansfont: Optima
 fontsize: 11pt
 lang: en-US
 geometry: letterpaper, textwidth=6in, textheight=8.5in, marginparsep=7pt, marginparwidth=.6in
-header-color: \#6EBA81
+header-color: \#daa520
 
 ---
