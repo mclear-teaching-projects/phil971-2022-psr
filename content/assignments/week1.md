@@ -20,6 +20,10 @@ intelligibility. We'll briefly examine some pre-modern uses of the notion
 of the sense of the principle at work in Descartes's central arguments
 concerning God in the _Meditations_.
 
+-   [Discussion thread](https://discord.com/channels/1006739669842673674/1006739802193920061)
+-   Notes (coming soon)
+-   Handout (coming soon)
+
 
 ## Readings {#readings}
 
@@ -34,3 +38,10 @@ concerning God in the _Meditations_.
     -   Second Reply, 7:160-69
     -   Fourth Objection, 7:206-14
     -   Fourth Reply, 7:235-45
+
+
+## Recommended {#recommended}
+
+-   [SEP entry on the PSR](https://plato.stanford.edu/entries/sufficient-reason/)
+-   Della Rocca, _The Parmenidean Ascent_, [ch. 1](/materials/readings/dellarocca-ch1.pdf)
+-   Schmaltz, _Descartes on Causation_, [chs. 1-2](/materials/readings/schmaltz-chs1-2.pdf)

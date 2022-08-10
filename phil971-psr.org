@@ -138,6 +138,10 @@ intelligibility. We'll briefly examine some pre-modern uses of the notion
 of the sense of the principle at work in Descartes's central arguments
 concerning God in the /Meditations/.
 
+- [[https://discord.com/channels/1006739669842673674/1006739802193920061][Discussion thread]] 
+- Notes (coming soon)
+- Handout (coming soon)
+
 **** Readings
 + Pre-modern fragments on PSR
    + Parmenides: [[file:static/materials/readings/parmenides-1-8.pdf][Fragments 1-8]]
@@ -151,7 +155,10 @@ concerning God in the /Meditations/.
    - Fourth Objection, 7:206-14
    - Fourth Reply, 7:235-45 
      
-
+**** Recommended
+- [[https://plato.stanford.edu/entries/sufficient-reason/][SEP entry on the PSR]]
+- Della Rocca, /The Parmenidean Ascent/, [[file:static/materials/readings/dellarocca-ch1.pdf][ch. 1]]
+- Schmaltz, /Descartes on Causation/, [[file:static/materials/readings/schmaltz-chs1-2.pdf][chs. 1-2]]
 
 *** TODO Spinoza I: Substance & Explanation
 - Descartes: /Principles of Philosophy/, Part I, §51–64
