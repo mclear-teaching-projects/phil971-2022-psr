@@ -62,7 +62,7 @@
 \newcommand{\amper}{{\fontspec[Scale=.95]{$mainfont$}\selectfont\itshape\&}}
 % icons
 \defaultfontfeatures{
-    Path = /usr/local/texlive/2021/texmf-dist/fonts/opentype/public/fontawesome/ }
+    Path = /usr/local/texlive/2022basic/texmf-dist/fonts/opentype/public/fontawesome/ }
 \usepackage{fontawesome}
 \usepackage{marvosym}
 \usepackage[autostyle=try]{csquotes}
@@ -161,9 +161,10 @@
 \end{minipage}
 \hfill
 \hfill
-\begin{minipage}[t]{1.7in}
-  \flushright \footnotesize \faicon{phone} ~$phone$\\ \Faxmachine ~$fax$\\ \faicon{envelope} ~$email$\\ $for(urls)$ \faicon{globe} ~$urls$\\ $endfor$
-  $if(updated)$Updated: \today$endif$
+\begin{minipage}[t]{2in}
+  \flushleft \footnotesize $if(updated)$Updated: \today$endif$\\ \faicon{phone}
+  ~$phone$\\ \Faxmachine ~$fax$\\ \faicon{envelope} ~$email$\\ $for(urls)$
+  \faicon{globe} ~$urls$ $endfor$\\ \faicon{comment} ~$chat$
 \end{minipage}
 
 \bigskip
@@ -269,7 +270,6 @@ $for(policies)$
 \item \textbf{University Policies}: $policies.university$
 \item \textbf{ADA}: $policies.ada$
 \item \textbf{Counseling}: $policies.counseling$
-\item \textbf{Masks}: $policies.masks$
 \item \textbf{Miscellaneous}: $policies.misc$
 \end{itemize}
 

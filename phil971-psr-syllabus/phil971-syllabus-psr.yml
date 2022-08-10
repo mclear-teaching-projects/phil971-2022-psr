@@ -11,6 +11,7 @@ fax: "(402) 272-0626"
 email: <mclear@unl.edu>
 # Insert URLs without http://
 urls: '[phil971.colinmclear.net](http://phil971.colinmclear.net)'
+chat: '[https://discord.gg/dVwWKrTZvq](https://discord.gg/dVwWKrTZvq)'
 updated: true
 
 # Front matter
@@ -64,12 +65,11 @@ evaluation:
         Weekly reading responses: 25%
       description: |
         Submit a weekly reading response of roughly 100-150 words (500 max) on
-        the assignments page of the course website on Wednesdays by 8pm. Your
-        reading responses should detail your observations and questions for
-        week's assigned reading. The responses should not be summaries. Move to
-        delimit 1-2 major points or ideas from the reading and discuss them.
-        What do you find interesting or compelling? What do you find logically
-        or philosophically problematic?
+        the course discord on Wednesdays by 8pm. Your reading responses should
+        detail your observations and questions for week's assigned reading. The
+        responses should not be summaries. Move to delimit 1-2 major points or
+        ideas from the reading and discuss them. What do you find interesting or
+        compelling? What do you find logically or philosophically problematic?
 
   participation:
     - title: |
