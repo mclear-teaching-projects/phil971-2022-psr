@@ -23,7 +23,7 @@ EXPORTED_DOCS=\
 
 RM=/usr/local/opt/coreutils/libexec/gnubin/rm
 
-PANDOC=/usr/local/bin/pandoc
+PANDOC=/opt/homebrew/bin/pandoc
 
 PANDOC_OPTIONS= --standalone
 
@@ -39,10 +39,10 @@ PANDOC_PDF_OPTIONS=--template=template.tex --pdf-engine=xelatex
 # Pattern-matching Rules
 
 %.html : %.yml
-	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_HTML_OPTIONS) -o phil880-german-idealism-syllabus.html $<
+	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_HTML_OPTIONS) -o phil971-psr-syllabus.html $<
 
 %.pdf : %.yml
-	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o phil880-german-idealism-syllabus.pdf $<
+	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o phil971-psr-syllabus.pdf $<
 
 # %.tex : %.yml
 # 	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $<
@@ -70,4 +70,4 @@ clean:
 	- $(RM) $(EXPORTED_DOCS)
 
 move:
-	- mv phil880-german-idealism-syllabus.* /Users/roambot/Dropbox/Work/projects/phil880-german-idealism/static/materials/
+	- mv phil971-psr-syllabus.* /Users/roambot/Dropbox/Work/projects/phil971-2022-psr/static/materials
