@@ -153,11 +153,13 @@ concerning God in the /Meditations/.
    - First Reply, 7:108-12
    - Second Reply, 7:160-69
    - Fourth Objection, 7:206-14
-   - Fourth Reply, 7:235-45 
+   - Fourth Reply, 7:235-45
+   - Sixth Reply, 7:431-33
      
 **** Recommended
 - [[https://plato.stanford.edu/entries/sufficient-reason/][SEP entry on the PSR]]
 - Della Rocca, /The Parmenidean Ascent/, [[file:static/materials/readings/dellarocca-ch1.pdf][ch. 1]]
+- Kaufmann, "[[file:static/materials/readings/kaufmann-will.pdf][Descartes on Indifference & Divine Freedom]]"
 - Schmaltz, /Descartes on Causation/, [[file:static/materials/readings/schmaltz-chs1-2.pdf][chs. 1-2]]
 
 *** TODO Spinoza I: Substance & Explanation

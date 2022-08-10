@@ -38,10 +38,12 @@ concerning God in the _Meditations_.
     -   Second Reply, 7:160-69
     -   Fourth Objection, 7:206-14
     -   Fourth Reply, 7:235-45
+    -   Sixth Reply, 7:431-33
 
 
 ## Recommended {#recommended}
 
 -   [SEP entry on the PSR](https://plato.stanford.edu/entries/sufficient-reason/)
 -   Della Rocca, _The Parmenidean Ascent_, [ch. 1](/materials/readings/dellarocca-ch1.pdf)
+-   Kaufmann, "[Descartes on Indifference &amp; Divine Freedom](/materials/readings/kaufmann-will.pdf)"
 -   Schmaltz, _Descartes on Causation_, [chs. 1-2](/materials/readings/schmaltz-chs1-2.pdf)
