@@ -114,6 +114,14 @@ primarily only on /weekdays/. If you can’t meet with me during regularly sched
 office hours (via Zoom) just email me and suggest a few possible times that you might
 be free. 
 
+*** Paper Topics
+:PROPERTIES:
+:EXPORT_FILE_NAME: paper-topics
+:EXPORT_HUGO_MENU: :menu main
+:END:
+
+Paper topics will be announced soon. The first draft of the paper is due *Friday, November 18th*. The final draft is due *Friday, December 8th*.
+
 ** Assignments
 :PROPERTIES:
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :author false :toc false :type post
@@ -287,7 +295,7 @@ In this set of notes I discuss the origins of the PSR in Greek Antiquity, its de
 
 
 
-* Paper topics
+
 
 * Configuration :noexport:
 #+HUGO_BASE_DIR: ./ 
