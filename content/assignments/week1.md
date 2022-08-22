@@ -21,7 +21,7 @@ of the sense of the principle at work in Descartes's central arguments
 concerning God in the _Meditations_.
 
 -   [Discussion thread](https://discord.com/channels/1006739669842673674/1006739802193920061)
--   Notes (coming soon)
+-   [Notes]({{< relref "forms-of-psr" >}}) ([PDF](/materials/handouts/forms-of-psr.pdf))
 -   Handout (coming soon)
 
 

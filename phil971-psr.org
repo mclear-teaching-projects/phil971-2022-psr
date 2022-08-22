@@ -140,7 +140,7 @@ of the sense of the principle at work in Descartes's central arguments
 concerning God in the /Meditations/.
 
 - [[https://discord.com/channels/1006739669842673674/1006739802193920061][Discussion thread]] 
-- Notes (coming soon)
+- [[id:20220805T113802.074879][Notes]] ([[/Users/roambot/Dropbox/Work/projects/phil971-2022-psr/static/materials/handouts/forms-of-psr.pdf][PDF]]) 
 - Handout (coming soon)
 
 **** Readings
@@ -164,16 +164,29 @@ concerning God in the /Meditations/.
 - Schmaltz, /Descartes on Causation/, [[file:static/materials/readings/schmaltz-chs1-2.pdf][chs. 1-2]]
 
 *** TODO Spinoza I: Substance & Explanation
+
+This week we look at Spinoza's view of substance and its connection to one or another variety of the PSR. Among the questions we'll be asking are the following: Does Spinoza endorse a version of the PSR? What role, if any, does it play in his monism argument? How is any version of the PSR related to his overall project in /Ethics/ I?  
+
+**** Readings
 - Descartes: /Principles of Philosophy/, Part I, §51–64
 - Spinoza: /Ethics/ I
+
+**** Recommended 
 - Della Rocca: /Spinoza/, ch. 2.
-- Melamed: "Spinoza on Causa Sui"^*
- 
-*** TODO Spinoza II: The PSR & Varieties of Intelligibility
-- Spinoza: /Ethics/ II
-- Della Rocca: /Spinoza/, ch. 3.
+- Melamed: "Spinoza on Causa Sui"
 - Lin: “The Principle of Sufficient Reason in Spinoza”
+
+*** TODO Spinoza II 
+
+We continue with our discussion of Spinoza, focussing on his arguments in /Ethics/ II concerning the parallel structure of mind and body. One important question raised here is how to understand the relationship between Spinoza's parallelism and his view of the intelligibility of nature. 
+
+**** Readings
+- Spinoza: /Ethics/ II
+
+**** Recommended 
+- Della Rocca: /Spinoza/, ch. 3.
 - Garrett: "Spinoza’s Necessitarianism"^*
+
 
 *** TODO Leibniz I: Truth & the PSR
 - Leibniz:
@@ -249,38 +262,65 @@ concerning God in the /Meditations/.
 - Amijee: "Inquiry and Metaphysical Rationalism"
 
 
-* Class Notes
-  :PROPERTIES:
-  :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :author false :type post
-  :EXPORT_HUGO_SECTION: notes
-  :EXPORT_HUGO_PANDOC_CITATIONS: nil
-  :EXPORT_HUGO_PAIRED_SHORTCODES: %mdshortcode myshortcode
-  :EXPORT_HUGO_WEIGHT: 0
-  :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc false :link-citations true
-  :END:
+** Class Notes
+   :PROPERTIES:
+   :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :author false :type post
+   :EXPORT_HUGO_SECTION: notes
+   :EXPORT_HUGO_PANDOC_CITATIONS: nil
+   :EXPORT_HUGO_PAIRED_SHORTCODES: %mdshortcode myshortcode
+   :EXPORT_HUGO_WEIGHT: 0
+   :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc false :link-citations true
+   :END:
 
-** Forms of The PSR
-   SCHEDULED: <2022-08-22 Mon>
-  :PROPERTIES:
-  :EXPORT_HUGO_TAGS: aristotle aquinas causality descartes explanation psr parmenides plato
-  :EXPORT_FILE_NAME: forms-of-psr
-  :EXPORT_DATE: August 25, 2022
-  :EXPORT_OPTIONS: author:t num:t
-  :EXPORT_AUTHOR: PHIL 971
-  :ID:       20220805T113802.074879
-  :END:
+*** Forms of The PSR
+    SCHEDULED: <2022-08-22 Mon>
+    :PROPERTIES:
+    :EXPORT_HUGO_TAGS: aristotle aquinas causality descartes explanation psr parmenides plato
+    :EXPORT_FILE_NAME: forms-of-psr
+    :EXPORT_DATE: August 25, 2022
+    :EXPORT_OPTIONS: author:t num:t
+    :EXPORT_AUTHOR: PHIL 971
+    :ID:       20220805T113802.074879
+    :END:
 
 In this set of notes I discuss the origins of the PSR in Greek Antiquity, its development by Aquinas, and applications of it by Descartes. A central aim is to show different senses of the principle as well as its roots in explanation and theory generation.
 
+**** The PSR Schema
 
 
+    #+INCLUDE: ~/Documents/notes/lecture-notes/20220806T101308--varieties-of-the-psr__teaching.org :lines "6-"
 
+**** Greek Antiquity
+
+
+    #+INCLUDE: ~/Documents/notes/lecture-notes/20220805T145323--the-psr-in-greek-antiquity__teaching.org :lines "6-"
+
+**** Aquinas
+
+
+    #+INCLUDE: ~/Documents/notes/zettel/20220804T235810--aquinas-on-psr__zettel.org :lines "6-"
+
+**** Descartes
+
+#+INCLUDE: ~/Documents/notes/zettel/20220820T104528--descartes-causality-and-the-psr__teaching.org :lines "6-"
+
+**** References & Further Reading
+     :PROPERTIES:
+     :UNNUMBERED: t
+     :END:
+
+#+print_bibliography:
+
+
+*** Spinoza on Substance & the PSR
+
+Here I discuss some issues concerning the manner in which the PSR figures in Spinoza's argument for substance monism in /Ethics/ I. Special attention is paid to connections between Spinoza's and Descartes's views, as well as which, if any, version of the PSR Spinoza endorses.  
 
 * Configuration :noexport:
 #+HUGO_BASE_DIR: ./ 
 #+STARTUP: nologdone
 #+OPTIONS: H:4 author:nil date:nil
-#+OPTIONS: prop:t preamble:nil
+#+OPTIONS: prop:nil preamble:nil
 #+select_tags: export
 #+exclude_tags: noexport archive nohugo
 #+todo: TODO NEXT | DONE CANCELED
