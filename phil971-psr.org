@@ -285,6 +285,8 @@ We continue with our discussion of Spinoza, focussing on his arguments in /Ethic
 
 In this set of notes I discuss the origins of the PSR in Greek Antiquity, its development by Aquinas, and applications of it by Descartes. A central aim is to show different senses of the principle as well as its roots in explanation and theory generation.
 
+#+toc: headlines 6 
+
 **** The PSR Schema
 
 
@@ -304,7 +306,7 @@ In this set of notes I discuss the origins of the PSR in Greek Antiquity, its de
 
 #+INCLUDE: ~/Documents/notes/zettel/20220820T104528--descartes-causality-and-the-psr__teaching.org :lines "6-"
 
-**** References & Further Reading
+**** References 
      :PROPERTIES:
      :UNNUMBERED: t
      :END:
@@ -316,22 +318,30 @@ In this set of notes I discuss the origins of the PSR in Greek Antiquity, its de
 
 Here I discuss some issues concerning the manner in which the PSR figures in Spinoza's argument for substance monism in /Ethics/ I. Special attention is paid to connections between Spinoza's and Descartes's views, as well as which, if any, version of the PSR Spinoza endorses.  
 
-* Configuration :noexport:
-#+HUGO_BASE_DIR: ./ 
-#+STARTUP: nologdone
-#+OPTIONS: H:4 author:nil date:nil
-#+OPTIONS: prop:nil preamble:nil
-#+select_tags: export
-#+exclude_tags: noexport archive nohugo
-#+todo: TODO NEXT | DONE CANCELED
-#+todo: DRAFT | DONE CANCELED
-#+language: en
-#+latex_header: \usepackage[English]{babel}
-#+options: '":t
-#+EXCLUDE_TAGS: notes scrap todo
-#+BIBLIOGRAPHY: ~/Dropbox/Work/bibfile.bib
 
-# Local Variables:
-# eval: (with-eval-after-load 'ox-hugo (plist-put org-hugo-citations-plist :bibliography-section-heading ""))
-# End:
+
+* Cleanup project files
+Shell script to move pdf notes to directory and trash other files
+
+#+begin_src sh :results output silent :exports none 
+trash *.tex *.bbl
+mv *.pdf static/materials/handouts
+#+end_src
+
+* Configuration :noexport:
+#+startup: nologdone
+#+hugo_base_dir: ./ 
+#+todo: TODO | DONE CANCELED
+#+select_tags: export
+#+exclude_tags: noexport archive nohugo notes scrap
+#+language: en
+#+latex_compiler: xelatex
+#+options: ':t toc:nil prop:nil p:t
+#+latex_class: org-notes
+#+options: h:4 
+#+options: preamble:nil
+#+options: num:nil 
+#+options: author:nil
+#+cite_export: csl chicago-author-date-16th-edition.csl
+#+bibliography: ~/Dropbox/Work/bibfile.bib
 
