@@ -289,7 +289,6 @@ In this set of notes I discuss the origins of the PSR in Greek Antiquity, its de
 
 **** The PSR Schema
 
-
     #+INCLUDE: ~/Documents/notes/lecture-notes/20220806T101308--varieties-of-the-psr__teaching.org :lines "6-"
 
 **** Greek Antiquity
@@ -312,7 +311,6 @@ In this set of notes I discuss the origins of the PSR in Greek Antiquity, its de
      :END:
 
 #+print_bibliography:
-
 
 *** Spinoza on Substance & the PSR
 
