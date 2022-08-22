@@ -242,8 +242,6 @@ But what Descartes's commitment to the creation doctrine reveals is a view accor
 
 ## References &amp; Further Reading {#references-and-further-reading}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Alanen, Lilli. 1985. “Descartes, Duns Scotus and Ockham on Omnipotence and Possibility.” <i>Franciscan Studies</i> 45, William of Ockham (1285-1347): 157–88. <a href="https://doi.org/10.2307/41975053">https://doi.org/10.2307/41975053</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Brink, Gusbert Van den. 1993. “Descartes, Modalities, and God.” <i>International Journal for Philosophy of Religion</i> 33, No. 1 (Feb., 1993): 1–15. <a href="https://doi.org/10.2307/40020946">https://doi.org/10.2307/40020946</a>.</div>
