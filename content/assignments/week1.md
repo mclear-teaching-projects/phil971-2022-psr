@@ -9,20 +9,19 @@ toc = false
 type = "post"
 +++
 
-Welcome to PHIL 971! This week we'll discuss the structure and expectations for
+Welcome to PHIL 971! This week we&rsquo;ll discuss the structure and expectations for
 the course, as well as work through some preliminary material regarding
 different ways of thinking about metaphysical laws that might deserve the name
-"principle of sufficient reason". We'll be asking about whether or not it is
+&ldquo;principle of sufficient reason&rdquo;. We&rsquo;ll be asking about whether or not it is
 right to think that there is _one_ canonical principle of sufficient reason, as
 well as how notions of reason relate to those of ground, cause, explanation, and
-intelligibility. We'll briefly examine some pre-modern uses of the notion
+intelligibility. We&rsquo;ll briefly examine some pre-modern uses of the notion
 (though not under that moniker as such) before turning to a sustained discussion
-of the sense of the principle at work in Descartes's central arguments
+of the sense of the principle at work in Descartes&rsquo;s central arguments
 concerning God in the _Meditations_.
 
 -   [Discussion thread](https://discord.com/channels/1006739669842673674/1006739802193920061)
 -   [Notes]({{< relref "forms-of-psr" >}}) ([PDF](/materials/handouts/forms-of-psr.pdf))
--   Handout (coming soon)
 
 
 ## Readings {#readings}
@@ -45,5 +44,5 @@ concerning God in the _Meditations_.
 
 -   [SEP entry on the PSR](https://plato.stanford.edu/entries/sufficient-reason/)
 -   Della Rocca, _The Parmenidean Ascent_, [ch. 1](/materials/readings/dellarocca-ch1.pdf)
--   Kaufmann, "[Descartes on Indifference &amp; Divine Freedom](/materials/readings/kaufmann-will.pdf)"
+-   Kaufmann, &ldquo;[Descartes on Indifference &amp; Divine Freedom](/materials/readings/kaufmann-will.pdf)&rdquo;
 -   Schmaltz, _Descartes on Causation_, [chs. 1-2](/materials/readings/schmaltz-chs1-2.pdf)
