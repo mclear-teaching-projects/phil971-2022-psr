@@ -328,15 +328,10 @@ Here I discuss some issues concerning the manner in which the PSR figures in Spi
 #+language: en
 #+latex_header: \usepackage[English]{babel}
 #+options: '":t
-#+PANDOC_METADATA: numbersections:t secnumdepth:4 
-#+PANDOC_METADATA: link-citations:t colorlinks:t toc:false 
-#+PANDOC_METADATA: "lhead:"
-#+PANDOC_METADATA: "mainfont:Optima"
-#+PANDOC_METADATA: spacing:singlespacing 
-#+PANDOC_METADATA: noindent: parskip:.85em
-#+PANDOC_OPTIONS: template:~/.pandoc/pandoc-templates/tufte.tex
-#+PANDOC_OPTIONS: standalone:t pdf-engine:xelatex  
 #+EXCLUDE_TAGS: notes scrap todo
 #+BIBLIOGRAPHY: ~/Dropbox/Work/bibfile.bib
 
+# Local Variables:
+# eval: (with-eval-after-load 'ox-hugo (plist-put org-hugo-citations-plist :bibliography-section-heading ""))
+# End:
 
