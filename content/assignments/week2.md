@@ -1,5 +1,5 @@
 +++
-title = "Spinoza I: Substance & Explanation"
+title = "Week 2 – Spinoza I: Substance & Explanation"
 publishDate = 2022-09-01T00:00:00-04:00
 tags = ["aquinas", "causality", "descartes", "explanation", "spinoza", "substance", "psr"]
 draft = false

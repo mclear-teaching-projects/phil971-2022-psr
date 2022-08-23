@@ -162,7 +162,7 @@ concerning God in the /Meditations/.
 - Kaufmann, "[[file:static/materials/readings/kaufmann-will.pdf][Descartes on Indifference & Divine Freedom]]"
 - Schmaltz, /Descartes on Causation/, [[file:static/materials/readings/schmaltz-chs1-2.pdf][chs. 1-2]]
 
-*** DONE Spinoza I: Substance & Explanation
+*** DONE Week 2 – Spinoza I: Substance & Explanation
     SCHEDULED: <2022-09-01 Thu>
    :PROPERTIES:
    :EXPORT_HUGO_TAGS:  aquinas causality descartes explanation spinoza substance psr 
