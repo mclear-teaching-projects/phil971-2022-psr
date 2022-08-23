@@ -162,18 +162,26 @@ concerning God in the /Meditations/.
 - Kaufmann, "[[file:static/materials/readings/kaufmann-will.pdf][Descartes on Indifference & Divine Freedom]]"
 - Schmaltz, /Descartes on Causation/, [[file:static/materials/readings/schmaltz-chs1-2.pdf][chs. 1-2]]
 
-*** TODO Spinoza I: Substance & Explanation
+*** DONE Spinoza I: Substance & Explanation
+    SCHEDULED: <2022-09-01 Thu>
+   :PROPERTIES:
+   :EXPORT_HUGO_TAGS:  aquinas causality descartes explanation spinoza substance psr 
+   :EXPORT_FILE_NAME: week2
+   :END:
 
-This week we look at Spinoza's view of substance and its connection to one or another variety of the PSR. Among the questions we'll be asking are the following: Does Spinoza endorse a version of the PSR? What role, if any, does it play in his monism argument? How is any version of the PSR related to his overall project in /Ethics/ I?  
+This week we look at Spinoza's view of substance and its connection to one or another variety of the PSR. Among the questions we'll be asking are the following: Does Spinoza endorse a version of the PSR? What role, if any, does it play in his monism argument? How is any version of the PSR related to his overall project in /Ethics/ I? In what sense, if any, does Spinoza consider God/nature to be "self-caused"? How is his view of the causal-explanatory status of God different from that of Aquinas or Descartes? 
+
+- [[https://discord.com/channels/1006739669842673674/1011720581139410995][Discussion thread]]
+- Notes (coming soon)
 
 **** Readings
-- Descartes: /Principles of Philosophy/, Part I, §51–64
-- Spinoza: /Ethics/ I
+- Descartes: /Principles of Philosophy/, [[/Users/roambot/Dropbox/Work/projects/phil971-2022-psr/static/materials/readings/descartes-principles-I.pdf][Part I, §51–64]]
+- Spinoza: /Ethics/, [[/Users/roambot/Dropbox/Work/projects/phil971-2022-psr/static/materials/readings/spinoza-ethics-I.pdf][part I]]
 
 **** Recommended 
-- Della Rocca: /Spinoza/, ch. 2.
-- Melamed: "Spinoza on Causa Sui"
-- Lin: “The Principle of Sufficient Reason in Spinoza”
+- Della Rocca: /Spinoza/, [[/Users/roambot/Dropbox/Work/projects/phil971-2022-psr/static/materials/readings/dellarocca-ch2.pdf][ch. 2]].
+- Melamed: "[[/Users/roambot/Dropbox/Work/projects/phil971-2022-psr/static/materials/readings/melamed-causa-sui.pdf][Spinoza on Causa Sui]]"
+- Lin: "[[/Users/roambot/Dropbox/Work/projects/phil971-2022-psr/static/materials/readings/lin-psr-spinoza.pdf][The Principle of Sufficient Reason in Spinoza]]"
 
 *** TODO Spinoza II 
 
