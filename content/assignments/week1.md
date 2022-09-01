@@ -1,6 +1,6 @@
 +++
 title = "Week 1 – Varieties of PSR"
-publishDate = 2022-08-25T00:00:00-05:00
+publishDate = 2022-08-25T00:00:00-04:00
 tags = ["aristotle", "aquinas", "causality", "descartes", "explanation", "psr", "parmenides", "plato"]
 draft = false
 weight = -100
@@ -22,7 +22,7 @@ concerning God in the _Meditations_.
 
 -   [Discussion thread](https://discord.com/channels/1006739669842673674/1006739802193920061)
 -   [Notes]({{< relref "forms-of-psr" >}}) ([PDF](/materials/handouts/forms-of-psr.pdf))
--   [Handout](/week-1-handout.pdf)
+-   [Handout](/materials/handouts/week-1-handout.pdf)
 
 
 ## Readings {#readings}

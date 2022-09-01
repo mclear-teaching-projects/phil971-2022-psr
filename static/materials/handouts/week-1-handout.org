@@ -1,0 +1,184 @@
+#+STARTUP: fnadjust
+#+TITLE: Week 1 – Varieties of PSR
+#+DATE: PHIL 971\nbsp |\nbsp August 25, 2022
+#+AUTHOR: Colin McLear
+#+LATEX_COMPILER: xelatex
+#+BIBLIOGRAPHY: ~/Dropbox/Work/bibfile.bib
+#+EXCLUDE_TAGS: noexport notes scrap todo
+#+OPTIONS: ':t toc:nil  H:2
+#+OPTIONS: prop:nil
+#+cite_export: csl chicago-author-date-16th-edition.csl
+
+What is the Principle of Sufficient Reason (PSR)?
+
+#+begin_quote
+31. Our reasonings are based on two great principles, that of contradiction, in virtue of which we judge that which involves a contradiction to be false, and that which is opposed or contradictory to the false to be true.
+
+32. And that of sufficient reason, by virtue of which we consider that we can find no true or existent fact, no true assertion, without there being a sufficient reason why it is thus and not otherwise, although most of the time these reasons cannot be known to us. (GVI:612; [cite:@leibniz1969a p. 646])
+#+end_quote
+
+
+* Forms of the PSR
+
+The Schema:
+
+- The Principle of Sufficient Reason/Ground Schema: :: \forall(x)\exists(y)(yGx)
+
+Some versions:
+
+  
+- Ontic PSR: :: For any being there is a sufficient ground for its existence 
+- Alethic PSR: :: For any truth there is a sufficient ground (truthmaker) of that truth 
+- Epistemological PSR: :: For anything known, there is a sufficient ground (justification?) for that knowledge
+- Explanatory PSR :: For any being or state of affairs, there is an explanation as to why the being exists or state of affairs obtains
+- Fact/State of Affairs PSR :: For any fact/soa there is a ground of that fact/soa's existence/obtaining 
+
+There are also more determinate versions or implications of PSR.
+
+- /Ex Nihilo/ Principle: :: Nothing can come from nothing
+- Causal Reality Principle: :: There must be at least as much reality in the cause as in its effect
+
+
+* Greek Antiquity
+
+** Parmenides
+
+From Fragment 8: 
+
+#+begin_quote
+for what coming-to-be of [being] will you seek?
+In what way, whence, did [it] grow? Neither from what-is-not shall I allow
+You to say or think; for it is not to be said or thought
+That [if] is not. And what need could have impelled it to grow
+Later or sooner, if it began from nothing?
+Thus [it] must either be completely or not at all.
+#+end_quote
+
+Is there a version of the PSR at work here? In what sense?
+
+** Plato
+
+From several late dialogues:
+
+#+begin_quote
+*Socrates*: Well, Cebes, [Socrates] said, when I was young I became incredibly eager for the sort of wisdom that they call research into nature. That used to strike me as quite sublime: to know the causes of each thing, why each one comes to be, why it perishes, and why it is. (/Phaedo/ 96a-b)
+
+*Socrates*. Now we said earlier that besides these three there was a fourth class to be examined, and you must help me. So tell me, do you think that in all cases of a thing coming to be something there must be something responsible for its becoming that thing?
+*Protarchus*: I do. How else could it become anything?
+Soc. What produces and what is responsible for something, I take it, differ in name only? We are justified in identifying what produces something and what is responsible for it? (/Philebus/ 26e)
+
+*Timaeus*: Now, anything created is necessarily created by some cause, because nothing can possibly come to be without there being something that is responsible for its coming to be. (/Timaeus/ 28a)
+#+end_quote
+
+What is the relation between causation and the PSR for Plato?
+
+** Aristotle
+
+Is Aristotle talking about causation or explanation here?
+
+#+begin_quote
+we should investigate how many and what sorts of causes there are. For since our work is undertaken for the sake of knowledge, and we do not think we have knowledge of each thing until we have grasped the why of it, which is to grasp its primary cause, it is clear that we must do this in the case of coming to be, passing away, and every sort of natural change, so that by knowing the starting-points of these we may try to refer back to each thing we are inquiring about to them. (/Physics/ 194b16-23) 
+#+end_quote
+
+
+From the /Posterior Analytics/:
+
+#+begin_quote
+We think we understand something /simpliciter/ (and not in the sophistical way,
+incidentally) when we think we know of the cause [aitia] because of which the
+object holds that it is its cause, and also that it is not possible for it to be
+otherwise. It is plain, then, that to understand is something of this sort.
+(71b10-13)
+#+end_quote
+
+Does Aristotle need to endorse a version of the PSR to satisfy the explanatory demands articulated here?
+
+* Aquinas
+From /Summa Contra Gentiles/ (cf. /Summa Theologiae/ Ia 2.3). The numbers below
+indicate paragraphs from Book II, chapter 15.
+
+#+begin_quote
+[4] the order of causes necessarily corresponds to the order of effects, since effects are commensurate with their causes. Hence, just as effects are referred to their appropriate causes, so that which is common in such effects must be reduced to a common cause. ... Now, being is common to everything that is. Above all causes, then, there must be a cause whose proper action is to give being. But we have already shown in Book I that God is the first cause. Everything that is must, therefore, be from God.  
+#+end_quote
+
+The opening statement in (4) expresses what looks like a, perhaps tacit, commitment to the /Ex Nihilo/ principle. 
+
+#+begin_quote
+[5] Moreover, the cause of everything [causa omnium] said to be such and such by way of participation is that which is said to be so by virtue of its essence. Thus, fire is the cause of all hot things as such. But God is being by His own essence, because He is the very act of being. Every other being, however, is a being by participation. For that being which is its own act of being can be one only, as was shown in Book I. God, therefore, is the cause of being to all other things. 
+#+end_quote
+
+What kind of causation is at issue in [5]?
+
+#+begin_quote
+[6] Again, everything that can be and not-be has a cause; for considered in itself it is indifferent to either, so that something else must exist which determines it to one. Since, then, it is impossible to go on to infinity, there must exist a necessary being which is the cause of all things that can be and not-be. Now, there is a certain kind of necessary being whose necessity is caused. But in this order of things, also, progression to infinity is impossible; so that we must conclude to the existence of something which is of itself necessary being. There can be but one such being, as we proved in Book I. And this being is God. Everything other than God, therefore, must be referred to Him as the cause of its being. 
+#+end_quote
+
+What version of the PSR might [6] most closely endorse?
+
+
+* Descartes
+
+ In the Third Meditation Descartes argues in two ways for the claim that God -- a perfectly knowledgeable, benevolent, and powerful being -- exists. The first of these arguments makes extensive use of what has been called Descartes's "causal principle" or "containment axiom", which he states in the following passage.
+  
+#+begin_quote
+it is manifest by the natural light that there must be at least as much [reality]
+in the efficient and total cause as in the effect of that cause. For where, I ask,
+could the effect get its reality from, if not from the cause? And how could the
+cause give it to the effect unless it possessed it? It follows from this both that
+something cannot arise from nothing, and also that what is more perfect - that is,
+contains in itself more reality - cannot arise from what is less perfect. And this
+is transparently true not only in the case of effects which possess [what the
+school philosophers call] actual or formal reality, but also in the case of ideas,
+where one is considering only [what they call] objective reality (7:40-1).
+#+end_quote
+
+- Causal Containment Axiom: :: Whatever reality or perfection there is in a thing is present either formally or eminently in its first and adequate cause (7:165)
+
+  What justifies the acceptance of these and related principles? The "natural light"?
+
+  #+begin_quote
+the light of nature does establish that if anything exists we may always ask why
+it exists; that is, we may inquire into its efficient cause, or, if it does not
+have one, we may demand why it does not need one. (First Reply, 7:108)
+#+end_quote
+
+#+begin_quote
+What does seem to me self-evident is that whatever exists either derives its existence from a cause or derives its existence from itself as from a cause. For since we understand not only what is meant by existence but also what is meant by its negation, it is impossible for us to imagine anything deriving existence from itself without there being some reason why it should exist rather than not exist. (First Reply, 7:112)
+#+end_quote
+
+What version of the PSR (if any) is being endorsed here?
+
+** Descartes on Explanation
+
+Does Descartes link the PSR to explanation? For example:
+
+#+begin_quote
+Concerning every existing thing it is possible to ask what is the cause of its existence. This question may even be asked concerning God, not because he needs any cause in order to exist, but because the immensity of his nature is the cause or reason why he needs no cause in order to exist. (7:164-5)
+#+end_quote
+
+The fact that God also requires an explanation would seem to tightly link endorsing the PSR with explaining the existence of everything. In what sense then may God be explained?
+
+#+begin_quote
+I think it is necessary to show that, in between 'efficient cause' in the strict
+sense and 'no cause at all', there is a third possibility, namely 'the positive
+essence of a thing', to which the concept of an efficient cause can be extended.
+(7:239)
+#+end_quote
+
+Descartes reiterates that when seeking an explanation for the existence of something, we always appeal to an explanation "from itself or from something else" (7:238). In the case of God we cannot appeal to anything else.
+
+#+begin_quote
+what derives its existence 'from another' will be taken to derive its existence from that thing as an efficient cause, while what derives its existence 'from itself' will be taken to derive its existence from itself as a formal cause - that is, because it has the kind of essence which entails that it does not require an efficient cause. (7:238)
+#+end_quote
+
+** God's Power & Intelligibility
+
+Descartes's voluntaristic creation doctrine:
+
+#+begin_quote
+It is self-contradictory to suppose that the will of God was not indifferent from eternity with respect to everything ... because it is impossible to imagine that anything is thought of in the divine intellect as good or true, or worthy or belief or action or omission, prior to the decision of the divine will to make it so. (7:431-432)
+#+end_quote
+
+God's will is "indifferent" to all of (possible) creation. This is to say that there is nothing that constrains or moves God to create in one way rather than another other than God's (inscrutable) will itself. The "eternal truths" that would otherwise seem necessary (such as that 2+2=4, etc.), are in fact the product of God's entirely undetermined, voluntaristically free, will.
+
+If the PSR must apply even to God, but God's power is such that anything may be willed, then to what extent is the PSR really ensuring the intelligibility of everything? 
