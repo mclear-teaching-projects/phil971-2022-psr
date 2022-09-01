@@ -33,20 +33,20 @@ information.
 | *Date*  | *Meeting* | *Topic*                                                                    | *Guest*   |
 |-------+---------+--------------------------------------------------------------------------+---------|
 | 8/25  |       1 | Overview; formulations of PSR in Antiquity; Descartes's Causal Principle |         |
-| 9/1   |       2 | Spinoza I                                                                |         |
+| 9/1   |       2 | Spinoza I (Zoom)                                                         |         |
 | 9/8   |       3 | Spinoza II                                                               |         |
-| 9/15  |       4 | Leibniz I                                                                |         |
-| 9/22  |       5 | Leibniz II                                                               |         |
+| 9/15  |       4 | Leibniz I (Zoom)                                                         |         |
+| 9/22  |       5 | Leibniz II (Zoom)                                                        |         |
 | 9/29  |       6 | Kant I: The PSR & the Pre-critical Kant                                  |         |
-| 10/6  |       7 | Kant II: God, Existence, & Real Possibility                              | Heide   |
+| 10/6  |       7 | Kant II: God, Existence, & Real Possibility (Zoom)                       | Heide   |
 | 10/13 |       8 | Kant III: Temporal causation                                             |         |
-| 10/20 |       9 | Kant IV: Is there a limit to the PSR?                                    | Schafer |
-| 10/27 |      10 | Jacobi: PSR & Nihilism                                                   | Kreines |
-| 11/3  |      11 | Maimon: the problem of Acosmism                                          | Stang   |
+| 10/20 |       9 | Kant IV: Is there a limit to the PSR?       (Zoom)                       | Schafer |
+| 10/27 |      10 | Jacobi: PSR & Nihilism                      (Zoom)                       | Kreines |
+| 11/3  |      11 | Maimon: the problem of Acosmism             (Zoom)                       | Stang   |
 | 11/10 |      12 | Schopenhauer on the PSR                                                  |         |
-| 11/17 |      13 | Contemporary Rationalism (Dasgupta v MDR)                                |         |
+| 11/17 |      13 | Contemporary Rationalism (Dasgupta v MDR)   (Zoom)                       |         |
 | 11/24 |   Break |                                                                          |         |
-| 12/1  |      14 | Inquiry & Explanation                                                    | Amijee  |
+| 12/1  |      14 | Inquiry & Explanation  (Zoom)                                            | Amijee  |
 | 12/8  |      15 | TBA                                                                      |         |
 
 
@@ -353,6 +353,38 @@ trash *.tex *.bbl
 mv *.pdf static/materials/handouts
 #+end_src
 
+* Seminar Outlines
+** Week 1
+- [X] Introduce everyone
+- [X] Go over syllabus
+- [X] Go over guests and zoom meetings
+- [X] Introduction to Material
+- [X] Leibniz & PSR
+- [X] Varieties of PSR
+- [X] In what sense if any is PSR required for inquiry to be possible?
+- [X] Is there a non-arbitrary way of restricting the PSR?
+
+** Week 2
+- [ ] Brief review of last week
+   + [ ] Logical form & varieties of PSR
+   + [ ] Features of the "reason" or "ground" relation
+      * transitive, asymmetric, and irreflexive?
+   + [ ] Does Descartes accept the standard form of ground relation?
+      - [ ] Is Descartes's conception of God as self-caused a problem for standard form?
+   + [ ] Does Descartes's view of universality of PSR_ontic indicate he endorses the universal intelligibility of all things?
+- [ ] Overview of Spinoza
+   + [ ] Geometric method
+   + [ ] Aims of the /Ethics/
+      - [ ] The nature of God, the relation of human being to God, and the conditions for a good human life
+      - [ ] Note that we won't in any sense discuss all (or even a majority) of the issues raised by the first two books
+      - [ ] Overview of E1-2
+- [ ] Spinoza on PSR & Substance
+   + [ ] Discuss defs & axioms
+   + [ ] In what sense(s) does the PSR figure in Spinoza's argument in E1? Is it presupposed by the defs or axioms? Or is it supported/justified by them?
+   + [ ] Are there differences in Spinoza's acceptance of PSR_ontic and Descartes's?
+   + [ ] In what sense does Spinoza endorse complete intelligibility?
+   + [ ] What is the causal relation?
+   + [ ] What is it to be intelligible? 
 * Configuration :noexport:
 #+startup: nologdone
 #+hugo_base_dir: ./ 
@@ -369,4 +401,5 @@ mv *.pdf static/materials/handouts
 #+options: author:nil
 #+cite_export: csl chicago-author-date-16th-edition.csl
 #+bibliography: ~/Dropbox/Work/bibfile.bib
+
 
