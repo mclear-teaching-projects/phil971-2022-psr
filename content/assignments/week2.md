@@ -12,7 +12,8 @@ type = "post"
 This week we look at Spinoza&rsquo;s view of substance and its connection to one or another variety of the PSR. Among the questions we&rsquo;ll be asking are the following: Does Spinoza endorse a version of the PSR? What role, if any, does it play in his monism argument? How is any version of the PSR related to his overall project in _Ethics_ I? In what sense, if any, does Spinoza consider God/nature to be &ldquo;self-caused&rdquo;? How is his view of the causal-explanatory status of God different from that of Aquinas or Descartes?
 
 -   [Discussion thread](https://discord.com/channels/1006739669842673674/1011720581139410995)
--   [Notes]({{< relref "forms-of-psr" >}}) ([PDF](/materials/handouts/spinoza-substance-psr.pdf))
+-   [Notes]({{< relref "forms-of-psr" >}}) ([PDF version](/materials/handouts/spinoza-substance-psr.pdf))
+-   [Handout](/materials/handouts/week-2-handout.pdf)
 
 
 ## Readings {#readings}

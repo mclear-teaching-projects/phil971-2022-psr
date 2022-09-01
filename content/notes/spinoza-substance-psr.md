@@ -83,7 +83,18 @@ Here we see Spinoza equate existence with a possession of power and non-existenc
 
 > E1p11d: since being able to exist is power, it follows that the more reality belongs to the nature of a thing, the more powers it has, of itself, to exist.
 
-God is, on Spinoza&rsquo;s conception, the _ens realissimum_, i.e., the &ldquo;most real&rdquo; being, where &ldquo;most real&rdquo; is understood as possessing infinite reality. In this way, Spinoza’s understanding of God is rather traditional.  Spinoza is effectively saying that God possesses infinite being. As he puts it in a letter from 1666:
+Similarly, Spinoza equates power, reality, and perfection.
+
+> E2d4: By reality and perfection I understand the same thing.
+> E4Pref (II/208-9): when I say that someone passes from a lesser to a greater perfection,
+> and the opposite, I do not understand that he is changed from one essence, or
+> form, to another. ... Rather, we conceive that his power of acting, insofar as
+> it is understood through his nature, is increased or diminished. ... by
+> perfection in general I shall, as I have said, understand reality, that is, the
+> essence of each thing insofar as it exists and produces an effect, having no
+> regard to its duration.
+
+God is, on Spinoza&rsquo;s conception, the _ens realissimum_, i.e., the &ldquo;most real&rdquo; being, where &ldquo;most real&rdquo; is understood as possessing infinite perfection or reality, which entails infinite causal power. In this way, Spinoza’s understanding of God is rather traditional.  Spinoza is effectively saying that God possesses infinite being. As he puts it in a letter from 1666:
 
 > since the nature of God does not consist in a definite kind of being, but in a Being [esse] which is absolutely unlimited, his nature also requires everything which expresses being perfectly, since otherwise his nature would be limited and deficient. (IV/185 in (<a href="#citeproc_bib_item_14">Spinoza 2016, 30</a>))
 
@@ -185,6 +196,8 @@ So does Spinoza accept that the causal relation, while asymmetric and transitive
 
 
 ## References {#references}
+
+## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Bennett, Jonathan Francis. 1984. <i>A Study of Spinoza’s Ethics</i>. Indianapolis: Hackett.</div>

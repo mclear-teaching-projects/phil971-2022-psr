@@ -1,0 +1,186 @@
+#+STARTUP: fnadjust
+#+TITLE: Week 2 – Spinoza on Substance & The PSR
+#+DATE: PHIL 971\nbsp |\nbsp September 1, 2022
+#+AUTHOR: Colin McLear
+#+LATEX_COMPILER: xelatex
+#+BIBLIOGRAPHY: ~/Dropbox/Work/bibfile.bib
+#+EXCLUDE_TAGS: noexport notes scrap todo
+#+OPTIONS: ':t toc:nil  H:2
+#+OPTIONS: prop:nil
+#+cite_export: csl chicago-author-date-16th-edition.csl
+
+
+* Spinoza on the PSR & Intelligibility
+
+- Explanatory Rationalism: :: For every fact /F/, there is a sufficient explanation (or reason/ground) why /F/, rather than /not F/, is the case
+
+This sort of explanatory rationalism is /metaphysical/, in the sense that it makes a claim about how reality /is/ -- namely such as for there to be an explanation of every fact. It is also broadly /epistemological/ (or even /conceptual/), in the sense that it considers this relation between facts to be one that is understandable or rational.
+
+In what sense, if any is Spinoza an explanatory rationalist?
+
+
+** Explanation & Definition
+
+#+begin_quote
+If the thing be a created thing, the definition, as we have said, must include its proximate cause. For example, according to this rule a circle would have to be defined as follows: a figure described by any line of which one end is fixed and the other movable. This definition clearly includes the proximate cause.
+
+The conception or definition of the thing must be such that all the properties of the thing, when regarded by itself and not in conjunction with other things, can be deduced from it, as can be seen in the case of this definition of a circle. For from it we clearly deduce that all the lines drawn from the centre to the circumference are equal. (TIE §96)
+#+end_quote
+
+The importance of the definition is that it makes transparent the relation of
+consequent to ground, or of effect to cause. So the understanding the /definiens/ 
+gives one an understanding of way in which the existence of the /definiendum/ follows from the existence of the /definiens/.
+
+Can we clarify the notion of "understanding" here any further? 
+
+* Statements of the PSR
+
+If Spinoza is an explanatory rationalist, in what sense, if any, does this amount to an endorsement of the PSR?
+
+** Varieties of PSR
+
+In what sense do the following statements indicate endorsement of the PSR?
+
+#+begin_quote
+E1a1: Whatever is, is either in itself or in another.
+
+E1a2: That which cannot be conceived through another thing must be conceived through itself.
+
+E1a3: From a given determinate cause there necessarily follows an effect; on the other hand, if there be no determinate cause it is impossible that an effect should follow.
+#+end_quote
+
+What about these?
+
+#+begin_quote
+E1p8s2: there must be, for each existing thing, a certain cause on account of which it exists.
+
+E1p8s2: ...[I]f a fixed number of individuals exist in Nature, there must necessarily be a cause why those individuals and not more or fewer, exist.
+
+E1p11d2: For every thing a cause or reason must be assigned either for its existence or for its non-existence. 
+#+end_quote
+
+
+** Power & Existence
+
+#+begin_quote
+E1p11d:  To be able not to exist is to lack power [impotencia], and conversely, to be able to exist is to have power [potencia] (as is known through itself). So, if what now necessarily exists are only finite beings, then finite beings are more powerful than an absolutely infinite Being. But this, as is known through itself, is absurd. So, either nothing exists or an absolutely infinite Being also exists. But we exist, either in ourselves, or in something else, which necessarily exists (see Al and P7). Therefore an absolutely infinite Being-that is (by D6), God-necessarily exists, q.e.d.
+#+end_quote
+
+Here we see Spinoza equate existence with a possession of power and non-existence with its lack. He also identifies God's essence with power (E1p34) and power as flowing from the "reality" or (degree of) being of a thing.
+
+#+begin_quote
+E1p11d: since being able to exist is power, it follows that the more reality belongs to the nature of a thing, the more powers it has, of itself, to exist. 
+#+end_quote
+
+Similarly, Spinoza equates power, reality, and perfection.
+
+#+begin_quote
+E2d4: By reality and perfection I understand the same thing.
+
+E4Pref (II/208-9): when I say that someone passes from a lesser to a greater
+perfection, and the opposite, I do not understand that he is changed from one
+essence, or form, to another. ... Rather, we conceive that his power of acting,
+insofar as it is understood through his nature, is increased or diminished. ...
+by perfection in general I shall, as I have said, understand reality, that is,
+the essence of each thing insofar as it exists and produces an effect, having no
+regard to its duration.
+#+end_quote
+
+God is, on Spinoza's conception, the /ens realissimum/, i.e., the "most real" being, where "most real" is understood as possessing infinite perfection or reality, which entails infinite causal power.
+
+As he puts it in a letter from 1666:
+
+#+begin_quote
+since the nature of God does not consist in a definite kind of being, but in a Being [esse] which is absolutely unlimited, his nature also requires everything which expresses being perfectly, since otherwise his nature would be limited and deficient. (IV/185 in [cite:@spinoza2016 p. 30])
+#+end_quote
+
+1. In what sense is Spinoza committed to PSR_ontic?
+2. Is this principle a basic or derived one for him?
+3. What about other forms of the PSR (e.g. alethic, explanatory)? Does Spinoza accept any of them? What would be their relation to the PSR_ontic?
+
+
+** Following & Flowing
+
+It is important for Spinoza's project that there is a single unitary sense in which one thing follows or flows from another. For example, he says,
+
+#+begin_quote
+E1p17s1: from God's supreme power, or infinite nature, infinitely many things in infinitely many modes, that is, all things, have necessarily flowed, or always follow, by the same necessity and in the same way as from the nature of a triangle it follows, from eternity and to eternity, that its three angles are equal to two right angles.
+#+end_quote
+
+1. How should we  understand the notion of "flowing from" or "following from" here? Is it a causal notion? Something else?
+2. How does the "following from" relation relate to the above point about God's possession of all reality?
+   
+* God's Necessary Existence
+
+In E1P11, Spinoza aims to demonstrate the existence of God as a being consisting of infinite attributes. He also provides a clear statement of PSR_ontic. 
+
+#+begin_quote
+For each thing there must be assigned a cause, /or/ reason, both for its existence and for its nonexistence. For example, if a triangle exists, there must be a reason or cause why it exists; but if it does not exist, there must also be a reason or cause which prevents it from existing, or which takes its existence away.
+
+But this reason, /or/ cause, must either be contained in the nature of the thing, or be outside it. For example, the very nature of a square circle indicates the reason why it does not exist, namely, because it involves a contradiction. On the other hand, the reason why a substance exists also follows from its nature alone, because it involves existence (see P7). But the reason why a circle or triangle exists, or why it does not exist, does not follow from the nature of these things, but from the order of the whole of corporeal Nature. For from this [order] it must follow either that the triangle necessarily exists now or that it is impossible for it to exist now. These things are evident through themselves; from them it follows that a thing necessarily exists if there is no reason or cause which prevents it from existing. Therefore, if there can be no reason or cause which prevents God from existing, or which takes his existence away, it must certainly be inferred that he necessarily exists.
+#+end_quote
+
+The basic structure here is that of asserting a very strong version of PSR_ontic and using it argue through cases. Using "ground" as a shorthand for the cause or reason (/causa seu ratio/):
+
+1. There must be a ground for the existence or non-existence of a being (i.e. a substance or mode).
+2. The ground for the existence of a substance is part of its nature.
+3. \therefore The only ground for the non-existence of a substance would be something
+   external to it (to its nature).
+4. If there is no ground preventing God's (as a substance) existence, then God necessarily exists.
+
+In the subsequent paragraph Spinoza proceeds to prove the antecedent of the conditional in (4). From that he then concludes that God necessarily exists. 
+
+
+* God as (Self-)Caused
+
+Spinoza contends that God causes and explains everything. But does God cause and/or explain itself? Consider Descartes:
+
+#+begin_quote
+Concerning every existing thing it is possible to ask what is the cause of its
+existence. This question may even be asked concerning God, not because he needs
+any cause in order to exist, but because the immensity of his nature is the
+cause or reason why he needs no [other] cause in order to exist. (7:164-5)
+#+end_quote
+
+Descartes thus holds that God causes itself to exist by virtue of its own perfection, power, or immensity. Similarly Spinoza holds that "an absolutely infinite Being, or God, has, of himself, an absolutely infinite power of existing. For that reason, he exists absolutely" (E1p11s).
+
+Spinoza also identifies God's essence with its power:
+
+#+begin_quote
+E1p34: from the necessity alone of God's essence it follows that God is the
+cause of himself (by pll) and (by p16 and p16c) of all things. Therefore, God's
+power, by which he and all things are and act, is his essence itself
+#+end_quote
+
+** Evidence for Causa Sui as Efficient
+
+Should we take the notion of "causa sui" (self-cause) as a kind of efficient
+causal claim -- that God is the cause of its own existence in a manner analogous
+to how, e.g., smelting ore is the cause of iron?
+
+1. In E1p6c, Spinoza proves that “a substance cannot be produced by anything else [substantiam ab alio produci non posse]”. The terminology of 'producere' here indicates that efficient causation is what is at issue. Moreover, if it weren't efficient causation, but causation in some more general sense to which Spinoza were appealing the subsequent argument of E1p7d would be invalid. 
+2. In E1p16, Spinoza contends that "God is the efficient cause of all things [omnium rerum] which can fall under an infinite intellect". But God is also a thing (/res/), and God knows itself via its intellect (E2p3d and E2p4). So God must also be the efficient cause of itself.
+3. Spinoza claims that real definitions include the efficient cause of the
+   definiendum's existence. But nothing external to God can cause its existence.
+   So God must be the efficient cause of itself.
+4. In a letter (Ep. 34) from 1666, Spinoza describes God as existing in virtue of its essence, but importantly characterizes existence‐by‐virtue‐of‐mere‐essence as "being produced by the force of its own nature [suae naturae vi produci]" (IV/180/21). The language of production here would seem to indicate that it is efficient causation that Spinoza has in mind.
+5. Spinoza holds in E1p25 that God is the efficient cause of the essences of things (/rerum/). If we take the scope of "things" here to be unrestricted, then God is the efficient cause of its own essence. Moreover, if God were not such a cause of its essence, God could be conceived of without God, and through another, which would contradict Spinoza's E1p15, "Whatever is, is in God, and nothing can be or be conceived without God."
+
+** Self-Causation & 'Normal Form'
+
+Is the notion of /efficient/ self-causation coherent? 
+
+For example, suppose we think the causal relation must have the following three features (it's "normal form"):
+
+
+1. /Irreflexivity/: if r causes s, then r ≠ s. (Alternatively: nothing
+   can cause itself.)
+
+2. /Asymmetry/: if r is causes s, then s does not cause r.
+
+3. /Transitivity/: if r is a cause for s, and s is a cause for t, then r
+   is a cause for t.
+
+So does Spinoza accept that the causal relation, while asymmetric and transitive, is nevertheless at least possibly reflexive? 
+
+If the causal relation were not capable of being reflexively applied, what problem(s) might this present for Spinoza's view?
