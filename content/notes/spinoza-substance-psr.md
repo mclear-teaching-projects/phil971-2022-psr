@@ -186,8 +186,6 @@ So does Spinoza accept that the causal relation, while asymmetric and transitive
 
 ## References {#references}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Bennett, Jonathan Francis. 1984. <i>A Study of Spinoza’s Ethics</i>. Indianapolis: Hackett.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Curley, Edwin. 1988. <i>Behind the Geometrical Method: A Reading of Spinoza’s Ethics</i>. Princeton University Press.</div>
