@@ -14,6 +14,9 @@ This week we look at Spinoza&rsquo;s view of substance and its connection to one
 -   [Discussion thread](https://discord.com/channels/1006739669842673674/1011720581139410995)
 -   [Notes]({{< relref "forms-of-psr" >}}) ([PDF version](/materials/handouts/spinoza-substance-psr.pdf))
 -   [Handout](/materials/handouts/week-2-handout.pdf)
+-   Background readings
+    -   [Reading Spinoza&rsquo;s Ethics]({{< relref "spinoza-ethics" >}}) ([PDF](/materials/handouts/spinoza-ethics.pdf))
+    -   [The Argument for Monism]({{< relref "spinoza-monism" >}}) ([PDF](/materials/handouts/spinoza-monism.pdf))
 
 
 ## Readings {#readings}

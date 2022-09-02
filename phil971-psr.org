@@ -176,7 +176,8 @@ This week we look at Spinoza's view of substance and its connection to one or an
 - [[id:20220805T113802.074879][Notes]] ([[/Users/roambot/Dropbox/Work/projects/phil971-2022-psr/static/materials/handouts/spinoza-substance-psr.pdf][PDF version]])
 - [[~/Dropbox/Work/projects/phil971-2022-psr/static/materials/handouts/week-2-handout.pdf][Handout]]
 - Background readings
-   + 
+   + [[id:20220901T230222.955625][Reading Spinoza's Ethics]] ([[file:static/materials/handouts/spinoza-ethics.pdf][PDF]])
+   + [[id:20220901T230252.533324][The Argument for Monism]] ([[file:static/materials/handouts/spinoza-monism.pdf][PDF]])
 
 **** Readings
 - Descartes: /Principles of Philosophy/, [[/Users/roambot/Dropbox/Work/projects/phil971-2022-psr/static/materials/readings/descartes-principles-I.pdf][Part I, §51–64]]
