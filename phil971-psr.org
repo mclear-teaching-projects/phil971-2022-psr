@@ -188,25 +188,37 @@ This week we look at Spinoza's view of substance and its connection to one or an
 - Melamed: "[[/Users/roambot/Dropbox/Work/projects/phil971-2022-psr/static/materials/readings/melamed-causa-sui.pdf][Spinoza on Causa Sui]]"
 - Lin: "[[/Users/roambot/Dropbox/Work/projects/phil971-2022-psr/static/materials/readings/lin-psr-spinoza.pdf][The Principle of Sufficient Reason in Spinoza]]"
 
-*** TODO Spinoza II 
+*** DONE Spinoza II 
+    SCHEDULED: <2022-09-08 Thu>
+   :PROPERTIES:
+   :EXPORT_HUGO_TAGS:  explanation mind-body paralellism psr spinoza substance
+   :EXPORT_FILE_NAME: week3
+   :END:
 
 We continue with our discussion of Spinoza, focussing on his arguments in /Ethics/
 II concerning the parallel structure of mind and body. One important question
 raised here is how to understand the relationship between Spinoza's so-called
 "parallelism" (or better: "identity-theory") and his view of the intelligibility
-of nature.
+of nature. Is his parallelism a result of his commitment to the intelligibility
+of nature, or part of what drives that position?
+
+- [[https://discord.com/channels/1006739669842673674/1015112837447811182][Discussion thread]]
+- [[file:static/materials/handouts/spinoza-mind.pdf][Overview of Spinoza on Mind]]
+- Notes (Coming soon...)
+- Handout (Coming soon...)
 
 **** Readings
 - Spinoza: /Ethics/ II
+   - Focus on the definitions, axioms, and E2p1-13 up until the excursis starting on p. 125. Resume at E2p28 until the end of bk. II.
 
 **** Recommended 
-- Della Rocca: /Spinoza/, ch. 3
-- Della Rocca: "Interpreting Spinoza: The Real is the Rational"
-- Garber: "Superheroes in the History of Philosophy: Spinoza, Super-Rationalist"
-- Garrett: "Spinoza’s Necessitarianism"^*
-- Hübner: "Spinoza on the Limits of Explanation"
-- Hübner: "Spinoza on Expression & Grounds of Intelligibility"
-- Renz: /The Explicability of Experience/, ch. 6
+- Della Rocca: [[file:static/materials/readings/dellarocca-ch3.pdf][/Spinoza/, ch. 3]]
+- Della Rocca: "[[file:static/materials/readings/dellarocca-reality.pdf][Interpreting Spinoza: The Real is the Rational]]"
+- Garber: "[[file:static/materials/readings/garber-superheroes.pdf][Superheroes in the History of Philosophy: Spinoza, Super-Rationalist]]"
+- Garrett: "[[file:static/materials/readings/garrett-necessitarianism.pdf][Spinoza’s Necessitarianism]]"
+- Hübner: "[[file:static/materials/readings/hubner-explanation.pdf][Spinoza on the Limits of Explanation]]"
+- Hübner: "[[file:static/materials/readings/hubner-parallelism.pdf][Spinoza's Parallelism Doctrine & Metaphysical Sympathy]]"
+- Renz: [[file:static/materials/readings/renz-realist-rationalism.pdf][/The Explicability of Experience/, ch. 6]]
 
 *** TODO Leibniz I: Truth & the PSR
 - Leibniz:
@@ -402,6 +414,33 @@ Here I discuss some issues concerning the manner in which the PSR figures in Spi
      :END:
 
 #+print_bibliography:
+
+*** Spinoza's Mind
+    SCHEDULED: <2022-09-08 Thu>
+    :PROPERTIES:
+    :EXPORT_HUGO_TAGS: explanation mind-body parallelism psr spinoza substance
+    :EXPORT_FILE_NAME: spinoza-mind
+    :EXPORT_DATE: September 8, 2022
+    :EXPORT_OPTIONS: author:t num:t
+    :EXPORT_AUTHOR: PHIL 971
+    :ID:       20220902T002001.086650
+    :END:
+
+Below are notes I use in undergraduate introductions to E2. I lay out some of the basic issues regarding Spinoza's view of the mind and the mind-body relation.[fn:1]
+
+#+toc: headlines 6 
+
+#+INCLUDE: ~/Documents/notes/lecture-notes/20220407T131253--spinoza-s-mind__teaching.org :lines "9-"
+
+[fn:1] For further overview see [cite:@dellarocca2008; @hubner2015; @garrett2018; @renz2018; @lin2019; @hubner2021]. 
+
+**** References 
+     :PROPERTIES:
+     :UNNUMBERED: t
+     :END:
+
+#+print_bibliography:
+
 * Cleanup project files
 Shell script to move pdf notes to directory and trash other files
 
