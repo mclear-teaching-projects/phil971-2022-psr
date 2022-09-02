@@ -17,7 +17,7 @@ of nature. Is his parallelism a result of his commitment to the intelligibility
 of nature, or part of what drives that position?
 
 -   [Discussion thread](https://discord.com/channels/1006739669842673674/1015112837447811182)
--   [Overview of Spinoza on Mind](/materials/handouts/spinoza-mind.pdf)
+-   [Overview of Spinoza on Mind]({{< relref "spinoza-mind" >}}) ([PDF](/materials/handouts/spinoza-mind.pdf))
 -   Notes (Coming soon...)
 -   Handout (Coming soon...)
 
