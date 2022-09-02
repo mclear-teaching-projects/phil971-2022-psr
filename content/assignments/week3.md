@@ -1,5 +1,5 @@
 +++
-title = "Spinoza II"
+title = "Week 3 – Spinoza II: Mind & Intelligibility"
 publishDate = 2022-09-08T00:00:00-04:00
 tags = ["explanation", "mind-body", "paralellism", "psr", "spinoza", "substance"]
 draft = false

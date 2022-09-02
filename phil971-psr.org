@@ -188,7 +188,7 @@ This week we look at Spinoza's view of substance and its connection to one or an
 - Melamed: "[[/Users/roambot/Dropbox/Work/projects/phil971-2022-psr/static/materials/readings/melamed-causa-sui.pdf][Spinoza on Causa Sui]]"
 - Lin: "[[/Users/roambot/Dropbox/Work/projects/phil971-2022-psr/static/materials/readings/lin-psr-spinoza.pdf][The Principle of Sufficient Reason in Spinoza]]"
 
-*** DONE Spinoza II 
+*** DONE Week 3 – Spinoza II: Mind & Intelligibility  
     SCHEDULED: <2022-09-08 Thu>
    :PROPERTIES:
    :EXPORT_HUGO_TAGS:  explanation mind-body paralellism psr spinoza substance
