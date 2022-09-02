@@ -175,6 +175,8 @@ This week we look at Spinoza's view of substance and its connection to one or an
 - [[https://discord.com/channels/1006739669842673674/1011720581139410995][Discussion thread]]
 - [[id:20220805T113802.074879][Notes]] ([[/Users/roambot/Dropbox/Work/projects/phil971-2022-psr/static/materials/handouts/spinoza-substance-psr.pdf][PDF version]])
 - [[~/Dropbox/Work/projects/phil971-2022-psr/static/materials/handouts/week-2-handout.pdf][Handout]]
+- Background readings
+   + 
 
 **** Readings
 - Descartes: /Principles of Philosophy/, [[/Users/roambot/Dropbox/Work/projects/phil971-2022-psr/static/materials/readings/descartes-principles-I.pdf][Part I, §51–64]]
@@ -187,7 +189,11 @@ This week we look at Spinoza's view of substance and its connection to one or an
 
 *** TODO Spinoza II 
 
-We continue with our discussion of Spinoza, focussing on his arguments in /Ethics/ II concerning the parallel structure of mind and body. One important question raised here is how to understand the relationship between Spinoza's parallelism and his view of the intelligibility of nature. 
+We continue with our discussion of Spinoza, focussing on his arguments in /Ethics/
+II concerning the parallel structure of mind and body. One important question
+raised here is how to understand the relationship between Spinoza's so-called
+"parallelism" (or better: "identity-theory") and his view of the intelligibility
+of nature.
 
 **** Readings
 - Spinoza: /Ethics/ II
@@ -198,7 +204,8 @@ We continue with our discussion of Spinoza, focussing on his arguments in /Ethic
 - Garber: "Superheroes in the History of Philosophy: Spinoza, Super-Rationalist"
 - Garrett: "Spinoza’s Necessitarianism"^*
 - Hübner: "Spinoza on the Limits of Explanation"
-- Renz: /The Explicability of Experience/ ch. 6
+- Hübner: "Spinoza on Expression & Grounds of Intelligibility"
+- Renz: /The Explicability of Experience/, ch. 6
 
 *** TODO Leibniz I: Truth & the PSR
 - Leibniz:
@@ -323,6 +330,54 @@ In this set of notes I discuss the origins of the PSR in Greek Antiquity, its de
 
 #+print_bibliography:
 
+
+*** Spinoza's Ethics
+    SCHEDULED: <2022-09-01 Thu> 
+    :PROPERTIES:
+    :EXPORT_HUGO_TAGS: causality explanation psr spinoza
+    :EXPORT_FILE_NAME: spinoza-ethics
+    :EXPORT_DATE: September 1, 2022
+    :EXPORT_OPTIONS: author:t num:t
+    :EXPORT_AUTHOR: PHIL 971
+    :ID:       20220901T230222.955625
+    :END:
+
+A brief discussion of how to read Spinoza's masterpiece, the /Ethics/.
+
+#+toc: headlines 6
+
+#+INCLUDE: ~/Documents/notes/lecture-notes/20210814T153218--reading-spinoza-s-ethics__teaching.org :lines "6-"
+
+*** The Argument for Monism
+    SCHEDULED: <2022-09-01 Thu> 
+    :PROPERTIES:
+    :EXPORT_HUGO_TAGS: causality explanation monism psr spinoza
+    :EXPORT_FILE_NAME: spinoza-monism
+    :EXPORT_DATE: September 1, 2022
+    :EXPORT_OPTIONS: author:t num:t
+    :EXPORT_AUTHOR: PHIL 971
+    :ID:       20220901T230252.533324
+    :END:
+
+
+A brief discussion of the basic structure of Spinoza's argument for substance monism in /Ethics/, bk. I.
+
+
+#+toc: headlines 6 
+
+
+#+INCLUDE: ~/Documents/notes/lecture-notes/20220331T115017--spinozas-monism__teaching.org :lines "12-"
+
+
+
+**** References 
+     :PROPERTIES:
+     :UNNUMBERED: t
+     :END:
+
+#+print_bibliography:
+
+
 *** Spinoza on Substance & the PSR
     SCHEDULED: <2022-09-01 Thu>
     :PROPERTIES:
@@ -366,26 +421,52 @@ mv *.pdf static/materials/handouts
 - [X] Is there a non-arbitrary way of restricting the PSR?
 
 ** Week 2
-- [ ] Brief review of last week
-   + [ ] Logical form & varieties of PSR
-   + [ ] Features of the "reason" or "ground" relation
+- [X] Brief review of last week
+   + [X] Logical form & varieties of PSR
+   + [X] Features of the "reason" or "ground" relation
       * transitive, asymmetric, and irreflexive?
-   + [ ] Does Descartes accept the standard form of ground relation?
-      - [ ] Is Descartes's conception of God as self-caused a problem for standard form?
-   + [ ] Does Descartes's view of universality of PSR_ontic indicate he endorses the universal intelligibility of all things?
-- [ ] Overview of Spinoza
-   + [ ] Geometric method
-   + [ ] Aims of the /Ethics/
-      - [ ] The nature of God, the relation of human being to God, and the conditions for a good human life
-      - [ ] Note that we won't in any sense discuss all (or even a majority) of the issues raised by the first two books
-      - [ ] Overview of E1-2
-- [ ] Spinoza on PSR & Substance
-   + [ ] Discuss defs & axioms
+   + [X] Does Descartes accept the standard form of ground relation?
+      - [X] Is Descartes's conception of God as self-caused a problem for standard form?
+   + [X] Does Descartes's view of universality of PSR_ontic indicate he endorses the universal intelligibility of all things?
+- [X] Overview of Spinoza
+   + [X] Geometric method
+   + [X] Aims of the /Ethics/
+      - [X] The nature of God, the relation of human being to God, and the conditions for a good human life
+      - [X] Note that we won't in any sense discuss all (or even a majority) of the issues raised by the first two books
+      - [X] Overview of E1-2
+- [-] Spinoza on PSR & Substance
+   + [X] Discuss defs & axioms
    + [ ] In what sense(s) does the PSR figure in Spinoza's argument in E1? Is it presupposed by the defs or axioms? Or is it supported/justified by them?
    + [ ] Are there differences in Spinoza's acceptance of PSR_ontic and Descartes's?
    + [ ] In what sense does Spinoza endorse complete intelligibility?
    + [ ] What is the causal relation?
    + [ ] What is it to be intelligible? 
+*** Questions
+- Seungchul:
+   1) Do we need to assume determinism to understand E1a3?
+   2) How to derive the claim (call this claim α) that from the order of Nature it must follow either that the triangle necessarily exists now or that it is impossible for it to exist now? and How to derive, from α, the claim that a thing necessarily exists if there is no reason or cause which prevents it from existing? 
+- Eunhong: How can we—the mere modes— can infer the substance? I think that the only substance that can be discovered through modes is the substance as mode, not the substance ipso facto.
+- Janelle: The question that I have is whether or not ideas can be limited by bodies given A6
+- Kendric:
+   1) Is a mode an infinite collection of things (e.g. a mode of extension that infinitely spans time and all of space) or is an infinite mode supposed to be shorthand for an infinite series or "package" of modes?
+   2) It seems that, when wielding the PSR, one can only reasonably come up with a direct, one-hop, connection between things or a collection of infinitely many things. Restricted this way, will this be able to solve our metaphysical needs?
+   3) Why is MDR so good?
+- Jessica:
+   1) how do we as a reader and the author define “its own kind” in reference to infinite and finite?
+   2) A physical thing can not exist correct but can we as the reader use the definition of essence or the word to apply to a non-physical thing that can exist (ex; thoughts and ideas)?
+   3) how are we defining substance and it’s attributes? If no two substances can share an attribute why can God contain all attributes but can still only be considered one substance??
+- Jack:
+   1) it doesn’t seem possible to have a positive conception of God (at least not in the sense that we can have a positive conception of the aforementioned examples). And so it looks like Not-wide is the only natural thing to say.
+- Youmin:
+   1) Descartes talks about the differences in where attributes are involved in things or thoughts. It seems he tries to give an example from the difference between time and duration which distinction is in thought. However, I can't get the connection between this distinction, the explanation of some attributes originated from though, and the theory of sufficient reason of fact.
+   2) other paragraphs of Descartes seem to try to distinguish attributes that are involved in a thing or a thought. Then, how this distinction is connected to the ground of the fact? Is the way of being the same as the reason for being (or fact)?
+- Il-Hwan:
+   1) P5 & P8 are problematic
+- Victor:
+   1) Problems w/P28
+       1) in what capacity is God the cause of the existence of finite things at all (since their finite existence does not follow from his absolute nature) and, even more importantly
+       2) in what sense is then their existence necessary (since they seem to necessarily follow from each other within the realm of natura naturata)? 
+
 * Configuration :noexport:
 #+startup: nologdone
 #+hugo_base_dir: ./ 
