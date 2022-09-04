@@ -24,7 +24,7 @@ of nature, or part of what drives that position?
 
 ## Readings {#readings}
 
--   Spinoza: _Ethics_ II
+-   Spinoza: [_Ethics_ II](/materials/readings/spinoza-ethics-II.pdf)
     -   Focus on the definitions, axioms, and E2p1-13 up until the excursis starting on p. 125. Resume at E2p28 until the end of bk. II.
 
 
