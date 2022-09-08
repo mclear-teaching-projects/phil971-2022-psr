@@ -202,10 +202,10 @@ raised here is how to understand the relationship between Spinoza's so-called
 of nature. Is his parallelism a result of his commitment to the intelligibility
 of nature, or part of what drives that position?
 
-- [[https://discord.com/channels/1006739669842673674/1015112837447811182][Discussion thread]]
+- [[https://discord.com/channels/1006739669842673674/1015112837447811182][Discussion thread]] 
 - [[id:20220902T002001.086650][Overview of Spinoza on Mind]] ([[file:static/materials/handouts/spinoza-mind.pdf][PDF]])
-- Notes (Coming soon...)
-- Handout (Coming soon...)
+- [[id:20220908T120337.014748][Notes]] ([[~/Dropbox/Work/projects/phil971-2022-psr/static/materials/handouts/spinoza-parallelism.pdf][PDF]])
+
 
 **** Readings
 - Spinoza: [[/Users/roambot/Dropbox/Work/projects/phil971-2022-psr/static/materials/readings/spinoza-ethics-II.pdf][/Ethics/ II]]
@@ -433,6 +433,32 @@ Below are notes I use in undergraduate introductions to E2. I lay out some of th
 #+INCLUDE: ~/Documents/notes/lecture-notes/20220407T131253--spinoza-s-mind__teaching.org :lines "9-"
 
 [fn:1] For further overview see [cite:@dellarocca2008; @hubner2015; @garrett2018; @renz2018; @lin2019; @hubner2021]. 
+
+**** References 
+     :PROPERTIES:
+     :UNNUMBERED: t
+     :END:
+
+#+print_bibliography:
+
+
+*** Spinoza's Parallelism & The PSR 
+     SCHEDULED: <2022-09-08 Thu>
+     :PROPERTIES:
+     :EXPORT_HUGO_TAGS: explanation mind-body parallelism psr spinoza substance
+     :EXPORT_FILE_NAME: spinoza-parallelism
+     :EXPORT_DATE: September 8, 2022
+     :EXPORT_OPTIONS: author:t num:t
+     :EXPORT_AUTHOR: PHIL 971
+     :ID:       20220908T120337.014748
+     :END:
+
+Here I discuss Spinoza's so-called "parallelism" doctrine, as well as its relation to his overall project of articulating the conditions of the intelligibility of reality. 
+
+#+toc: headlines 6
+
+#+INCLUDE: ~/Documents/notes/lecture-notes/20220907T084828--spinozas-parallelism-and-the-psr__teaching.org :lines "6-"
+
 
 **** References 
      :PROPERTIES:

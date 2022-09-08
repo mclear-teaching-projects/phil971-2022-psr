@@ -1,6 +1,6 @@
 +++
 title = "Week 3 – Spinoza II: Mind & Intelligibility"
-publishDate = 2022-09-08T00:00:00-04:00
+publishDate = 2022-09-08T00:00:00-05:00
 tags = ["explanation", "mind-body", "paralellism", "psr", "spinoza", "substance"]
 draft = false
 weight = -100
@@ -18,8 +18,7 @@ of nature, or part of what drives that position?
 
 -   [Discussion thread](https://discord.com/channels/1006739669842673674/1015112837447811182)
 -   [Overview of Spinoza on Mind]({{< relref "spinoza-mind" >}}) ([PDF](/materials/handouts/spinoza-mind.pdf))
--   Notes (Coming soon...)
--   Handout (Coming soon...)
+-   [Notes]({{< relref "spinoza-parallelism" >}}) ([PDF](/materials/handouts/spinoza-parallelism.pdf))
 
 
 ## Readings {#readings}
