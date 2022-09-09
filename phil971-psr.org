@@ -220,25 +220,70 @@ of nature, or part of what drives that position?
 - Hübner: "[[file:static/materials/readings/hubner-parallelism.pdf][Spinoza's Parallelism Doctrine & Metaphysical Sympathy]]"
 - Renz: [[file:static/materials/readings/renz-realist-rationalism.pdf][/The Explicability of Experience/, ch. 6]]
 
-*** TODO Leibniz I: Truth & the PSR
+*** DONE Background Reading on Ground
+    SCHEDULED: <2022-09-08 Thu>
+   :PROPERTIES:
+   :EXPORT_HUGO_TAGS:  cause ground explanation
+   :EXPORT_FILE_NAME: grounding
+   :END:
+
+Below are some central papers concerning, and useful overviews of, the notion of 'ground' in contemporary philosophy. We won't necessarily explicitly discuss any of these in class but they may be useful to those of you unfamiliar with contemporary debate.
+
+- Kim,
+   + "Explanatory Realism, Causal Realism, and Explanatory Exclusion"
+   + "Explanatory Knowledge and Metaphysical Dependence"
+- Schaffer, "On What Grounds What"
+- Fine, "Guide to Ground"
+- Rosen, "Metaphysical Dependence: Grounding and Reduction"
+- Audi, "Grounding: Toward a Theory of the in-Virtue-of Relation"
+- Barnes, "Symmetric Dependence"
+- Sider, Notes from a seminar on ground
+- Trogdon, "An Introduction to Grounding"
+- Raven, "Ground"
+
+You can download the whole bundle [[file:static/materials/readings/grounding.zip][here]]. 
+
+   
+*** DONE Week 4 – Leibniz I: Truth, Explanation, & The PSR
+    SCHEDULED: <2022-09-15 Thu>
+   :PROPERTIES:
+   :EXPORT_HUGO_TAGS:  explanation idealism leibniz psr truth 
+   :EXPORT_FILE_NAME: week4
+   :END:
+
+This week we discuss Leibniz's theory of truth and ways in which it relates to his conception of substance, the principle of sufficient reason, and explanation. 
+
 - Leibniz:
    + "Meditations on Knowledge, Truth, and Ideas"
    + "First Truths"
-   + “Discourse on Metaphysics,” §§1–13
+   + /Discourse on Metaphysics/, §§1–13
+   + /New Essays Concerning Human Understanding/, Preface (pp. 304-5, on Locke & superaddition)
    + "Monadology", §§31-60
    + Excerpts from the /Letters to Clarke/
+
+- You can download these readings [[file:static/materials/readings/leibniz-I.zip][here]].
+
+**** Recommended
+Recommended readings below. I especially encourage you to read the objections from Hume. You can download the whole set of readings [[file:static/materials/readings/leibniz-rec-I.zip][here]]. 
+
 - Hume:
    + /Dialogues Concerning Natural Religion/, §9
    + /Enquiry Concerning Human understanding/, §4, part I
 - Della Rocca: “Violations of the Principle of Sufficient Reason (in Leibniz and Spinoza)”
-   
+- Jolley, "The Metaphysics of Substances: Unity and Activity"
+- Rutherford,
+   + "The Categories of Thought and Being"
+   + "Substance"
+
 *** TODO Leibniz II: Freedom & the PSR
 - Leibniz:
    + "On Contingency"
    + Excerpts from the /Letters to Arnauld/
    + "On Freedom"
-- Adams: /Leibniz/, ch. 1
-- Lin: “Rationalism and Necessitarianism”^*
+- Adams, /Leibniz/, ch. 1
+- Lin, “Rationalism and Necessitarianism”^*
+- Rutherford, "Idealism Declined: Leibniz and Christian Wolff"
+- Newlands, "Leibniz and the Ground of Possibility"
 
 *** TODO Kant I: The Pre-Critical Kant on the PSR
 - Crusius: /Sketch of the Necessary Truths of Reason/, §§1-48, 57-9, 62-84, 204-49
