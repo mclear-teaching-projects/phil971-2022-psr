@@ -23,4 +23,4 @@ Below are some central papers concerning, and useful overviews of, the notion of
 -   Trogdon, &ldquo;An Introduction to Grounding&rdquo;
 -   Raven, &ldquo;Ground&rdquo;
 
-You can download the whole bundle [here](static/materials/readings/grounding).
+You can download the whole bundle [here](https://www.dropbox.com/sh/rqc7cqi1mvkdwoz/AAB3mXxcUX50ETWNbf1Vl3Dsa?dl=0).

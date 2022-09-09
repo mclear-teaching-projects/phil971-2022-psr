@@ -241,7 +241,7 @@ Below are some central papers concerning, and useful overviews of, the notion of
 - Trogdon, "An Introduction to Grounding"
 - Raven, "Ground"
 
-You can download the whole bundle [[file:static/materials/readings/grounding][here]]. 
+You can download the whole bundle [[https://www.dropbox.com/sh/rqc7cqi1mvkdwoz/AAB3mXxcUX50ETWNbf1Vl3Dsa?dl=0][here]]. 
 
    
 *** DONE Week 4 – Leibniz I: Truth, Explanation, & The PSR
@@ -261,10 +261,10 @@ This week we discuss Leibniz's theory of truth and ways in which it relates to h
    + "Monadology", §§31-60
    + Excerpts from the /Letters to Clarke/
 
-- You can download these readings [[file:static/materials/readings/leibniz-I][here]].
+- You can download these readings [[https://www.dropbox.com/sh/bo8w2wrslqq1bfa/AACdBUR7kpAQTgCgG27SDB9ha?dl=0][here]].
 
 **** Recommended
-Recommended readings below. I especially encourage you to read the objections from Hume. You can download the whole set of readings [[file:static/materials/readings/leibniz-rec-I][here]]. 
+Recommended readings below. I especially encourage you to read the objections from Hume. You can download the whole set of readings [[https://www.dropbox.com/sh/qddr4i38lbun1fh/AAAwUr1uAp05cS6tO_ZlCfmsa?dl=0][here]]. 
 
 - Hume:
    + /Dialogues Concerning Natural Religion/, §9

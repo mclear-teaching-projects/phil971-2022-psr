@@ -19,12 +19,12 @@ This week we discuss Leibniz&rsquo;s theory of truth and ways in which it relate
     -   &ldquo;Monadology&rdquo;, §§31-60
     -   Excerpts from the _Letters to Clarke_
 
--   You can download these readings [here](static/materials/readings/leibniz-I).
+-   You can download these readings [here](https://www.dropbox.com/sh/bo8w2wrslqq1bfa/AACdBUR7kpAQTgCgG27SDB9ha?dl=0).
 
 
 ## Recommended {#recommended}
 
-Recommended readings below. I especially encourage you to read the objections from Hume. You can download the whole set of readings [here](static/materials/readings/leibniz-rec-I).
+Recommended readings below. I especially encourage you to read the objections from Hume. You can download the whole set of readings [here](https://www.dropbox.com/sh/qddr4i38lbun1fh/AAAwUr1uAp05cS6tO_ZlCfmsa?dl=0).
 
 -   Hume:
     -   _Dialogues Concerning Natural Religion_, §9
