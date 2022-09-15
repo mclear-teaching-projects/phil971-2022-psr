@@ -253,6 +253,11 @@ You can download the whole bundle [[https://www.dropbox.com/sh/rqc7cqi1mvkdwoz/A
 
 This week we discuss Leibniz's theory of truth and ways in which it relates to his conception of substance, the principle of sufficient reason, and explanation. 
 
+- [[https://discord.com/channels/1006739669842673674/1018167533599215636][Discussion thread]]
+- [[id:20220914T135107.188323][Notes]] ([[file:static/materials/handouts/leibniz-substance.pdf][PDF]])
+
+**** Readings
+
 - Leibniz:
    + "Meditations on Knowledge, Truth, and Ideas"
    + "First Truths"

@@ -1,6 +1,6 @@
 +++
 title = "Week 4 – Leibniz I: Truth, Explanation, & The PSR"
-publishDate = 2022-09-15T00:00:00-05:00
+publishDate = 2022-09-15T00:00:00-04:00
 tags = ["explanation", "idealism", "leibniz", "psr", "truth"]
 draft = false
 weight = -100
@@ -10,6 +10,12 @@ type = "post"
 +++
 
 This week we discuss Leibniz&rsquo;s theory of truth and ways in which it relates to his conception of substance, the principle of sufficient reason, and explanation.
+
+-   [Discussion thread](https://discord.com/channels/1006739669842673674/1018167533599215636)
+-   [Notes]({{< relref "leibniz-substance" >}}) ([PDF](/materials/handouts/leibniz-substance.pdf))
+
+
+## Readings {#readings}
 
 -   Leibniz:
     -   &ldquo;Meditations on Knowledge, Truth, and Ideas&rdquo;
