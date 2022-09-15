@@ -477,7 +477,7 @@ Below are notes I use in undergraduate introductions to E2. I lay out some of th
 
 #+INCLUDE: ~/Documents/notes/lecture-notes/20220407T131253--spinoza-s-mind__teaching.org :lines "9-"
 
-[fn:1] For further overview see [cite:@dellarocca2008; @hubner2015; @garrett2018; @renz2018; @lin2019; @hubner2021]. 
+[fn:1] For further overview see [cite:@dellarocca2008; @hubner2015; @garrett2018; @renz2018; @lin2019; @hubner2021].
 
 **** References 
      :PROPERTIES:
@@ -503,6 +503,82 @@ Here I discuss Spinoza's so-called "parallelism" doctrine, as well as its relati
 #+toc: headlines 6
 
 #+INCLUDE: ~/Documents/notes/lecture-notes/20220907T084828--spinozas-parallelism-and-the-psr__teaching.org :lines "6-"
+
+
+**** References 
+     :PROPERTIES:
+     :UNNUMBERED: t
+     :END:
+
+#+print_bibliography:
+
+*** Leibniz On Substance & Truth 
+    :PROPERTIES:
+    :EXPORT_HUGO_TAGS: explanation intelligibility leibniz psr substance truth
+    :EXPORT_FILE_NAME: leibniz-substance
+    :EXPORT_DATE: September 14, 2022
+    :EXPORT_OPTIONS: author:t num:t
+    :EXPORT_AUTHOR: PHIL 971
+    :ID:       20220914T135107.188323
+    :END:
+
+
+Here I discuss the basic elements of Leibniz's view of substance, truth as conceptual containment, and his idealist theory of monads. I show how Leibniz uses the PSR to argue against materialist conceptions of substance, as well as so-called "absolute" conceptions of space.[fn:2]
+
+#+toc: headlines 6
+
+**** Leibniz -- Chronology 
+
+Here's a brief overview of Gottfried Wilhelm Leibniz's life (1646–1716). For
+further details see his [[http://plato.stanford.edu/entries/leibniz/][SEP entry]].
+
+- Born in Leipzig in 1646, trained as a lawyer and defended his degree
+  in law at, 20 in Altdorf in 1666.
+- Lived in Paris from 1672-6 where he received much of his training in
+  mathematics and physics, and independently from Newton invented the
+  differential and integral calculus
+- Appointed court councilor at Braunschweig-Lüneberg in Hanover in 1667
+   - While only publishing one book in his lifetime (the 1710 /Theodicy/) he wrote
+     many important shorter works (e.g. 1684's /Meditations on Knowledge, Truth,
+     and Ideas/, 1686's /Discourse on Metaphysics/, 1695's /New System/, and
+     1714's /Monadology/)
+- Died in Hanover on November 14, 1716
+- Some (near) contemporaries:
+   - Descartes (1596-1650)
+   - Malebranche (1638-1715)
+   - Thomas Reid (1710-1796)
+   - Christian Wolff (1679–1754) 
+   - Immanuel Kant (1724-1804)
+
+
+#+INCLUDE: ~/Documents/notes/lecture-notes/20210729T005817--leibnizmatter__teaching.org::#leibniz-against-matter :minlevel 4
+
+
+**** The Metaphysics of Substance 
+All of the leading philosophers of the seventeenth century begin from the idea
+that the most basic kind of being, in terms of which all else is to be
+explained, is substance. This means that substance must be, in an appropriate
+sense, causally and explanatorily self-sufficient. Sometimes this is put
+in terms of predication. Substances are the ultimate subjects of predication,
+which is to say that we predicate things of substances (e.g. 'The stone is
+cold', 'John is tall') and never predicate substances of anything else.
+Substances thus constitute the basic 'furniture' of reality.
+
+
+#+INCLUDE: ~/Documents/notes/lecture-notes/20210729T005817--leibnizidealism__teaching.org::#the-logical-conception-of-substance :minlevel 5
+
+#+INCLUDE: ~/Documents/notes/lecture-notes/20220310T131313--locke-leibniz-superaddition__teaching.org::#leibniz-superaddition :minlevel 5
+
+#+INCLUDE: ~/Documents/notes/lecture-notes/20210729T005817--leibnizidealism__teaching.org::#five-conditions-on-substance :minlevel 5
+
+#+INCLUDE: ~/Documents/notes/lecture-notes/20210729T005817--leibnizidealism__teaching.org::#monads :minlevel 5
+
+#+INCLUDE: "~/Documents/notes/zettel/20200314T122920--notes-on-leibniz-clarke__teaching.org::#leibnizs-third-reply" :minlevel 4
+
+
+
+[fn:2] Some useful resources for the discussion below are [cite:@bennett1984a; @heidegger1984; @mates1986; @hartz1988; @heidegger1991; @rutherford1992; @adams1994; @baxter1995; @cover1997;  @rutherford1998; @cover1999; @bennett2001a; @bobro2004; @jolley2005; @futch2008; @hahmann2009; @look2010; @newlands2010; @garber2011; @levey2012; @jorati2017a; @arthur2018; @aitken2020; @pikkert2021]. 
+
 
 
 **** References 
