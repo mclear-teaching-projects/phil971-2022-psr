@@ -280,15 +280,33 @@ Recommended readings below. I especially encourage you to read the objections fr
    + "The Categories of Thought and Being"
    + "Substance"
 
-*** TODO Leibniz II: Freedom & the PSR
+*** DONE Leibniz II: Freedom & the PSR
+    SCHEDULED: <2022-09-22 Thu>
+   :PROPERTIES:
+   :EXPORT_HUGO_TAGS:  contingency explanation freedom leibniz psr truth 
+   :EXPORT_FILE_NAME: week5
+   :END:
+
+We continue our discussion of Leibniz this week by looking at how his theory of the complete determination of everything (i.e. that everything has a reason, ground, or explanation) and his view of freedom. 
+
+**** Readings 
 - Leibniz:
-   + "On Contingency"
+   + On Contingency
+   + The Source of Contingent Truths
    + Excerpts from the /Letters to Arnauld/
-   + "On Freedom"
-- Adams, /Leibniz/, ch. 1
-- Lin, “Rationalism and Necessitarianism”^*
-- Rutherford, "Idealism Declined: Leibniz and Christian Wolff"
-- Newlands, "Leibniz and the Ground of Possibility"
+   + Letter to Coste on Freedom 
+   + On Freedom
+   + On Freedom & Possibility
+
+All the Leibniz readings can be found [[https://www.dropbox.com/scl/fo/nh5h14mi5rfi96inm8u82/h?dl=0&rlkey=l9sfje6tc16hbk6fsv0hr7itv][here]].
+
+**** Recommended 
++ Adams, /Leibniz/, ch. 1
++ Lin, “Rationalism and Necessitarianism”^*
++ Rutherford, "Leibniz's Principle of Intelligibility"
++ Newlands, "Leibniz and the Ground of Possibility"
+  
+All the recommended readings can be found [[https://www.dropbox.com/scl/fo/5opmkyrvv29tn92u8xlks/h?dl=0&rlkey=inro0fmje8vhl3vjehyyp8r97][here]]. 
 
 *** TODO Kant I: The Pre-Critical Kant on the PSR
 - Crusius: /Sketch of the Necessary Truths of Reason/, §§1-48, 57-9, 62-84, 204-49
