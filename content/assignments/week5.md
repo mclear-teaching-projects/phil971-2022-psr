@@ -11,6 +11,9 @@ type = "post"
 
 We continue our discussion of Leibniz this week by looking at how his theory of the complete determination of everything (i.e. that everything has a reason, ground, or explanation) and his view of freedom.
 
+-   [Discussion Thread](https://discord.com/channels/1006739669842673674/1020721875720081558)
+-   Notes (PDF) ... coming soon ...
+
 
 ## Readings {#readings}
 
