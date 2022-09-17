@@ -1,0 +1,285 @@
+#+STARTUP: fnadjust
+#+TITLE: Week 4 – Leibniz Handout I
+#+DATE: PHIL 971\nbsp |\nbsp September 15, 2022
+#+AUTHOR: Colin McLear
+#+LATEX_COMPILER: xelatex
+#+BIBLIOGRAPHY: ~/Dropbox/Work/bibfile.bib
+#+EXCLUDE_TAGS: noexport notes scrap todo
+#+OPTIONS: ':t toc:nil  H:2
+#+OPTIONS: prop:nil
+#+cite_export: csl chicago-author-date-16th-edition.csl
+
+* Life & Chronology
+
+- Gottfried Wilhelm Leibniz (1646-1716)
+- Born in Leipzig, trained as a lawyer and defended his degree
+  in law at, 20 in Altdorf in 1666.
+- Appointed court councilor at Braunschweig-Lüneberg in Hanover in 1667
+   - While only publishing one book in his lifetime (the 1710 /Theodicy/) he wrote
+     many important shorter works (e.g. 1684's /Meditations on Knowledge, Truth,
+     and Ideas/, 1686's /Discourse on Metaphysics/, 1695's /New System/, and
+     1714's /Monadology/)
+- Lived in Paris from 1672-6 where he received much of his training in
+  mathematics and physics, and independently from Newton invented the
+  differential and integral calculus
+- Died in Hanover on November 14, 1716
+- Some (near) contemporaries:
+   - Descartes (1596-1650)
+   - Malebranche (1638-1715)
+   - Thomas Reid (1710-1796)
+   - Christian Wolff (1679–1754) 
+   - Immanuel Kant (1724-1804)
+
+* Leibniz Against Matter as Substantial
+
+Descartes on substance:
+
+#+begin_quote
+By /substance/ we can understand nothing other than a thing which exists in such a way as to depend on no other thing for its existence. And there is only one substance which can be understood to depend on no other thing whatsoever, namely God. (/Principles/ 1.51)
+#+end_quote
+
+Thus, for Descartes a material substance and a mind are both individual
+and independent kinds of thing.
+
+For Leibniz substance must not only be independent, but also /unitary/. From the /New System/:
+
+#+begin_quote
+after much reflection, I perceived that it is impossible to find the principles of a true unity in matter alone, or in what is only passive, since everything in it is only a collection or aggregation of parts to infinity. Now, a multitude can derive its reality only from true unities, which have some other origin and are considerably different from mathematical points which are only the extremities and modifications of extension, which all agree cannot make up the continuum. Therefore, in order to find these real entities I was forced to have recourse to a formal atom, since a material thing cannot be both material and, at the same time, perfectly indivisible, that is, endowed with a true unity. (AG p. 139)
+#+end_quote
+
+Leibniz argues here that the 'true unity' required to attribute to matter the status
+of substance (as thus as recognizing individual material bodies as substances) cannot
+be found in matter itself. 
+
+#+begin_quote
+Such a unity could not occur in the machines made by a craftsman or in a simple mass of matter, however organized it may be; such a mass can only be considered as an army or a herd, or a pond full of fish, or like a watch composed of springs and wheels. Yet if there were no true substantial unities, there would be nothing substantial or real in the collection (AG p. 142)
+#+end_quote
+
+An aggregate is nothing beyond the collection of its parts, and since each part is independent of the others there is no unity to the whole. So no aggregate can be a substance. 
+
+What about material "atoms" -- i.e. material particles of which no further division can be made? Here's Leibniz's response from the /New System/:
+
+#+begin_quote
+if there were no true substantial unities, there would be nothing substantial or real in the collection. That was what forced Cordemoy to abandon Descartes and to embrace the Democritean doctrine of atoms in order to find a true unity. But atoms of matter are contrary to reason. Furthermore, they are still composed of parts, since the invincible attachment of one part to another (if we can reasonably conceive or assume this) would not eliminate diversity of those parts. There are only atoms of substance, that is, real unities absolutely destitute of parts, which are the source of actions, the first absolute principles of the composition of things, and, as it were, the final elements in the analysis of substantial things. We could call them metaphysical points: they have something vital, a kind of perception, and mathematical points are the points of view from which they express the universe. But when corporeal substances are contracted, all their organs together constitute only a physical point relative to us. Thus physical points are indivisible only in appearance; mathematical points are exact, but they are merely modalities. Only metaphysical points or points of substance (constituted by forms or souls) are exact and real, and without them there would be nothing real, since without true unities there would be no multitude. (AG 142)
+#+end_quote
+
+Three questions about Leibniz's argument here:
+
+1. Why is the notion of material atom "contrary to reason"?
+2. In what sense are atoms "still composed of parts"?
+3. In what sense does reality depend on "metaphysical points"? 
+
+
+* Against the Reality of Matter
+
+Leibniz contends that "if there were no true substantial unities, there would be nothing substantial or real in the collection" (AG p. 142). What's his argument?
+
+1. Matter (material body) is nothing but a collection or aggregate of
+   parts
+2. Any /real/ aggregate must ultimately be composed of parts which are not
+   themselves aggregates---viz., "true unities"
+3. True unities cannot be material (b/c they must be indivisible) or
+   mathematical (b/c mathematical points are not real)
+4. \therefore Matter depends on a non-material true unity
+
+Would the atomist or 'corpuscularian' agree with this argument?
+
+In the background of Leibniz's argument is something we might call the 'Principle of
+Borrowed Reality' (PBR). Leibniz makes this point quite clearly in a letter to the
+Jesuit priest and philosopher [[http://plato.stanford.edu/entries/arnauld/][Antoine Arnauld]]:
+
+#+begin_quote
+I believe that where there are only beings by aggregation, there
+aren't any real beings. For every being by aggregation presupposes
+beings endowed with real unity, because every being derives its
+reality only from the reality of those beings of which it is composed,
+so that it will not have any reality at all if each being of which it
+is composed is itself a being by aggregation, a being for which we
+must still seek further grounds for its reality, grounds which can
+never be found in this way, if we must always continue to seek for
+them. (To Arnauld (April 30, 1687), p. 85)
+#+end_quote
+
+Is the PBR plausible?
+
+Leibniz's positive views on the status of matter seem to change over the course
+of his life. At the point of writing the /New System/ (1695) Leibniz considered
+matter to be real but not ultimately so, its existence and unity being dependent
+on the existence of substantial forms or souls.
+
+#+begin_quote
+Only metaphysical points or points of substance (constituted by forms
+or souls) are exact and real, and without them there would be nothing
+real, since without true unities there would be no multitude. (142)
+#+end_quote
+
+By the time he writes the /Monadology/ (1714) Leibniz has given up on the reality of matter altogether, arguing that it is only a perception existing in the mind of the perceiver. He states this clearly in a 1712 letter to Bartholomew des Bosses, Jesuit teacher of theology and a professor of mathematics at Cologne.
+
+#+begin_quote
+I consider the explanation of all phenomena solely through the
+perceptions of monads functioning in harmony with each other, with
+corporeal substances rejected, to be useful for a fundamental
+investigation of things...It is true that things which happen in the
+soul must agree with those which happen outside of it. But for this it
+is enough for the things taking place in one soul to correspond with
+each other as well as with those happening in any other soul, and it
+is not necessary to assume anything outside of all souls or monads.
+According to this hypothesis, we mean nothing else when we say that
+Socrates is sitting down than that what we understand by 'Socrates'
+and by 'sitting down' is appearing to us and to others who are
+concerned. (Letter to des Bosses, 16 June, 1712)
+#+end_quote
+
+This position, subsequently called "/phenomenalism/", construes the material world as
+nothing more than the orderly perceptual appearances of an underlying non-material
+order of mind-like substances or "monads".
+
+* The Metaphysics of Substance
+
+** The Logic of Substance
+
+
+Leibniz thinks that there are close connections between the nature of truth
+and the nature of substance. He contends that all truth is analytic truth by virtue of containment:
+
+#+begin_quote
+in every true affirmative proposition, whether necessary or contingent, universal or particular, the notion of the predicate is in some way included in that of the subject. /Praedicatum in est subjecto/; otherwise I do not know what truth is. (G II 56; L 337)
+#+end_quote
+
+So in every true predication the concept of the predicate is contained in the concept of the subject. This corresponds to the fact that substance is the ultimate subject of properties, and that which cannot be a property of anything else. 
+
+As a correlary, Leibiz claims that every substance has a "complete individual concept", such that if x is a substance then there is a concept of x that contains all true predications concerning x
+
+#+begin_quote
+it is the nature of an individual substance or complete being to have a concept so complete that it is sufficient to make us understand and deduce from it all the predicates of the subject to which the concept is attributed. An accident, on the other hand, is a being whose concept does not include everything that can be attributed to the subject to which the concept is attributed (DM §8; L 307)
+#+end_quote
+
+Leibniz thinks that finite beings grasp truths about substances via partial grasp of their complete concepts, while God knows all truths about all substances via a perfect grasp of their complete concepts.
+
+** Leibniz's Objection to Superaddition
+
+According to Leibniz, the proper conception of substance and essence requires
+that all powers of objects are grounded in the nature of the objects themselves
+or in God's activity of miraculous intervention. Against Locke, he contends that
+there cannot be non-miraculous "superaddition" of properties to a substance that
+do not follow from its essence.
+
+  #+begin_quote
+one must above all take into account that the modifications which can come
+naturally or without miracle to a single subject must come to it from the
+limitations or variations of a real genus or of an original nature, constant and
+absolute. For this is how in philosophy we distinguish the modes of an absolute
+being from the being itself; ... And every time we find some quality in a
+subject, we ought to think that, if we understood the nature of this subject and
+of this quality, we would understand how this quality could result from that
+nature. Thus in the order of nature (setting miracles aside) God does not
+arbitrarily give these or those qualities indifferently to substances; he never
+gives them any but those which are natural to them, that is to say, those that
+can be derived from their nature as explicable modifications. ... This
+distinction between what is natural and explicable and what is inexplicable and
+miraculous removes all the difficulties: if we were to reject it, we would
+uphold something worse than occult qualities, and in doing so we would renounce
+philosophy and reason, and throw open refuges for ignorance and idleness through
+a hollow system, a system which admits not only that there are qualities we do
+not understand (of which there are only too many) but also that there are some
+qualities that the greatest mind could not understand, even if God provided him
+with every possible advantage, that is, qualities that would be either
+miraculous or without rhyme or reason.[cite:@leibniz1989a pp. 304-5]
+  #+end_quote
+
+Leibniz hammers away at the point that the reason for accepting a substance-essence
+ontology is fundamentally one concerning /explanation/. The idea being that reality
+is, at least in principle, intelligible, in the sense that the ultimate explanation
+of some property instantiation depends on appealing to the essence or nature of the
+substance that has that property. Leibniz points out that once this connection
+between substantial essence and property is rejected we no longer have any basis for
+construing reality as in principle intelligible to us (or to anyone really, apart
+from God).
+
+** Five Conditions of Substance
+In the opening sections of the /Monadology/ Leibniz articulates several conditions on his positive conception of substance. Many of these have been more or less explicit in his critique of the Cartesian notion of material substance. Here are Leibniz's five conditions on being a substance:
+
+1. *Independence*: A substance is that in which other things exist,
+   which itself does not exist in anything else. (Here 'in' must mean
+   something other/stronger than merely 'depends upon,' since created substance
+   depends upon God for its existence.)
+2. *Persistence*: A substance is that which persists (or endures) as the same
+   thing through change -- i.e. it possesses diachronic identity conditions. 
+3. *Activity*: A substance is necessarily active, or involves a
+   principle of change. Leibniz often refers to this principle as a
+   substance's "entelechy" or "primitive active force."
+4. *Unity*: A substance is that which is truly one. A substance cannot
+   be broken down into any collection of simpler beings, themselves
+   satisfying the *Independence* condition. (This is consistent with our
+   being able to distinguish different aspects of a substance, e.g. its
+   active and passive force, or form and matter, so long as these cannot
+   exist independently of the complete substance.) Substances can only
+   come into being via an act of creation (by God) and end by
+   annihilation (again by God).
+5. *Individuation*: A substance has a principle of individuation
+   intrinsic to its nature. Thus no two substances can resemble each
+   other completely while yet being distinct. This condition entails
+   that substances satisfy the principle of the identity of
+   indiscernibles (PII): for any two things, a and b, if a and b are
+   non-identical, there is some property F, such that a has F while b
+   lacks F. If a and b are Leibnizian substances, they satisfy PII by
+   virtue of a property intrinsic to their respective natures.
+
+** Monads
+
+
+Leibniz articulates the fundamental characteristics of monads as follows
+(M §1-15):
+
+1. Monads are /simple/ -- i.e. without parts.
+2. Monads are /immaterial/ -- they lack extension, shape, etc. (This is
+   required by their being simple).
+3. Monads are /indestructible/ -- there is no natural way for a monad to
+   come into or go out of existence,they must be created or destroyed by
+   an act of God. Indestructibility is also a result of simplicity.
+4. Monads are /windowless/ -- there is no interaction, causal or
+   otherwise, between monads.
+5. No parts which may be rearranged, so no causation.
+    - No 'influx' of properties, since the concept of 'wandering' properties is
+      incoherent.
+6. Monads /differ/ from one another in virtue of their /perceptions/ -
+   each monad has a unique point of view on the universe
+7. The order in which a monad's perceptions proceed is in accordance
+   with its /appetite/. - "Appetite" here is not to be understood in
+   terms of hunger but rather in terms of a striving or motive force -- the primitive active force that Leibniz some times refers to as an "entelechy".
+
+These seven features of monads help them satisfy the five conditions on being a substance. Indeed, Leibniz seems largely to reason from his abstract conception of substance /to/ his particular conception of substance-as-monad.
+
+
+* Leibniz's Third Reply to Clarke
+
+The PSR figures prominently in Leibniz's Third Reply to Clarke. Here Leibniz
+argues against space as an absolute substance (presumably the argument applies
+/mutatis mutandis/ to time).
+
+#+begin_quote
+Space is absolutely uniform, and without the things placed in it one point of space absolutely does not differ in anything from another. Now, from hence it follows (supposing space to be something in itself, besides the order of bodies among themselves) that it is impossible there should be a reason why God, preserving the same situations of bodies among themselves, should have placed them in space after one certain particular manner and not otherwise—why everything was not placed the quite contrary way, for instance, by changing east into west. But if space is nothing else but this order or relation, and is nothing at all without bodies but the possibility of placing them, then those two states, the one such as it is now, the other supposed to be the quite contrary way, would not at all differ from one another. . . . Consequently there is no room to inquire after a reason for the preference of the one to the other. (AG 325)
+#+end_quote
+
+Here's a reconstruction of the argument.
+
+
+1. Space is an infinitely extended thing (for reductio)
+2. Space is absolutely uniform
+3. Space is composed of distinct regions whose identity does not depend
+   upon any facts about their contents (from 2)
+4. There is a fact of the matter about where in space the material world
+   is (from 3)
+5. God chose to put the world in one place rather than another (from 4 &
+   Leibniz's theology)
+6. There can be no reason for God to prefer one location for the world
+   rather than another (from 1 & 2)
+7. God made a choice for which He had no reason (from 5 & 6)
+
+
+Since Leibniz believes (7) is absurd he must reject one of the premises
+-- and he rejects (1). /Why/ does Leibniz believe (7) is absurd? It is a violation of the PSR, for it would mean that God acts without reason or further explanation. This would be fine for Descartes's voluntarist conception of God, but not Leibniz's. 
+
+Is this argument "extravagantly rationalistic"?
+
+

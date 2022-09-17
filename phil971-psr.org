@@ -255,6 +255,7 @@ This week we discuss Leibniz's theory of truth and ways in which it relates to h
 
 - [[https://discord.com/channels/1006739669842673674/1018167533599215636][Discussion thread]]
 - [[id:20220914T135107.188323][Notes]] ([[file:static/materials/handouts/leibniz-substance.pdf][PDF]])
+- [[file:static/materials/handouts/week-4-handout.pdf][Handout]]
 
 **** Readings
 

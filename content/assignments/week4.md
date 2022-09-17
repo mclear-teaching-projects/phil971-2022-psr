@@ -13,6 +13,7 @@ This week we discuss Leibniz&rsquo;s theory of truth and ways in which it relate
 
 -   [Discussion thread](https://discord.com/channels/1006739669842673674/1018167533599215636)
 -   [Notes]({{< relref "leibniz-substance" >}}) ([PDF](/materials/handouts/leibniz-substance.pdf))
+-   [Handout](/materials/handouts/week-4-handout.pdf)
 
 
 ## Readings {#readings}
