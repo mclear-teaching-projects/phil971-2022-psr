@@ -280,7 +280,7 @@ Recommended readings below. I especially encourage you to read the objections fr
    + "The Categories of Thought and Being"
    + "Substance"
 
-*** DONE Leibniz II: Freedom & the PSR
+*** DONE Week 5 – Leibniz II: Freedom & the PSR
     SCHEDULED: <2022-09-22 Thu>
    :PROPERTIES:
    :EXPORT_HUGO_TAGS:  contingency explanation freedom leibniz psr truth 

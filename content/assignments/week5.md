@@ -1,5 +1,5 @@
 +++
-title = "Leibniz II: Freedom & the PSR"
+title = "Week 5 – Leibniz II: Freedom & the PSR"
 publishDate = 2022-09-22T00:00:00-04:00
 tags = ["contingency", "explanation", "freedom", "leibniz", "psr", "truth"]
 draft = false
