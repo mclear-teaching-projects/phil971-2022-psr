@@ -291,7 +291,7 @@ Recommended readings below. I especially encourage you to read the objections fr
 We continue our discussion of Leibniz this week by looking at how his theory of the complete determination of everything (i.e. that everything has a reason, ground, or explanation) and his view of freedom. 
 
 - [[https://discord.com/channels/1006739669842673674/1020721875720081558][Discussion Thread]]
-- Notes (PDF) ... coming soon ... 
+- [[id:20220917T161827.750074][Notes]] ([[file:static/materials/handouts/leibniz-freedom.pdf][PDF]])
 
 **** Readings 
 - Leibniz:
@@ -614,6 +614,32 @@ Substances thus constitute the basic 'furniture' of reality.
      :END:
 
 #+print_bibliography:
+
+
+*** DONE Leibniz on Freedom & Contingency
+    :PROPERTIES:
+    :EXPORT_HUGO_TAGS: contingency freedom leibniz necessity psr responsibility
+    :EXPORT_FILE_NAME: leibniz-freedom
+    :EXPORT_DATE: September 22, 2022
+    :EXPORT_OPTIONS: author:t num:t
+    :EXPORT_AUTHOR: PHIL 971
+    :ID:       20220917T161827.750074
+    :END:
+
+I discuss Leibniz's position on freedom and contingency. It is important for Leibniz that his view allow for the ability to do otherwise, or leeway in action, that we take to be exemplified in saying of some act that it was possible for it not to be done (or the event not to occur, etc.). Thus, though Liebniz accepts a seemingly unrestricted form of the PSR, he does not want to accept the kind of so-called "necessitarian" position of Spinoza. The question is whether Leibniz succeeds in doing so. 
+
+#+toc: headlines 6
+
+#+INCLUDE: ~/Documents/notes/lecture-notes/20210729T005817--leibnizfreedom__teaching.org :lines "6-"
+
+**** References 
+     :PROPERTIES:
+     :UNNUMBERED: t
+     :END:
+
+#+print_bibliography:
+
+
 
 * Cleanup project files
 Shell script to move pdf notes to directory and trash other files
