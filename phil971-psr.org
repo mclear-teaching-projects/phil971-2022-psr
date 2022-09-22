@@ -653,8 +653,6 @@ I discuss Leibniz's position on freedom and contingency. It is important for Lei
     :EXPORT_AUTHOR: PHIL 971
     :END:
 
-#+toc: headlines 6
-
 **** Complete Individual Concepts
 
 In §8 of his /Discourse on Metaphysics/ Leibniz says the following:
