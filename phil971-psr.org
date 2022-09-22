@@ -292,6 +292,7 @@ We continue our discussion of Leibniz this week by looking at how his theory of 
 
 - [[https://discord.com/channels/1006739669842673674/1020721875720081558][Discussion Thread]]
 - [[id:20220917T161827.750074][Notes]] ([[file:static/materials/handouts/leibniz-freedom.pdf][PDF]])
+- [[file:static/materials/handouts/week-5-handout.pdf][Handout]]
 
 **** Readings 
 - Leibniz:
@@ -640,6 +641,78 @@ I discuss Leibniz's position on freedom and contingency. It is important for Lei
 #+print_bibliography:
 
 
+
+
+
+** Handouts
+*** Week 5 Handout
+    :PROPERTIES:
+    :EXPORT_FILE_NAME: week-5-handout
+    :EXPORT_DATE: September 22, 2022
+    :EXPORT_OPTIONS: author:t num:t
+    :EXPORT_AUTHOR: PHIL 971
+    :END:
+
+#+toc: headlines 6
+
+**** Complete Individual Concepts
+
+In §8 of his /Discourse on Metaphysics/ Leibniz says the following:
+
+#+BEGIN_QUOTE
+since activity and passivity pertain distinctively to individual substances (/actiones sum suppositorum/), it will be necessary to explain what such a substance is. It is of course true that when a number of predicates are attributed to a single subject while this subject is not attributed to any other, it is called an individual substance. But this is not enough, and such a definition is merely nominal. We must consider, then, what it means to be truly attributed to a certain subject. Now it is certain that every true predication has some basis in the nature of things, and when a proposition is not an identity, that is to say, when the predicate is not expressly contained in the subject, it must be included in it virtually. This is what the philosophers call in-esse, when they say that the predicate is in the subject. So the subject term must always include the predicate term in such a way that anyone who understands perfectly the concept of the subject will also know that the predicate pertains to it. This being premised, we can say it is the nature of an individual substance or complete being to have a concept so complete that it is sufficient to make us understand and deduce from it all the predicates of the subject to which the concept is attributed. An accident, on the other hand, is a being whose concept does not include everything that can be attributed to the subject to which the concept is attributed. Thus the quality of king which belonged to Alexander the Great, if we abstract it from its subject, is not determined enough to define an individual, for it does not include the other qualities of the same subject or everything which the concept of this prince includes. God, on the contrary, in seeing the individual notion or 'haecceity' of Alexander, sees in it at the same time the basis and the reason for all the predicates which can truly be affirmed of him -for example, that he will conquer Darius and Porus- even knowing a priori (and not by experience) what we can know only through history - whether he died a natural death or by poison. Thus when we well consider the connection of things, it can be said that there are at all times in the soul of Alexander traces of all that has happened to him and marks of all that will happen to him and even traces of all that happens in the universe, though it belongs only to God to know them all [cite:@leibniz1969f pp. 307-8].
+#+END_QUOTE
+
+1. What is a "complete individual concept"?
+2. What is the relation between a complete concept and the substance whose concept it is?
+3. In what sense does Leibniz's theory of complete individual concepts threaten free will?
+
+Leibniz states this threat very clearly at the beginning of §13 of the
+/Discourse/.
+
+#+BEGIN_QUOTE
+before we go further we must try to meet a great difficulty which may grow out of the foundations which we have laid above. We have said that the concept of an individual substance once and for all includes everything which can ever happen to it and that in considering that concept, one can see everything which can truly be predicated of it, just as we can see in the essence of the circle all the properties which can be deduced from it. But it seems that this will destroy the distinction between contingent and necessary truths, that it will leave no place for human liberty, and that an absolute fatalism will rule over all our actions as well as over the other events of the world. To this I reply that we must distinguish between what is certain and what is necessary [cite:@leibniz1969f p. 310].
+#+END_QUOTE
+
+1. What is the point of the distinction here between what is "certain" and what is "necessary"? 
+
+**** Freedom of Choice
+
+Here is how Leibniz characterizes the contingent and necessary, so as to make room for free will:
+
+#+begin_QUOTE
+I say that whatever happens in conformity to these divine anticipations is assured but not necessary and that if anyone were to do the contrary, he would not do anything impossible in itself, though it would be impossible /ex hypothesi/ for it to happen. For if some man were able to carry out the complete demonstration by virtue of which he could prove this connection between the subject, who is Caesar, and the predicate, which is his successful undertaking, he would actually show that the future dictatorship of Caesar is based in his concept or nature and that there is a reason in that concept why he has resolved to cross the Rubicon rather than stop there, and why he has won rather than lost the day at Pharsalus, and why it was reasonable and consequently assured that this should happen. But this man could not show that these events are necessary in themselves or that their contrary implies a contradiction. In the same way it is reasonable and assured that God will always do what is best, even though what is less perfect implies no contradiction. For it will be found that this demonstration of the predicate of Caesar is not as absolute as that of numbers or of geometry but that it supposes the sequence of things which God has freely chosen and which is founded on the first free decree of God, which leads him always to do what is most perfect, and on the decree which God has made about human nature (following the primary one), which is that man shall always do, though freely, that which appears to him to be best. But every truth which is based on this kind of a decree is contingent, even though it is certain, for these decrees do not change the possibility of things. And as I have already said, though God assuredly always chooses the best, this does not prevent something less perfect from being and remaining possible in itself, even though it will never happen, for it is not its impossibility but its imperfection which causes God to reject it. Now nothing is necessary whose opposite is possible [cite:@leibniz1969f p. 311].
+#+END_QUOTE
+
+1. How does Leibniz characterize necessity? Contingency?
+2. What is the difference between absolute and hypothetical necessity?
+3. In what sense does God act freely in creating the world?
+4. Why is God's free act of creation relevant to the freedom of human action?
+
+
+Leibniz also contends that completely undetermined action is not itself free action.
+
+#+begin_quote
+If complete indifference is required for freedom, then there is scarcely ever a free act [cite:@leibniz1989 pp. 22-3].
+#+end_quote
+
+1. Why might indifference be required for freedom?
+2. In what sense (if any) does Leibniz think that every action is determined (or has a determining ground), and so fail to be "indifferent"?
+
+
+Perhaps most controversially then -- Leibniz considers free action and determined action to be in a certain sense perfectly compatible, and indeed, synonymous.
+
+#+begin_quote
+a reason that always forces a free mind to choose one thing over another (whether that reason derives from the perfection of a thing, as it does in God, or from our imperfection) does not eliminate our freedom [cite:@leibniz1989 p. 20]. 
+#+end_quote
+
+
+**** References 
+     :PROPERTIES:
+     :UNNUMBERED: t
+     :END:
+
+#+print_bibliography:
 
 * Cleanup project files
 Shell script to move pdf notes to directory and trash other files

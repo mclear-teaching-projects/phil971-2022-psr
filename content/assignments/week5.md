@@ -13,6 +13,7 @@ We continue our discussion of Leibniz this week by looking at how his theory of 
 
 -   [Discussion Thread](https://discord.com/channels/1006739669842673674/1020721875720081558)
 -   [Notes]({{< relref "leibniz-freedom" >}}) ([PDF](/materials/handouts/leibniz-freedom.pdf))
+-   [Handout](/materials/handouts/week-5-handout.pdf)
 
 
 ## Readings {#readings}
