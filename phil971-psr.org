@@ -313,7 +313,7 @@ All the Leibniz readings can be found [[https://www.dropbox.com/scl/fo/nh5h14mi5
   
 All the recommended readings can be found [[https://www.dropbox.com/scl/fo/5opmkyrvv29tn92u8xlks/h?dl=0&rlkey=inro0fmje8vhl3vjehyyp8r97][here]]. 
 
-*** DONE Kant I: The Pre-Critical Kant on the PSR
+*** DONE Week 6 – Kant I: The Pre-Critical Kant on the PSR
     SCHEDULED: <2022-09-29 Thu>
    :PROPERTIES:
    :EXPORT_HUGO_TAGS: crusius explanation freedom leibniz kant psr truth 

@@ -1,5 +1,5 @@
 +++
-title = "Kant I: The Pre-Critical Kant on the PSR"
+title = "Week 6 – Kant I: The Pre-Critical Kant on the PSR"
 publishDate = 2022-09-29T00:00:00-04:00
 tags = ["crusius", "explanation", "freedom", "leibniz", "kant", "psr", "truth"]
 draft = false
