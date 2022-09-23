@@ -8,10 +8,6 @@ toc = false
 type = "post"
 +++
 
-## <span class="org-todo done DONE">DONE</span> Passage Analysis I {#analysis-1}
-
-<p><span class="timestamp-wrapper"><span class="timestamp-kwd">SCHEDULED:</span> <span class="timestamp">&lt;2022-09-30 Fri&gt;</span></span></p>
-
 Choose from **one** of the two provided passages. In no more than 500 words
 describe Kant&rsquo;s argument or point in the passage in as plain English as
 possible. The is due via [email](mailto:mclear@unl.edu) Friday, September 30 by 5 p.m.
