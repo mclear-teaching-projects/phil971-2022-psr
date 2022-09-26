@@ -320,6 +320,7 @@ All the recommended readings can be found [[https://www.dropbox.com/scl/fo/5opmk
    :EXPORT_FILE_NAME: week6
    :END:    
 
+
 This week we look at Kant's discussion of the PSR and freedom in his 1755 /New Elucidation/, which was the first of two theses he wrote to become a professor at the University of Königsberg. In addition to discussing the PSR, particularly as it appears in the work of Leibniz and Wolff, Kant also discusses an alternative and broadly "libertarian" conception of free will articulated by [[https://plato.stanford.edu/entries/18thGerman-preKant/#ChriAuguCrus][Christian August Crusius]], whose essay I've also included here.  
 
 - [[https://discord.com/channels/1006739669842673674/1022675289140109363][Discussion Thread]]
@@ -338,6 +339,49 @@ This week we look at Kant's discussion of the PSR and freedom in his 1755 /New E
 - Byrd, "Kant's Compatibilism in the /New Elucidation/"
 
 You can download all the secondary readings [[https://www.dropbox.com/sh/qn1qghiy86xg2j4/AAAEpd8mci3kB7OjOOhNWnoba?dl=0][here]]. 
+
+
+*** DONE Passage Analysis I
+    SCHEDULED: <2022-09-30 Fri>
+    :PROPERTIES:
+    :EXPORT_HUGO_TAGS: passage-analysis
+    :EXPORT_FILE_NAME: analysis-1
+    :END:
+
+Choose from *one* of the two provided passages. In no more than 500 words
+describe the argument or point in the passage in as plain English as
+possible. The is due via [[mailto:mclear@unl.edu][email]] Friday, September 30 by 5 p.m.
+
+**** Passage One
+
+Paremenides, /Fragment/ 8:
+
+#+begin_quote
+for what coming-to-be of [being] will you seek?
+In what way, whence, did [it] grow? Neither from what-is-not shall I allow
+You to say or think; for it is not to be said or thought
+That [if] is not. And what need could have impelled it to grow
+Later or sooner, if it began from nothing?
+Thus [it] must either be completely or not at all.
+#+end_quote
+
+**** Passage Two
+
+Descartes, /Meditations/ III
+
+#+begin_quote
+it is manifest by the natural light that there must be at least as much
+[reality] in the efficient and total cause as in the effect of that cause. For
+where, I ask, could the effect get its reality from, if not from the cause? And
+how could the cause give it to the effect unless it possessed it? It follows
+from this both that something cannot arise from nothing, and also that what is
+more perfect - that is, contains in itself more reality - cannot arise from what
+is less perfect. And this is transparently true not only in the case of effects
+which possess [what the school philosophers call] actual or formal reality, but
+also in the case of ideas, where one is considering only [what they call]
+objective reality (7:40-1).
+#+end_quote
+
 
 *** TODO Kant II: The PSR & Ontotheology (Guest: Dai Heide)
 - Kant:
