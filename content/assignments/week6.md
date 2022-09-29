@@ -1,6 +1,6 @@
 +++
 title = "Week 6 – Kant I: The Pre-Critical Kant on the PSR"
-publishDate = 2022-09-29T00:00:00-04:00
+publishDate = 2022-09-29T00:00:00-05:00
 tags = ["crusius", "explanation", "freedom", "leibniz", "kant", "psr", "truth"]
 draft = false
 weight = -100
@@ -12,7 +12,7 @@ type = "post"
 This week we look at Kant&rsquo;s discussion of the PSR and freedom in his 1755 _New Elucidation_, which was the first of two theses he wrote to become a professor at the University of Königsberg. In addition to discussing the PSR, particularly as it appears in the work of Leibniz and Wolff, Kant also discusses an alternative and broadly &ldquo;libertarian&rdquo; conception of free will articulated by [Christian August Crusius](https://plato.stanford.edu/entries/18thGerman-preKant/#ChriAuguCrus), whose essay I&rsquo;ve also included here.
 
 -   [Discussion Thread](https://discord.com/channels/1006739669842673674/1022675289140109363)
--   Notes TBA...
+-   [Notes]({{< relref "crusius-and-kant" >}}) ([PDF](/materials/handouts/crusius-and-kant.pdf))
 
 
 ## Readings {#readings}

@@ -324,7 +324,7 @@ All the recommended readings can be found [[https://www.dropbox.com/scl/fo/5opmk
 This week we look at Kant's discussion of the PSR and freedom in his 1755 /New Elucidation/, which was the first of two theses he wrote to become a professor at the University of Königsberg. In addition to discussing the PSR, particularly as it appears in the work of Leibniz and Wolff, Kant also discusses an alternative and broadly "libertarian" conception of free will articulated by [[https://plato.stanford.edu/entries/18thGerman-preKant/#ChriAuguCrus][Christian August Crusius]], whose essay I've also included here.  
 
 - [[https://discord.com/channels/1006739669842673674/1022675289140109363][Discussion Thread]]
-- Notes TBA...
+- [[id:20220927T115445.592326][Notes]] ([[file:static/materials/handouts/crusius-and-kant.pdf][PDF]])
 
 **** Readings 
 
@@ -708,6 +708,38 @@ I discuss Leibniz's position on freedom and contingency. It is important for Lei
 
 
 
+
+
+
+*** Crusius & Kant on Determining Grounds
+    :PROPERTIES:
+    :EXPORT_HUGO_TAGS: contingency crusius freedom kant libertarianism necessity psr responsibility
+    :EXPORT_FILE_NAME: crusius-and-kant
+    :EXPORT_DATE: September 29, 2022
+    :EXPORT_OPTIONS: author:t num:t ':t
+    :EXPORT_AUTHOR: PHIL 971
+    :ID:       20220927T115445.592326
+    :END:
+
+Here I discuss Crusius's distinction between sufficient and determining grounds, and his related conception of freedom. I then explicate parts of Kant's conception of determining ground, his restriction of the application of the PSR, and his criticism of both Wolff's and Crusius's positions regarding freedom in contrast to his preferred form of Compatibilism. 
+
+#+toc: headlines 6
+
+-------
+
+#+INCLUDE: ~/Documents/notes/lecture-notes/20220927T150550--christian-august-crusius__teaching.org :lines "6-"
+#+INCLUDE: ~/Documents/notes/lecture-notes/20220927T141033--crusius-on-determining-grounds__teaching.org :lines "8-"
+#+INCLUDE: ~/Documents/notes/lecture-notes/20220927T163652--kant-on-determining-grounds__teaching.org :lines "6-"
+#+INCLUDE: "~/Documents/notes/lecture-notes/20220928T231318--kant-on-the-principle-of-sufficient-reason__teaching.org::*Restricting the PSR in the Nova Dilucidatio"
+#+INCLUDE: "~/Documents/notes/lecture-notes/20220927T130752--kant-and-compatibilism__teaching.org::*Kant's Pre-Critical Compatibilism"
+
+
+**** References
+     :PROPERTIES:
+     :UNNUMBERED: t
+     :END:
+
+#+print_bibliography:
 
 
 ** Handouts
