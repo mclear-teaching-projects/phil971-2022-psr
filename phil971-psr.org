@@ -384,7 +384,7 @@ objective reality (7:40-1).
 #+end_quote
 
 
-*** DONE Kant II: The PSR & Ontotheology (Guest: Dai Heide)
+*** DONE Week 7 – Kant II: The PSR & Ontotheology (Guest: Dai Heide)
     SCHEDULED: <2022-10-06 Thu>
    :PROPERTIES:
    :EXPORT_HUGO_TAGS: existence god kant modality psr  

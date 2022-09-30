@@ -1,5 +1,5 @@
 +++
-title = "Kant II: The PSR & Ontotheology (Guest: Dai Heide)"
+title = "Week 7 – Kant II: The PSR & Ontotheology (Guest: Dai Heide)"
 publishDate = 2022-10-06T00:00:00-05:00
 tags = ["existence", "god", "kant", "modality", "psr"]
 draft = false
