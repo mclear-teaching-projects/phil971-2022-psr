@@ -325,6 +325,7 @@ This week we look at Kant's discussion of the PSR and freedom in his 1755 /New E
 
 - [[https://discord.com/channels/1006739669842673674/1022675289140109363][Discussion Thread]]
 - [[id:20220927T115445.592326][Notes]] ([[file:static/materials/handouts/crusius-and-kant.pdf][PDF]])
+- [[file:static/materials/handouts/week-6-handout.pdf][Handout]]  
 
 **** Readings 
 
@@ -383,16 +384,31 @@ objective reality (7:40-1).
 #+end_quote
 
 
-*** TODO Kant II: The PSR & Ontotheology (Guest: Dai Heide)
+*** DONE Kant II: The PSR & Ontotheology (Guest: Dai Heide)
+    SCHEDULED: <2022-10-06 Thu>
+   :PROPERTIES:
+   :EXPORT_HUGO_TAGS: existence god kant modality psr  
+   :EXPORT_FILE_NAME: week7
+   :END:        
+
+This week we discuss Kant's arguments concerning existence, possibility, and God. We'll see that though Kant denies that God's existence is something that admits of an explanation, in the manner that contingent things admit of explanation, nevertheless we can be certain of God's existence because God is the ground of all possibility. However, one crucial aspect of Kant's argument continues to cause interpreters trouble---namely, how he understands the nature of =<existence>= as term or predicate (and correspondingly as a property), and how his understanding of =<existence>= figures in his criticism of the ontological argument. We'll center this question through discussion of Kant's /Only Possible Argument/ essay of 1763 and a recent paper by Dai Heide (who will be our guest in seminar) that tries to work out Kant's position on this issue. 
+
+Note that the Bennett and the initial sections of the Van Cleve readings in the recommended reading list give relevant background for the view Heide discusses in his paper. 
+
+- [[https://discord.com/channels/1006739669842673674/1025408926382043239][Discussion thread]]
+- Notes (TBA)
+
+**** Readings
 - Kant:
-   + /The Only Possible Argument in Support of a Demonstration of the Existence of God/, §1
-   + /Attempt to Introduce the Concept Ofnegative Magnitudes Into Philosophy/, §1
-- Heide: "Rationalism & Kant's Rejection of the Ontological Argument"
-- Stang: Excerpts from /Kant's Modal Metaphysics/
-   + "Real Predicates"
-   + "Real Conﬂict, Real Grounds, Real Possibility"
-   + "Is Existence a Real Predicate?"^*
-- Bader: "Real Predicates & Existential Judgments"^*
+   + [[https://www.icloud.com/iclouddrive/0d392QP8SyEkPy7MZQthvjpUA#kant1992-beweisgrund][/The Only Possible Argument in Support of a Demonstration of the Existence of God/, §1]]
+   + [[https://www.icloud.com/iclouddrive/0b9ddBPcNPwm-24NIrui38PjQ#kant1992d][/Attempt to Introduce the Concept Of Negative Magnitudes Into Philosophy/, §1]]
+- Heide: "[[file:static/materials/readings/heide-ontological-arg.pdf][Rationalism & Kant's Rejection of the Ontological Argument]]"
+
+**** Recommended
+- Bennett, [[file:static/materials/readings/bennett-kant-frege.pdf][excerpt from /Kant's Dialectic/]]
+- Van Cleve, [[file:static/materials/readings/vancleve-rational-theology.pdf][excerpt from /Problems from Kant/]]
+- Stang: [[file:static/materials/readings/stang-real-predicates.pdf][excerpt from /Kant's Modal Metaphysics/]]
+- Bader: "[[https://www.icloud.com/iclouddrive/05b7ErfG2fUgWlPwQDPJ7Phww#bader2018][Real Predicates & Existential Judgments]]"
 
 *** TODO Kant III: The Temporal PSR
 - Kant:
@@ -809,6 +825,175 @@ a reason that always forces a free mind to choose one thing over another (whethe
      :END:
 
 #+print_bibliography:
+
+*** Week 6 Handout
+    :PROPERTIES:
+    :EXPORT_FILE_NAME: week-6-handout
+    :EXPORT_DATE: September 29, 2022
+    :EXPORT_OPTIONS: author:t num:t
+    :EXPORT_AUTHOR: PHIL 971
+    :END:
+
+**** Crusius On Ground
+Crusius contends that there are two general species of ground -- *ideal* and *real*.
+
+#+begin_quote
+what one calls grounded and whose production [dessen hervorbringen] one attributes to another is either cognition in the understanding or it is the thing itself, outside of our thoughts. For that reason a ground is either a ground of cognition, which can also be called an ideal ground (/principium cognoscendi/), or a real ground (/principium essendi vel fiendi/). A ground of cognition is one that brings about cognition of a matter with conviction and is viewed as such. A real ground is one that brings about or makes possible, either in part or in whole, the thing itself, outside of our thoughts. (/Entwurf/ §34/144)
+#+end_quote
+
+Real grounds themselves come in two further types, *efficacious* and *inefficacious* (existential):
+
+#+begin_quote
+When a *real ground* brings about or makes possible a thing outside of thought, it does so either by means of an efficacious power and, in that case, is called an *efficacious cause* [wirkende Ursache]. Or the laws of truth in general do not allow anything else other than that after certain things or certain of its properties have already been posited, something else is now possible or impossible, or must be possible in this way and not otherwise. This kind of ground I wish to call an *inefficacious real ground* or also an *existential ground* (/principium existentialiter determinans/). Accordingly, an existential ground is one that makes something else possible or necessary through its mere existence due to the laws of truth. E.g., the three sides of a triangle and their relations to each other constitute a real ground of the size of its angle, but only an inefficacious or existential ground. By contrast, fire is an efficacious cause of warmth. (/Entwurf/ §36/144)
+#+end_quote
+
+- Are all forms of ground productive? If so in what sense? Are they all productive in the same way?
+- Are efficient grounds causal in any sense? 
+
+***** Crusisu on Intelligibility 
+Importantly, Crusius denies that "ground", as such, should be taken to indicate or entail intelligibility of the ground-grounded relation.
+
+#+begin_quote
+Some take the word *ground* in a narrower sense and understand by it something from which one can comprehend why something else exists and why it is such and not otherwise. Now when we pay attention to what we think with the word *why*, it is clear in that case that only *both senses of real grounds* [i.e., /a priori/ and /a posteriori/ ] along with *ideal grounds* /a priori/ are to be counted as falling under the concept of ground. By contrast, when we attend to ideal grounds /a posteriori/, we find that we do not thereby cognize *why something exists*, but rather only *why we must let it be considered to be true*. (/Entwurf/ §38/144-5)
+#+end_quote
+
+- What is the difference between a ground of truth and a ground of existence? 
+
+***** Sufficient vs Determining Grounds
+
+Grounds may also be sufficient or determining. A /determining ground/ is that which produces a determination. As Crusius puts it,
+
+#+begin_quote
+a *determining ground* is one through which what is grounded in it is made actual or possible in such a way that it cannot be otherwise under these circumstances (/Entwurf/ §84/160)
+#+end_quote
+
+Crusius contends that while all existing contingent things have a sufficient ground or cause of their existence, not all existing contingent things a /determining/ ground or cause of their existence. He says,
+
+#+begin_quote
+everything that arises presupposes a sufficient cause, that is, a cause in which nothing is lacking that is necessary for causality, and that it must receive its actuality through the power of the cause (§31), and the distinguishing feature of whether something is contingent, and thus arose at one time, consists in whether its non-being can be thought (§33). (/Entwurf/ §84/160)
+#+end_quote
+
+- What is the difference here that Crusius means to indicate?
+- Is the difference between a merely sufficient cause and a determining ground coherent? 
+
+Crusius thus defines the "principle of determining ground" as follows:
+
+#+begin_quote
+we can define the true *principle of determining ground*, which must be as follows: *Everything that is not a fundamental activity of freedom has, when it arises, a determining ground, that is, a ground according to which, after it is posited, what it posits cannot be or occur otherwise*. (/Entwurf/ §84/161)
+#+end_quote
+
+**** Kant on Ground
+
+Kant's definition of ground:
+
+#+begin_quote
+That which determines a subject in respect of any of its predicates, is called the /ground/. (NE 1:391)
+#+end_quote
+
+Alternatively,
+
+#+BEGIN_QUOTE
+From the concept of a ground it is possible to understand which of the opposed predicates is to be ascribed to the subject and which is to be denied. (1:393)
+#+END_QUOTE
+
+***** Logical vs. Real Ground
+
+Kant also distinguishes between a logical ground and a real ground.
+
+#+BEGIN_QUOTE
+Every ground is either logical, by means of which the consequence that is identical to it is posited as a predicate according to the rule of identity, or real, by means of which the consequence that is not identical to it is not posited according to the rule of identity. (/Metaphysik Herder/ (1762-4), 28:11)
+#+END_QUOTE
+
+This characterization of ground is virtually identical with Crusius's conception of the difference between ideal and real grounds. Both take "ground" to indicate a necessary relation between (possibly) existing objects or facts. The sense in which a ground "determines" is that it being posited excludes all but one consequence. So positing ground \gamma excludes all but the consequent \delta.
+
+***** Antecendent & Consequent Grounds
+
+In the pre-critical period Kant distinguishes two kinds of ground or reason -- viz. 'antecedently' (/antecedenter/) and 'consequently' (/consequenter/) determining grounds.
+
+#+BEGIN_QUOTE
+That which determines a subject in respect of any of its predicates, is called the /ground/. /Grounds/ may be differentiated into those which are antecedently determining and those which are consequentially determining. An /antecedently/ determining ground is one, the concept of which precedes that which is determined, i.e. that in the absence of which what is determined would not be intelligible. A /consequentially/ determining ground is one which would not be posited [poneretur] unless the concept which is determined by it had not already been posited from some other source. You can also call the former the reason /why/, or the ground of being or becoming [rationem cur scilicet essendi vel fiendi], while the latter can be called the ground /that/, or the ground of knowing [rationem quod scilicet cognoscendi] (NE 1:391-2)
+#+END_QUOTE
+
+Only antecedently determining grounds explain why their consequents hold. 
+
+***** Ground & Exclusion 
+What is meant by "exclusion" in reference to ground? Consider Kant's remark in a letter to Reinhold during the "critical" period.
+
+#+BEGIN_QUOTE
+A ground is (in general) that whereby something else (distinct from it) is made determinate {/quo posito *determinate^{a}* ponitur aliud/) [that which being posited /determines something else/]. A consequent (/rationatum/) is /quod non ponitur nisi posito alio/ [that which is not posited unless /something else/ is posited]. The ground must thus always be something distinct from the consequent, and he who can provide no ground but the given consequent itself shows that he does not know (or that the thing does not have) any ground! Now this distinction of ground and consequent is either merely logical (having to do with the manner of representation) or real, that is, in the object itself. (11:35 To Karl Leonhard Reinhold. May 12, 1789)
+
+/a/: This expression must never be left out of the definition of "ground." For a consequent too, is something that, if I posit it, I must at the same time think something else as posited, that is, a consequent always belongs to something or other that is its ground. But when I think something as consequent, I posit only some ground or other; -which ground is undetermined. (Thus the hypothetical judgment is based on the rule, "a positione consequentis ad positionem antecedentis non valet consequentia" [the movement from the consequent to the antecedent is not valid].) On the other hand, if the ground is posited, the consequent is determined.
+#+END_QUOTE
+
+Since there is real and logical ground, there are real and logical forms of exclusion or "opposition":
+
+#+begin_quote
+Real opposition is that where two predicates of a thing are opposed to each other, but not through the law of contradiction. Here, too, one cancels what is posited by the other, but the consequence is something. The motive force of a body in one direction and an equal tendency of the same body in the opposite direction do not contradict each other; as predicates, they are simultaneously possible in one body. The consequence of such an opposition is rest, which is something. It is, nonetheless, a true opposition. For that which is posited by the one tendency is cancelled by the other tendency, and the two tendencies are true predicates of one and the self-same thing, and they belong to it simultaneously. (NM 2:171-2)
+#+end_quote
+
+Hence, forces can exclude one another through opposition, but the opposition appealed to here is not that of /contradiction/. One piece of evidence Kant offers for this is that opposing (i.e. contradictory) predicates cannot be combined in a unity---i.e. in a judgment (A150/B189-90)---while opposing forces /can/ be combined in a unity (i.e. in a substance). Kant's example in the latter case is a stationary being that is so because of the outcome of being acted on by an opposing force.
+
+So determination is the exclusion of a predicate or property in favor of its opposite. What "opposite" means here depends on the kind of law to which one appeals. In the case of /logical/ determination, the exclusion is defined in terms of logically opposing predicates. In the case of /real/ determination, the exclusion is defined merely negatively, in terms of predicates that oppose though not logically.
+
+The exclusion doctrine is thus one according to which a ground determines by virtue of:
+
+1. the predicate/property
+2. the law governing the connection between positing that predicate and positing
+   its consequent.
+
+The difference between the pre-critical and critical versions of this doctrine concern the different between whether there are real grounds that are not logical grounds. 
+
+
+**** Kant's Compatibilism
+Kant holds in the 1750s and 60s that freedom of action is perfectly compatible with its being fully (temporally) determined. As Kant puts it in the /New Elucidation/ of 1755,
+
+#+begin_quote
+/spontaneity/ is action which issues from an /inner principle/. /When this spontaneity is determined in conformity with the representation of what is best it is called freedom/ (NE 1:402; original emphasis)
+#+end_quote
+
+However, Kant also rejects an important element of the Leibniz-Wolff-Baumgarten view, namely its leeway compatibilist aspect, which holds that while an agent is free only insofar as the agent could do otherwise, the notion of "could" here must be compatible with necessitation by a sufficient reason or ground. Kant denies that the Leibniz-Wolff-Baumgarten view can maintain a coherent conception of such leeway by means of a distinction between so-called "hypothetical" and "absolute" necessity (1:400). Kant cites Crusius as originating this critique.
+
+#+begin_quote
+The illustrious Crusius attacks the often used distinction between absolute and hypothetical necessity, his opponents thinking that, by means of this distinction, they would be able to escape him, as through a crack. But the distinction obviously has no power at all to break the force and effective power of necessity (NE 1:399)
+#+end_quote
+
+The distinction to which Kant refers here is that between \phi-ing on the basis of a particular contingent motive, and \phi-ing due to logical necessity. The former is mere "hypothetical" necessity, and allows that one could have acted otherwise (i.e. there is no logical contradiction in not acting that way) had one's motives differed, while the latter is an "absolute" necessity.
+
+As Kant, following Crusius, argues however, this is a distinction without a difference, for
+
+#+begin_quote
+the distinction, which everyone recites parrot-fashion, does little to diminish the force of the necessity or the certainty of the determination. For just as nothing can be conceived which is more true than true, and nothing more certain than certain, so nothing can be conceived which is more determined than determined (NE 1:400).
+#+end_quote
+
+For Kant, the problem for freedom does not lie with whether one possesses leeway, nor is the issue one concerning necessitation (whether absolute or hypothetical) per se, but rather the /nature/ of the necessitation. As he puts it,
+
+#+begin_quote
+here the question hinges not upon /to what extent/ [somthing is necessitated] but upon /whence/ [unde] the necessary futurition of contingent things derives. Who is there who would doubt that the act of creation is not indeterminate in God, but that it is so certainly determinate that the opposite would be unworthy of God, in other words that the opposite could not be ascribed to Him at all. Nonetheless, however, the action is free, for it is determined by those grounds, which, in so far as they incline His will with the greatest possible certainty, include the motives of His infinite intelligence, and do not issue from a certain blind power of nature to produce effects. So, too, in the case of the free actions of human beings: in so far as they are regarded as determinate, their opposites are indeed excluded; they are not, however, excluded by grounds which are posited as existing outside the desires and spontaneous inclinations of the subject, as if the agent were compelled to perform his actions against his will, so to speak, and as a result of a certain ineluctable necessity. (NE 1:400)
+#+end_quote
+
+In short, Kant points out here that although everything that exists is determined, not everything is determined in the same /way/, and it is precisely the manner in which (i.e. "from whence") a consequence is derived or connected to its ground that decides the issue in favor of freedom as opposed to bondage. When the existence of an effect is determined from an intellectual ground, one that involves a representation of the good, then the effect is determined but nevertheless free, or so Kant contends.
+
+***** The Luck Objection to Libertarianism 
+Kant rejects Crusian indeterminism on the grounds that it must construe free action as "the product of chance" (NE 1:402), and chance events are neither free nor freedom-enabling. Since they have no cause they simply happen, and are not appropriate objects for imputation. Kant makes this point in his dialogical presentation of his and Crusius's views:
+
+#+begin_quote
+If any deity granted you this wish [for libertarian freedom], how unhappy you would be at every moment of your life. Suppose that you have decided to follow the path of virtue. And suppose that your mind is already sustained by the precepts of religion and whatever else is effective in strengthening your motivation. And suppose that now the occasion for acting arrives. You will immediately slide in the direction of what is less good, for the grounds which solicit you do not determine you. I seem to hear you expressing still more complaints. Ah! What baleful fate has driven me from my sound decision? Of what use are precepts for performing the work of virtue? Actions are the product of chance; they are not determined by grounds. (NE 1:402)
+#+end_quote
+
+To summarize, Kant's pre-critical position on freedom accepts the following claims:
+
+1. Free action is compatible with being determined/necessitated to so act.
+2. Action that is not the result of determination is merely chance.
+3. Leeway is neither necessary nor sufficient for responsibility/imputation.
+4. The determination of free action must be "spontaneous", in that it is necessitated according to the will's own (causal) law of activity in representing the good, otherwise it is either "blind" necessity (i.e. "fatalism") or chance.
+
+
+By at least the mid-70s, Kant sees freedom as a "third thing" between temporal necessitation and pure chance. The question is whether, and in what sense, his compatibilist view from the 50s is rejected. 
+
+#+begin_quote
+Free actions happen in accordance with a rule just like natural ones. But they are not therefore determinable a priori [i.e. from the antecedent time] like the latter [sie sind darnach nicht a priori zu bestimmen wie diese]; both are thus in conformity with reason, while blind fate and blind chance [blind Schiksal und blindes Ohngefehr] are /qualitates occultae/ and are contrary to reason (R4783, 17:726 (1775--1779)).
+#+end_quote
+
 
 * Cleanup project files
 Shell script to move pdf notes to directory and trash other files

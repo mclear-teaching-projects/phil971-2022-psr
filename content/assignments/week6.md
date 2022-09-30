@@ -13,6 +13,7 @@ This week we look at Kant&rsquo;s discussion of the PSR and freedom in his 1755 
 
 -   [Discussion Thread](https://discord.com/channels/1006739669842673674/1022675289140109363)
 -   [Notes]({{< relref "crusius-and-kant" >}}) ([PDF](/materials/handouts/crusius-and-kant.pdf))
+-   [Handout](/materials/handouts/week-6-handout.pdf)
 
 
 ## Readings {#readings}
