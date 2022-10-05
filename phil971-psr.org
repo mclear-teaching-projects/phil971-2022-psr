@@ -408,7 +408,7 @@ This week we discuss Kant's arguments concerning existence, possibility, and God
 Note that the Bennett and the initial sections of the Van Cleve readings in the recommended reading list give relevant background for the view Heide discusses in his paper. 
 
 - [[https://discord.com/channels/1006739669842673674/1025408926382043239][Discussion thread]]
-- Notes (TBA)
+- [[id:20221002T111549.123571][Notes]] ([[file:static/materials/handouts/kant-ontotheology.pdf][PDF]])
 
 **** Readings
 - Kant:

@@ -1,6 +1,6 @@
 +++
 title = "Week 7 – Kant II: The PSR & Ontotheology (Guest: Dai Heide)"
-publishDate = 2022-10-06T00:00:00-05:00
+publishDate = 2022-10-06T00:00:00-04:00
 tags = ["existence", "god", "kant", "modality", "psr"]
 draft = false
 weight = -100
@@ -14,7 +14,7 @@ This week we discuss Kant&rsquo;s arguments concerning existence, possibility, a
 Note that the Bennett and the initial sections of the Van Cleve readings in the recommended reading list give relevant background for the view Heide discusses in his paper.
 
 -   [Discussion thread](https://discord.com/channels/1006739669842673674/1025408926382043239)
--   Notes (TBA)
+-   [Notes]({{< relref "kant-ontotheology" >}}) ([PDF](/materials/handouts/kant-ontotheology.pdf))
 
 
 ## Readings {#readings}
