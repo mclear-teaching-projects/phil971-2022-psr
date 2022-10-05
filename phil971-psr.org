@@ -770,6 +770,34 @@ Here I discuss Crusius's distinction between sufficient and determining grounds,
 #+print_bibliography:
 
 
+*** Kant & Ontotheology
+    :PROPERTIES:
+    :EXPORT_HUGO_TAGS: contingency crusius freedom kant libertarianism necessity psr responsibility
+    :EXPORT_FILE_NAME: kant-ontotheology
+    :EXPORT_DATE: October 6, 2022
+    :EXPORT_OPTIONS: author:t num:t ':t
+    :EXPORT_AUTHOR: PHIL 971
+    :ID:       20221002T111549.123571
+    :END:
+
+Here I discuss Kant's theory of ground (a recap of last week's discussion) and his (in)famous criticism of ontotheology -- the position that God's essence entails his/its existence. We'll look at the basic elements of Kant's view of existence and the general structure of his criticism of the ontological argument. 
+
+#+toc: headlines 6
+
+-------
+
+#+INCLUDE: ~/Documents/notes/lecture-notes/20220927T163652--kant-on-determining-grounds__teaching.org :lines "6-"
+
+#+INCLUDE: ~/Documents/notes/lecture-notes/20220930T115537--kant-against-ontotheism__teaching.org :lines "6-"
+
+**** References
+     :PROPERTIES:
+     :UNNUMBERED: t
+     :END:
+
+#+print_bibliography:
+
+
 ** Handouts
 *** Week 5 Handout
     :PROPERTIES:
