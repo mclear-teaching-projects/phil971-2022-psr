@@ -14,6 +14,9 @@ legitimate scope. This week we&rsquo;ll discuss Kant&rsquo;s critical view regar
 temporal succession and causal determination and examine the sense in which this
 counts as endorsing a version of the PSR.
 
+-   [Discussion thread](https://discord.com/channels/1006739669842673674/1027749271254085752)
+-   Notes (TBA) ...
+
 
 ## Readings {#readings}
 
