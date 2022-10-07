@@ -422,12 +422,26 @@ Note that the Bennett and the initial sections of the Van Cleve readings in the 
 - Stang: [[file:static/materials/readings/stang-real-predicates.pdf][excerpt from /Kant's Modal Metaphysics/]]
 - Bader: "[[https://www.icloud.com/iclouddrive/05b7ErfG2fUgWlPwQDPJ7Phww#bader2018][Real Predicates & Existential Judgments]]"
 
-*** TODO Kant III: The Temporal PSR
-- Kant:
-   + The Analogies of Pure Reason (focus on the 2nd)
-   + The Third Antinomy (excerpt)
-- Longuenesse: "Kant’s Deconstruction of the Principle of Sufficient Reason"
-- Watkins: /Kant and the Metaphysics of Causality/, ch. 3^*
+*** DONE Week 8 – Kant III: The Temporal PSR
+    SCHEDULED: <2022-10-13 Thu>
+   :PROPERTIES:
+   :EXPORT_HUGO_TAGS: causation intelligibility kant psr succession time  
+   :EXPORT_FILE_NAME: week8
+   :END:        
+
+Thus far we've looked at Kant's pre-critical view of ground, the PSR, and its
+legitimate scope. This week we'll discuss Kant's critical view regarding
+temporal succession and causal determination and examine the sense in which this
+counts as endorsing a version of the PSR.
+
+**** Readings
+- Kant: [[https://www.icloud.com/iclouddrive/0ac8OtNhxd8ZmxLvrUcvNfl1g#kant1998i][The Analogies of Experience]] (focus on the 2nd)
+      
+**** Recommended
+- Kant: [[https://www.icloud.com/iclouddrive/02eJtNTbA8OezcnALsaUuQ7cw#kant1998-antinomies][The Antinomies of Pure Reason]] 
+- Longuenesse: "[[https://www.icloud.com/iclouddrive/0521hyCyvOgphyLl2BcfiseXw#longuenesse2001][Kant’s Deconstruction of the Principle of Sufficient Reason]]"
+- Watkins: [[file:static/materials/readings/watkins-causality.pdf][/Kant and the Metaphysics of Causality/]], chs. 3-4
+- Watkins: "[[https://www.icloud.com/iclouddrive/05fa-9UGF_yUZv-vEXxfThzfQ#watkins2010b][The Antinomy of Practical Reason]]"
   
 *** TODO Kant IV: Limits to the PSR? (Guest: Karl Schafer)
 - Kant:
