@@ -4,7 +4,6 @@ author = ["PHIL 971"]
 tags = ["contingency", "freedom", "kant", "necessity", "psr", "reason", "time"]
 draft = false
 weight = 0
-author = false
 type = "post"
 +++
 
@@ -338,8 +337,6 @@ According to Kant&rsquo;s doctrine of Transcendental Idealism, the appearance(s)
 
 Hence, Kant argues that though we are justified in applying the PSR to appearances, understood as alterations of substances (objects), we can utilize this principle only _within_ the bounds of possible experience, and the impetus of reason (as a faculty) to seek the unconditioned condition (or totality) of given conditions will never be satisfied; thus is the application of the PSR both justified and stringently limited.
 
-
-## References {#references}
 
 ## References
 
