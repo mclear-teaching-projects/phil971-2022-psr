@@ -446,12 +446,20 @@ counts as endorsing a version of the PSR.
 - Watkins: [[file:static/materials/readings/watkins-causality.pdf][/Kant and the Metaphysics of Causality/]], chs. 3-4
 - Watkins: "[[https://www.icloud.com/iclouddrive/05fa-9UGF_yUZv-vEXxfThzfQ#watkins2010b][The Antinomy of Practical Reason]]"
   
-*** TODO Kant IV: Limits to the PSR? (Guest: Karl Schafer)
-- Kant:
+*** TODO Kant IV: Reason & The PSR (Guest: Karl Schafer)
+
+**** Readings
+- Kant
    + Dialectic -- On pure reason as the seat of transcendental illusion
    + Method -- The discipline of pure reason
-- Schafer: "Reason’s Supreme Principle, the Principle of Sufficient Reason, and the Faculty of Reason"
-     *
+- Schafer: "Reason’s Supreme Principle, the Principle of Sufficient Reason, and the Faculty of Reason" (see discord)
+     
+**** Recommended   
+- Rosalind Chaplin: "Is Kant’s Supreme Principle of Pure Reason the Principle of Sufficient Reason?" (see discord) 
+- Proops: "[[file:static/materials/readings/proops-illusion.pdf][Transcendental Illusion]]"
+- Willaschek: "[[file:static/materials/readings/willaschek-condition.pdf][Kant on Real Conditioning]]"
+
+  
 *** TODO Jacobi's Challenge (Guest: Jim Kreines)
 - Jacobi: /Letters on Spinoza/ (1st ed) pp. 179–203, 216–228, 233–4
 - Mendelssohn: /Morning Hours/, ch. 10, excerpt
@@ -806,6 +814,33 @@ Here I discuss Kant's theory of ground (a recap of last week's discussion) and h
 #+INCLUDE: ~/Documents/notes/lecture-notes/20220927T163652--kant-on-determining-grounds__teaching.org :lines "6-"
 
 #+INCLUDE: ~/Documents/notes/lecture-notes/20220930T115537--kant-against-ontotheism__teaching.org :lines "6-"
+
+**** References
+     :PROPERTIES:
+     :UNNUMBERED: t
+     :END:
+
+#+print_bibliography:
+
+
+*** Kant & The Temporal PSR
+    :PROPERTIES:
+    :EXPORT_HUGO_TAGS: contingency freedom kant necessity psr reason time
+    :EXPORT_FILE_NAME: kant-temporal-psr
+    :EXPORT_DATE: October 13, 2022
+    :EXPORT_OPTIONS: author:t num:t ':t
+    :EXPORT_AUTHOR: PHIL 971
+    :ID:       20221012T220355.850099
+    :END:
+
+In these notes I discuss Kant's position on the PSR in the critical period, under the guise of the causal law of nature, that every alteration (or event) has a cause. 
+
+#+toc: headlines 6
+
+-------
+
+#+INCLUDE: ~/Documents/notes/lecture-notes/20221011T123223--kant-and-the-analogies-of-experience__teaching.org :lines "6-"
+
 
 **** References
      :PROPERTIES:
