@@ -1,6 +1,6 @@
 +++
 title = "Week 8 – Kant III: The Temporal PSR"
-publishDate = 2022-10-13T00:00:00-04:00
+publishDate = 2022-10-13T00:00:00-05:00
 tags = ["causation", "intelligibility", "kant", "psr", "succession", "time"]
 draft = false
 weight = -100
@@ -15,7 +15,7 @@ temporal succession and causal determination and examine the sense in which this
 counts as endorsing a version of the PSR.
 
 -   [Discussion thread](https://discord.com/channels/1006739669842673674/1027749271254085752)
--   Notes (TBA) ...
+-   [Notes]({{< relref "kant-temporal-psr" >}}) ([PDF](/materials/handouts/kant-temporal-psr.pdf))
 
 
 ## Readings {#readings}
