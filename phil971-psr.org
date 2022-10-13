@@ -436,6 +436,7 @@ counts as endorsing a version of the PSR.
 
 - [[https://discord.com/channels/1006739669842673674/1027749271254085752][Discussion thread]]
 - [[id:20221012T220355.850099][Notes]] ([[file:static/materials/handouts/kant-temporal-psr.pdf][PDF]])
+- [[file:static/materials/handouts/week-8-handout.pdf][Handout]]
 
 **** Readings
 - Kant: [[https://www.icloud.com/iclouddrive/0ac8OtNhxd8ZmxLvrUcvNfl1g#kant1998i][The Analogies of Experience]] (focus on the 2nd)
@@ -1085,6 +1086,148 @@ By at least the mid-70s, Kant sees freedom as a "third thing" between temporal n
 #+begin_quote
 Free actions happen in accordance with a rule just like natural ones. But they are not therefore determinable a priori [i.e. from the antecedent time] like the latter [sie sind darnach nicht a priori zu bestimmen wie diese]; both are thus in conformity with reason, while blind fate and blind chance [blind Schiksal und blindes Ohngefehr] are /qualitates occultae/ and are contrary to reason (R4783, 17:726 (1775--1779)).
 #+end_quote
+
+
+*** Week 8 Handout
+    :PROPERTIES:
+    :EXPORT_FILE_NAME: week-8-handout
+    :EXPORT_DATE: October 13, 2022
+    :EXPORT_OPTIONS: author:t num:t
+    :EXPORT_AUTHOR: PHIL 971
+    :END:
+
+**** Background
+
+***** The aims of the Analytic of Principles:
+
+1. Which concepts are a priori? (the Metaphysical Deduction)
+2. Must the categories apply to objects of experience? (the Transcendental Deduction)
+3. How could the categories apply to objects of experience? (the Schematism)
+4. What synthetic a priori truths do we know as the result of their application? (the System of All Principles)
+
+***** Schematism & Time
+
+#+begin_quote
+In all subsumptions of an object under a concept the representations of the former must be *homogeneous* with the latter, i.e., the concept must contain that which is represented in the object that is to be subsumed under it, for that is just what is meant by the expression "an object is contained under a concept". (A137/B176)
+#+end_quote
+
+- Homogeneity :: Two representations(?) X and Y are (partially) homogeneous iff
+  X and Y share (some of) the same content.
+  
+The Homogeneity requirement raises a specific problem for the pure categories. It must be shown how the categories, whose content is purely a priori, and based on the logical (and thus non-sensory) functions of judgment, apply to object of experience, given that they are not homogenous with the objects of intuition.
+
+- Kant requires an intermediary that is homogeneous with both the categories and appearances, as well as being
+      – /universal/: applies to all appearances
+      – /knowable a priori/: allows for knowledge of the a priori applicability of the categories to appearances
+      – /diverse/: compatible with the full variety of logical properties and relations specified by the categories
+- Only the representation of time and temporal relations satisfies all three conditions
+
+#+begin_quote
+The schemata are therefore nothing but a priori *time-determinations* in accordance with rules, and these concern, according to the order of the categories, the *time-series* [categories of quantity], the *content of time* [categories of quality], the *order of time* [categories of relation], and finally the *sum total of time* [categories of modality] in regard to all possible objects. (A145/B184-5)
+#+end_quote
+
+
+
+**** The Analogies
+
+- The chapter called "The Analogies of Experience" concerns those principles that ground cognition through the application of the categories of relation (i.e. =<subsistence-inherence>=, =<cause-effect>=, =<community>=)
+
+***** What is an “analogy”? 
+
+Kant makes two explicit claims about the nature of analogies. He says,
+
+#+begin_quote
+[An analogy is] not the identity of two *quantitative* [relations, as in mathematical analogy] but [the identity] of two *qualitative* relations, where from three given members I can cognize and give a priori only the relation to a fourth member but not this fourth member itself, although I have a rule for seeking it in experience and a mark for discovering it there (B222)
+#+end_quote
+
+- Analogy :: of the form "A:B :: C:D", where "D" refers to something that is not cognizable a priori, though what is designated by "A", "B", "C", and the relevant relations /are/ so cognizable.
+
+
+An "analogy of experience" is, 
+
+#+begin_quote
+An analogy of experience will therefore be only a rule in accordance with which unity of experience is to arise from perceptions (not as a perception itself, as empirical intuition in general), and as a principle it will not be valid of the objects (of the appearances) *constitutively* but merely *regulatively*. (B222)
+#+end_quote
+
+This would seem to indicate that the relevant relata of the analogy are perceptions (or the appearances of objects of experience), and the relation is one that is set out by a specific rule. These rules are (here taking only the second edition of 1787 into consideration):
+
+1. Principle of the persistence of substance: In all change of appearances substance persists, and its quantum is neither increased nor diminished in nature (B224)
+2. Principle of temporal sequence according to the law of causality: All alterations occur in accordance with the law of the connection of cause and effect (B232)
+3. Principle of simultaneity, according to the law of interaction, or community: All substances, insofar as they can be perceived in space as simultaneous, are in thoroughgoing interaction (B256)
+
+Kant thus distinguishes three different kinds of temporality (B219) present in the relational categories: persistence, succession, and simultaneity. He then claims that each kind of temporality is connected with each of the relational categories (i.e. persistence with =<substance-inherence>=, succession with =<cause-effect>=, and simultaneity with =<community>=).  
+
+***** Are the analogies making epistemic or metaphysical claims?
+
+- Time (qua form) or temporal properties may be directly perceived (A176/B219). Time and its properties are only representable analogically
+
+#+begin_quote
+we ... represent the temporal sequence through a line progressing to infinity, in which the manifold constitutes a series that is of only one dimension, and infer from the properties of this line to all the properties of time, with the sole difference that the parts of the former are simultaneous but those of the latter always exist successively. (A33/B50)
+#+end_quote
+
+- Time also necessitates. Given two temporal regions, A and B, A stands as a sufficient condition of B's occurrence (or the occurrence of a temporal series of which B is a member) just by virtue of occurring before B (i.e. standing in the =<earlier than>= relation). This is due solely to specific topological facts about time---that it is a single dimensional serial order of situation that is continuous and connected.
+- Give that we cannot perceive time, there are likely to be epistemological issues with respect to making knowledge claims about it. But given that time has particular metaphysical features, it is also likely to play some sort of metaphysical or explanatory role as well. 
+
+
+***** The Epistemological Argument in the Second Analogy
+
+#+BEGIN_QUOTE
+That something happens, i.e., that something or a state comes to be that previously was not, cannot be empirically perceived except where an appearance precedes that does not contain this state in itself; for a reality that would follow on an empty time, thus an arising not preceded by any state of things, can be apprehended just as little as empty time itself. Every apprehension of an occurrence is therefore a perception that follows another one. Since this is the case in all synthesis of apprehension, however, as I have shown above in the case of the appearance of a house, the apprehension of an occurrence is not yet thereby distinguished from any other. Yet I also note that, if in the case of an appearance that contains a happening I call the preceding state of perception A and the following one B, then B can only follow A in apprehension, but the perception A cannot follow but only precede B. E.g., I see a ship driven downstream. My perception of its position downstream follows the perception of its position upstream, and it is impossible that in the apprehension of this appearance the ship should first be perceived downstream and afterwards upstream. The order in the sequence of the perceptions in apprehension is therefore here determined, and the apprehension is bound to it. (A191-2/B236-7)
+#+END_QUOTE
+
+
+1. We cannot know by experience that an event---that is, a transition from a
+   state A to a state B---is occurring by knowing that the perceptions of A and
+   B occur in the order A, B; by knowing that the perceptions of A and B are
+   irreversible; by knowing that A precedes B by reference to absolute time; or
+   by knowing that these perceptions are of successive states of
+   things-in-themselves.
+2. If (1), then the only way we can know by experience that an event---that is,
+   a transition from a state A to a state B---is occurring is by knowing that B
+   follows A according to a rule, that is, that the event has a cause.
+3. If the only way we can know by experience that an event---that is, a
+   transition from a state A to a state B---is occurring is by knowing that B
+   follows A according to a rule, that is, that the event has a cause, then any
+   event such that we can know of its occurrence by experience must have a
+   cause.
+4. \therefore Any event such that we can know of its occurrence by experience must have a
+   cause.
+
+
+***** Metaphysical Considerations
+Kant remarks in the introduction to the discussion of the principles that,
+
+#+begin_quote
+[t]he conditions of the *possibility of experience* in general are at the same time conditions of the *possibility of the objects of experience*, and on this account have objective validity in a synthetic judgment a priori. (A158/B197)
+#+end_quote
+
+- The categories are not simply the most fundamental ways of thinking about objects, there are also the most fundamental ways for /being/ objects -- i.e. the categories are essential to /being/ an object. 
+- Given this it would be surprising if Kant were making a merely epistemological argument in the Analogies
+
+#+begin_quote
+it is only because we subject the sequence of the appearances and thus all alteration to the law of causality that experience itself, i.e., empirical cognition of them [i.e. the sequence of appearances], is possible; consequently they themselves, as objects of experience, are possible only in accordance with this law. (B234)
+#+end_quote
+
+#+begin_quote
+[t]hese, then, are the three analogies of experience. They are nothing other than principles of the determination of the existence of appearances in time, in accordance with all three of its /modi/: that of the relation to time itself, as a magnitude (the magnitude of existence, i.e., duration); that of the relation in time, as a series (one after another); and finally that in time as a sum of all existence (simultaneous). (A215/B262)
+#+end_quote
+
+**** Time, Causality, & the PSR
+
+Kant makes two references to the principle of sufficient reason (or "determining ground") in the Analogies. The first comes in the Second Analogy.
+
+#+begin_quote
+1. This rule for determining something with respect to its temporal sequence, however, is that in what precedes, the condition is to be encountered under which the occurrence always (i.e., necessarily) follows. Thus the principle of sufficient reason is the ground of possible experience, namely the objective cognition of appearances with regard to their relation in the successive series of time. (A200-1/B246)
+#+end_quote
+
+
+#+begin_quote
+2. If we had wanted to prove these analogies dogmatically, i.e., from concepts...then all effort would have been entirely in vain. For one cannot get from one object and its existence to the existence of another or its way of existing through mere concepts of these things, no matter how much one analyzes them. So what is left for us? The possibility of experience, as a cognition in which in the end all objects must be able to be given to us if their representation is to have objective reality for us. In this third thing, now, the essential form of which consists in the synthetic unity of the apperception of all appearances, we found a priori conditions of the thoroughgoing and necessary time-determination of all existence in appearance, without which even empirical time-determination would be impossible, and we found rules of synthetic a priori unity by means of which we could anticipate experience. In the absence of this method, and in the delusion of wanting to prove dogmatically synthetic propositions that the empirical use of the understanding recommends as its principles, a proof of the principle of sufficient reason was often sought, but always in vain. (A217/B264-5)
+#+end_quote
+
+- Only the method of transcendental argument can apply any justification for the PSR
+- Kant argues that though we are justified in applying the PSR to appearances, understood as alterations of substances (objects), we can utilize this principle only /within/ the bounds of possible experience, and the impetus of reason (as a faculty) to seek the unconditioned condition (or totality) of given conditions will never be satisfied; thus is the application of the PSR both justified and stringently limited. 
+
 
 
 * Cleanup project files

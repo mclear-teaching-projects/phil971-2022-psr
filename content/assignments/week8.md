@@ -16,6 +16,7 @@ counts as endorsing a version of the PSR.
 
 -   [Discussion thread](https://discord.com/channels/1006739669842673674/1027749271254085752)
 -   [Notes]({{< relref "kant-temporal-psr" >}}) ([PDF](/materials/handouts/kant-temporal-psr.pdf))
+-   [Handout](/materials/handouts/week-8-handout.pdf)
 
 
 ## Readings {#readings}
