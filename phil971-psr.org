@@ -447,12 +447,23 @@ counts as endorsing a version of the PSR.
 - Watkins: [[file:static/materials/readings/watkins-causality.pdf][/Kant and the Metaphysics of Causality/]], chs. 3-4
 - Watkins: "[[https://www.icloud.com/iclouddrive/05fa-9UGF_yUZv-vEXxfThzfQ#watkins2010b][The Antinomy of Practical Reason]]"
   
-*** TODO Kant IV: Reason & The PSR (Guest: Karl Schafer)
+*** DONE Kant IV: Reason & The PSR (Guest: Karl Schafer)
+    SCHEDULED: <2022-10-20 Thu>
+   :PROPERTIES:
+   :EXPORT_HUGO_TAGS: condition conditioned intelligibility kant psr reason
+   :EXPORT_FILE_NAME: week9
+   :END:        
+
+Last week we discussed the sense in which Kant thinks there is a legitimate theoretical application of the PSR, at least in a limited sense. This week we look at his discussion of reason, and of reason's /need/ for something like the PSR. Along with our guest, [[https://philpeople.org/profiles/karl-schafer][Karl Schafer]], we'll look at the sense in which the PSR functions as a "subjective" principle of our rational faculty, and further examine Kant's view concerning the legitimacy of its application. 
+
+- [[https://discord.com/channels/1006739669842673674/1030262182883115060][Discussion thread]]
+- [[file:static/materials/handouts/handout-dialectic.pdf][Background handout on the Dialectic]]
+- Notes (TBA....)
 
 **** Readings
 - Kant
-   + Dialectic -- On pure reason as the seat of transcendental illusion
-   + Method -- The discipline of pure reason
+   + Dialectic -- [[file:static/materials/readings/kant-dialectic-opening.pdf][On pure reason as the seat of transcendental illusion]]
+   + Method -- [[file:static/materials/readings/kant-discipline.pdf][The discipline of pure reason]]
 - Schafer: "Reason’s Supreme Principle, the Principle of Sufficient Reason, and the Faculty of Reason" (see discord)
      
 **** Recommended   
