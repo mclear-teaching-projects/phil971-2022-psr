@@ -1,5 +1,5 @@
 +++
-title = "Kant IV: Reason & The PSR (Guest: Karl Schafer)"
+title = "Week 9 – Kant IV: Reason & The PSR (Guest: Karl Schafer)"
 publishDate = 2022-10-20T00:00:00-05:00
 tags = ["condition", "conditioned", "intelligibility", "kant", "psr", "reason"]
 draft = false

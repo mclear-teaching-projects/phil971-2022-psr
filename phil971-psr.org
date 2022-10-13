@@ -447,7 +447,7 @@ counts as endorsing a version of the PSR.
 - Watkins: [[file:static/materials/readings/watkins-causality.pdf][/Kant and the Metaphysics of Causality/]], chs. 3-4
 - Watkins: "[[https://www.icloud.com/iclouddrive/05fa-9UGF_yUZv-vEXxfThzfQ#watkins2010b][The Antinomy of Practical Reason]]"
   
-*** DONE Kant IV: Reason & The PSR (Guest: Karl Schafer)
+*** DONE Week 9 – Kant IV: Reason & The PSR (Guest: Karl Schafer)
     SCHEDULED: <2022-10-20 Thu>
    :PROPERTIES:
    :EXPORT_HUGO_TAGS: condition conditioned intelligibility kant psr reason
