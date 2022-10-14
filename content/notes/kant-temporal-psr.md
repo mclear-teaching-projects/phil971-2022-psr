@@ -5,8 +5,6 @@ tags = ["contingency", "freedom", "kant", "necessity", "psr", "reason", "time"]
 draft = false
 weight = 0
 type = "post"
-toc = false
-link-citations = true
 +++
 
 In these notes I discuss Kant&rsquo;s position on the PSR in the critical period, under the guise of the causal law of nature, that every alteration (or event) has a cause.
@@ -15,18 +13,22 @@ In these notes I discuss Kant&rsquo;s position on the PSR in the critical period
 
 <div class="heading">Table of Contents</div>
 
-- <span class="section-num">1</span> [Schematism &amp; Time](#schematism-and-time)
-- <span class="section-num">2</span> [The Analogies](#the-analogies)
-- <span class="section-num">3</span> [The Second Analogy](#the-second-analogy)
-    - <span class="section-num">3.1</span> [An Epistemological &amp; Conceptual Argument](#an-epistemological-and-conceptual-argument)
-    - <span class="section-num">3.2</span> [A Metaphysical Argument](#a-metaphysical-argument)
-    - <span class="section-num">3.3</span> [Time, Causality, &amp; the PSR](#time-causality-and-the-psr)
+- <span class="section-num">1</span> [The Analytic of Principles](#the-analytic-of-principles)
+- <span class="section-num">2</span> [Schematism &amp; Time](#schematism-and-time)
+- <span class="section-num">3</span> [The Analogies](#the-analogies)
+- <span class="section-num">4</span> [The Second Analogy](#the-second-analogy)
+    - <span class="section-num">4.1</span> [An Epistemological &amp; Conceptual Argument](#an-epistemological-and-conceptual-argument)
+    - <span class="section-num">4.2</span> [A Metaphysical Argument](#a-metaphysical-argument)
+    - <span class="section-num">4.3</span> [Time, Causality, &amp; the PSR](#time-causality-and-the-psr)
 - [References](#references)
 
 </div>
 <!--endtoc-->
 
 ---
+
+
+## <span class="section-num">1</span> The Analytic of Principles {#the-analytic-of-principles}
 
 The aims of the Analytic of Principles are to show what basic synthetic a priori truths we can know on the basis of the application of the categories of the understanding. In general we can see the Analytic of Principles as trying to answer four questions:
 
@@ -38,7 +40,7 @@ The aims of the Analytic of Principles are to show what basic synthetic a priori
 The Analytic of Principles aims to answer questions (3) and (4). A full vindication of the categories as applicable to objects of experience thus depends not only on the arguments of the Analytic of Concepts but also those of the Principles.
 
 
-## <span class="section-num">1</span> Schematism &amp; Time {#schematism-and-time}
+## <span class="section-num">2</span> Schematism &amp; Time {#schematism-and-time}
 
 Each section of the Analytic of Principles describes or elucidates the manner in which the &ldquo;schematized&rdquo; categories in question (i.e. the categories of quality, quantity, relation, or modality) provide the basis for synthetic a priori cognition and knowledge of nature (as the system of possible experience). What is a &ldquo;schema&rdquo; and what are the &ldquo;schematized categories&rdquo;?
 
@@ -61,7 +63,7 @@ Kant&rsquo;s answer is to appeal to time, as the form of inner sense (i.e. our i
 Thus what we should expect, for each part of the second chapter of the Analytic of Principles (what Kant calls the &ldquo;System of all principle of pure understanding&rdquo;), a discussion of how the relevant categories relate to time, and how that in turn grounds further cognition of nature (as the sum total of all appearances).
 
 
-## <span class="section-num">2</span> The Analogies {#the-analogies}
+## <span class="section-num">3</span> The Analogies {#the-analogies}
 
 The chapter called &ldquo;The Analogies of Experience&rdquo; is a part of the broader
 section, the &ldquo;Analytic of Principles&rdquo;, of the _Critique of Pure Reason_. It
@@ -111,12 +113,12 @@ dimensional serial order of situation that is continuous and connected.[^fn:2]
 These points might indicate that Kant&rsquo;s concern is with the metaphysical structure of time. However, Kant also assumes a distinction between an objective temporal order between states of objects (and between objects) and the subjective temporal appearance of such order, construed merely as the subjective succession of representations in a particular empirical mind. Much of Kant&rsquo;s discussion is then aimed at answering the question &ldquo;how do I manage to cognize and know anything about an objective temporal order if all I have access to is the subjective temporal succession of my own representations?&rdquo; Thus he is definitely also concerned with epistemic issues surrounding how we cognize or come to know objective truths about temporal relations between objects of experience. Hence it looks like Kant is concerned _both_ with metaphysical _and_ with epistemological issues in his discussion of the analogies between the temporal order of perception and the categories of relation.
 
 
-## <span class="section-num">3</span> The Second Analogy {#the-second-analogy}
+## <span class="section-num">4</span> The Second Analogy {#the-second-analogy}
 
 Here, the analogy under consideration seems be that A precedes B (considered as appearances or alterations of a substance) as cause precedes effect. Hence the law that all alteration (i.e. all successive being and not-being of the determinations of a substance) occurs in accordance with the law of the connection of cause and effect. More generally, Kant&rsquo;s claim (unpacking his discussion of analogy above) is that we can cognize the effect of some cause by virtue of applying a rule -- the rule of the succession of appearances -- to objects as they appear to us.
 
 
-### <span class="section-num">3.1</span> An Epistemological &amp; Conceptual Argument {#an-epistemological-and-conceptual-argument}
+### <span class="section-num">4.1</span> An Epistemological &amp; Conceptual Argument {#an-epistemological-and-conceptual-argument}
 
 There are seemingly a number of different ways in which Kant argues for his succession principle in the Second Analogy. One way that we might try to reconstruct his argument is to see the Second Analogy as aiming to reject Hume&rsquo;s conclusion that the necessary connection between a putative cause and its effect is merely a fiction, and that instead all such connections are associations formed on the basis of habituation to experiences of constant conjunction.
 
@@ -232,7 +234,7 @@ skeptic who might deny that we have any cognitive grasp of objective succession,
 it nevertheless seems effective against Hume&rsquo;s argument.
 
 
-### <span class="section-num">3.2</span> A Metaphysical Argument {#a-metaphysical-argument}
+### <span class="section-num">4.2</span> A Metaphysical Argument {#a-metaphysical-argument}
 
 The preceding argument concerns our knowledge of objective succession and simultaneity. It contends that if we have such knowledge then we are justified in utilizing the concepts of cause and effect, since the application of such concepts constitutes the rule by which we come to make the relevant distinction between objective succession and simultaneity.
 
@@ -273,7 +275,7 @@ Here again we see Kant claiming that through the application of the categories o
 The principles &ldquo;determine&rdquo; appearances, and in doing so _constitute_ the objects of experience. That is why they are conditions of the possibility of experience (and thus according to the opening of the chapter, of the objects of experience).
 
 
-### <span class="section-num">3.3</span> Time, Causality, &amp; the PSR {#time-causality-and-the-psr}
+### <span class="section-num">4.3</span> Time, Causality, &amp; the PSR {#time-causality-and-the-psr}
 
 Kant makes two references to the principle of sufficient reason (or &ldquo;determining ground&rdquo;) in the Analogies. The first comes in the Second Analogy.
 
@@ -340,7 +342,7 @@ According to Kant&rsquo;s doctrine of Transcendental Idealism, the appearance(s)
 Hence, Kant argues that though we are justified in applying the PSR to appearances, understood as alterations of substances (objects), we can utilize this principle only _within_ the bounds of possible experience, and the impetus of reason (as a faculty) to seek the unconditioned condition (or totality) of given conditions will never be satisfied; thus is the application of the PSR both justified and stringently limited.
 
 
-## References
+## References {#references}
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Allais, Lucy. 2003. “Kant’s Transcendental Idealism and Contemporary Anti-Realism.” <i>International Journal of Philosophical Studies</i> 11 (4): 369–92.</div>
