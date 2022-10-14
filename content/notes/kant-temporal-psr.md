@@ -1,6 +1,5 @@
 +++
 title = "Kant & The Temporal PSR"
-author = ["PHIL 971"]
 tags = ["contingency", "freedom", "kant", "necessity", "psr", "reason", "time"]
 draft = false
 weight = 0
