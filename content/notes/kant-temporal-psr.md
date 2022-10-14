@@ -4,6 +4,7 @@ author = ["PHIL 971"]
 tags = ["contingency", "freedom", "kant", "necessity", "psr", "reason", "time"]
 draft = false
 weight = 0
+author = false
 type = "post"
 +++
 
