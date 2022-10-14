@@ -1,10 +1,12 @@
 +++
 title = "Kant & The Temporal PSR"
+author = ["PHIL 971"]
 tags = ["contingency", "freedom", "kant", "necessity", "psr", "reason", "time"]
 draft = false
 weight = 0
-author = false
 type = "post"
+toc = false
+link-citations = true
 +++
 
 In these notes I discuss Kant&rsquo;s position on the PSR in the critical period, under the guise of the causal law of nature, that every alteration (or event) has a cause.
