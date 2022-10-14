@@ -1,11 +1,10 @@
 +++
 title = "Kant & Ontotheology"
-author = ["PHIL 971"]
+publishDate = 2022-10-06T00:00:00-05:00
 tags = ["contingency", "crusius", "freedom", "kant", "libertarianism", "necessity", "psr", "responsibility"]
 draft = false
 weight = 0
-toc = false
-link-citations = true
+type = "post"
 +++
 
 Here I discuss Kant&rsquo;s theory of ground (a recap of last week&rsquo;s discussion) and his (in)famous criticism of ontotheology -- the position that God&rsquo;s essence entails his/its existence. We&rsquo;ll look at the basic elements of Kant&rsquo;s view of existence and the general structure of his criticism of the ontological argument.
@@ -45,7 +44,7 @@ This characterization of ground is virtually identical with Crusius&rsquo;s conc
 
 What is meant by &ldquo;exclusion&rdquo; here? Consider Kant&rsquo;s remark in a letter to Reinhold during the &ldquo;critical&rdquo; period.
 
-> A ground is (in general) that whereby something else (distinct from it) is made determinate {_quo posito **determinate<sup>a</sup>** ponitur aliud_) [that which being posited _determines something else/]. A consequent (/rationatum_) is _quod non ponitur nisi posito alio_ [that which is not posited unless _something else_ is posited]. The ground must thus always be something distinct from the consequent, and he who can provide no ground but the given consequent itself shows that he does not know (or that the thing does not have) any ground! Now this distinction of ground and consequent is either merely logical (having to do with the manner of representation) or real, that is, in the object itself. (11:35 To Karl Leonhard Reinhold. May 12, 1789)
+> A ground is (in general) that whereby something else (distinct from it) is made determinate {_quo posito **determinate<sup>a</sup>** ponitur aliud_) [that which being posited _determines something else_]. A consequent (_rationatum_) is _quod non ponitur nisi posito alio_ [that which is not posited unless _something else_ is posited]. The ground must thus always be something distinct from the consequent, and he who can provide no ground but the given consequent itself shows that he does not know (or that the thing does not have) any ground! Now this distinction of ground and consequent is either merely logical (having to do with the manner of representation) or real, that is, in the object itself. (11:35 To Karl Leonhard Reinhold. May 12, 1789)
 >
 > _a_: This expression must never be left out of the definition of &ldquo;ground.&rdquo; For a consequent too, is something that, if I posit it, I must at the same time think something else as posited, that is, a consequent always belongs to something or other that is its ground. But when I think something as consequent, I posit only some ground or other; -which ground is undetermined. (Thus the hypothetical judgment is based on the rule, &ldquo;a positione consequentis ad positionem antecedentis non valet consequentia&rdquo; [the movement from the consequent to the antecedent is not valid].) On the other hand, if the ground is posited, the consequent is determined.
 
@@ -160,7 +159,7 @@ However, what is somewhat less clear is the way in which Kant intends to present
 Dai Heide (<a href="#citeproc_bib_item_9">2021</a>) argues that Kant presents arguments against ontotheism (or specific versions thereof) that do not rely on his positive view concerning the nature of the existence predicate, and moreover, that such arguments aim to show that ontotheism is internally inconsistent. Thus Kant hopes to show that the best way of resolving this inconsistency is via a rejection of the view that `<existence>` is a real determination or predicate.
 
 
-## References {#references}
+## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Bader, Ralf M. 2018. “Real Predicates and Existential Judgements.” <i>European Journal of Philosophy</i> 26 (3): 1153–58. doi:<a href="https://doi.org/10.1111/ejop.12355">10.1111/ejop.12355</a>.</div>

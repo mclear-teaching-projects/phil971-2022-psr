@@ -1,6 +1,6 @@
 +++
 title = "Kant & The Temporal PSR"
-author = ["PHIL 971"]
+publishDate = 2022-10-13T00:00:00-05:00
 tags = ["contingency", "freedom", "kant", "necessity", "psr", "reason", "time"]
 draft = false
 weight = 0
@@ -20,7 +20,6 @@ In these notes I discuss Kant&rsquo;s position on the PSR in the critical period
     - <span class="section-num">4.1</span> [An Epistemological &amp; Conceptual Argument](#an-epistemological-and-conceptual-argument)
     - <span class="section-num">4.2</span> [A Metaphysical Argument](#a-metaphysical-argument)
     - <span class="section-num">4.3</span> [Time, Causality, &amp; the PSR](#time-causality-and-the-psr)
-- [References](#references)
 
 </div>
 <!--endtoc-->
@@ -341,8 +340,7 @@ According to Kant&rsquo;s doctrine of Transcendental Idealism, the appearance(s)
 
 Hence, Kant argues that though we are justified in applying the PSR to appearances, understood as alterations of substances (objects), we can utilize this principle only _within_ the bounds of possible experience, and the impetus of reason (as a faculty) to seek the unconditioned condition (or totality) of given conditions will never be satisfied; thus is the application of the PSR both justified and stringently limited.
 
-
-## References {#references}
+## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Allais, Lucy. 2003. “Kant’s Transcendental Idealism and Contemporary Anti-Realism.” <i>International Journal of Philosophical Studies</i> 11 (4): 369–92.</div>

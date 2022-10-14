@@ -1,11 +1,10 @@
 +++
 title = "Leibniz On Substance & Truth"
-author = ["PHIL 971"]
+publishDate = 2022-09-14T00:00:00-05:00
 tags = ["explanation", "intelligibility", "leibniz", "psr", "substance", "truth"]
 draft = false
 weight = 0
-toc = false
-link-citations = true
+type = "post"
 +++
 
 Here I discuss the basic elements of Leibniz&rsquo;s view of substance, truth as conceptual containment, and his idealist theory of monads. I show how Leibniz uses the PSR to argue against materialist conceptions of substance, as well as so-called &ldquo;absolute&rdquo; conceptions of space.[^fn:1]
@@ -28,6 +27,8 @@ Here I discuss the basic elements of Leibniz&rsquo;s view of substance, truth as
 
 </div>
 <!--endtoc-->
+
+---
 
 
 ## <span class="section-num">1</span> Leibniz -- Chronology {#leibniz-chronology}

@@ -1,12 +1,10 @@
 +++
 title = "The Argument for Monism"
-author = ["PHIL 971"]
-publishDate = 2022-09-01T00:00:00-04:00
+publishDate = 2022-09-01T00:00:00-05:00
 tags = ["causality", "explanation", "monism", "psr", "spinoza"]
 draft = false
 weight = 0
-toc = false
-link-citations = true
+type = "post"
 +++
 
 A brief discussion of the basic structure of Spinoza&rsquo;s argument for substance monism in _Ethics_, bk. I.
@@ -262,8 +260,6 @@ together in order to establish that there is a single substance and it is God.
 
 All finite beings are thus modes of the one -- God (see E1p15).
 
-
-## References {#references}
 
 ## References
 

@@ -2,6 +2,24 @@
 #+date: July 8, 2022
 #+author: Colin McLear
 
+* Configuration :noexport:
+#+startup: nologdone
+#+hugo_base_dir: ./ 
+#+todo: TODO | DONE CANCELED
+#+select_tags: export
+#+exclude_tags: noexport archive nohugo notes scrap
+#+language: en
+#+latex_compiler: xelatex
+#+options: ':t toc:nil prop:nil p:t
+#+latex_class: org-notes
+#+options: h:4 
+#+options: preamble:nil
+#+options: num:nil 
+#+options: author:nil
+#+cite_export: csl chicago-author-date-16th-edition.csl
+#+bibliography: ~/Dropbox/Work/bibfile.bib
+
+
 * Website
 ** Pages
    :PROPERTIES:
@@ -530,7 +548,7 @@ None of the proofs which argue from the effects of this being to its existence a
 
 ** Class Notes
    :PROPERTIES:
-   :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :author false :type post
+   :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :type post
    :EXPORT_HUGO_SECTION: notes
    :EXPORT_HUGO_PANDOC_CITATIONS: nil
    :EXPORT_HUGO_PAIRED_SHORTCODES: %mdshortcode myshortcode
@@ -544,7 +562,7 @@ None of the proofs which argue from the effects of this being to its existence a
     :EXPORT_HUGO_TAGS: aristotle aquinas causality descartes explanation psr parmenides plato
     :EXPORT_FILE_NAME: forms-of-psr
     :EXPORT_DATE: August 25, 2022
-    :EXPORT_OPTIONS: author:t num:t
+    :EXPORT_OPTIONS: author:nil num:t
     :EXPORT_AUTHOR: PHIL 971
     :ID:       20220805T113802.074879
     :END:
@@ -552,6 +570,8 @@ None of the proofs which argue from the effects of this being to its existence a
 In this set of notes I discuss the origins of the PSR in Greek Antiquity, its development by Aquinas, and applications of it by Descartes. A central aim is to show different senses of the principle as well as its roots in explanation and theory generation.
 
 #+toc: headlines 6 
+
+------
 
 **** The PSR Schema
 
@@ -584,7 +604,7 @@ In this set of notes I discuss the origins of the PSR in Greek Antiquity, its de
     :EXPORT_HUGO_TAGS: causality explanation psr spinoza
     :EXPORT_FILE_NAME: spinoza-ethics
     :EXPORT_DATE: September 1, 2022
-    :EXPORT_OPTIONS: author:t num:t
+    :EXPORT_OPTIONS: author:nil num:t
     :EXPORT_AUTHOR: PHIL 971
     :ID:       20220901T230222.955625
     :END:
@@ -592,6 +612,8 @@ In this set of notes I discuss the origins of the PSR in Greek Antiquity, its de
 A brief discussion of how to read Spinoza's masterpiece, the /Ethics/.
 
 #+toc: headlines 6
+
+-----
 
 #+INCLUDE: ~/Documents/notes/lecture-notes/20210814T153218--reading-spinoza-s-ethics__teaching.org :lines "6-"
 
@@ -601,7 +623,7 @@ A brief discussion of how to read Spinoza's masterpiece, the /Ethics/.
     :EXPORT_HUGO_TAGS: causality explanation monism psr spinoza
     :EXPORT_FILE_NAME: spinoza-monism
     :EXPORT_DATE: September 1, 2022
-    :EXPORT_OPTIONS: author:t num:t
+    :EXPORT_OPTIONS: author:nil num:t
     :EXPORT_AUTHOR: PHIL 971
     :ID:       20220901T230252.533324
     :END:
@@ -631,7 +653,7 @@ A brief discussion of the basic structure of Spinoza's argument for substance mo
     :EXPORT_HUGO_TAGS: causality descartes explanation psr spinoza substance
     :EXPORT_FILE_NAME: spinoza-substance-psr
     :EXPORT_DATE: September 1, 2022
-    :EXPORT_OPTIONS: author:t num:t
+    :EXPORT_OPTIONS: author:nil num:t
     :EXPORT_AUTHOR: PHIL 971
     :ID:       20220831T221244.649079
     :END:
@@ -639,6 +661,8 @@ A brief discussion of the basic structure of Spinoza's argument for substance mo
 Here I discuss some issues concerning the manner in which the PSR figures in Spinoza's argument for substance monism in /Ethics/ I. Special attention is paid to connections between Spinoza's and Descartes's views, as well as which, if any, version of the PSR Spinoza endorses.  
 
 #+toc: headlines 6 
+
+-----
 
 #+INCLUDE: ~/Documents/notes/lecture-notes/20220829T124918--spinoza-and-the-psr__teaching.org :lines "6-"
 
@@ -655,7 +679,7 @@ Here I discuss some issues concerning the manner in which the PSR figures in Spi
     :EXPORT_HUGO_TAGS: explanation mind-body parallelism psr spinoza substance
     :EXPORT_FILE_NAME: spinoza-mind
     :EXPORT_DATE: September 8, 2022
-    :EXPORT_OPTIONS: author:t num:t
+    :EXPORT_OPTIONS: author:nil num:t
     :EXPORT_AUTHOR: PHIL 971
     :ID:       20220902T002001.086650
     :END:
@@ -663,6 +687,8 @@ Here I discuss some issues concerning the manner in which the PSR figures in Spi
 Below are notes I use in undergraduate introductions to E2. I lay out some of the basic issues regarding Spinoza's view of the mind and the mind-body relation.[fn:1]
 
 #+toc: headlines 6 
+
+-----
 
 #+INCLUDE: ~/Documents/notes/lecture-notes/20220407T131253--spinoza-s-mind__teaching.org :lines "9-"
 
@@ -682,7 +708,7 @@ Below are notes I use in undergraduate introductions to E2. I lay out some of th
      :EXPORT_HUGO_TAGS: explanation mind-body parallelism psr spinoza substance
      :EXPORT_FILE_NAME: spinoza-parallelism
      :EXPORT_DATE: September 8, 2022
-     :EXPORT_OPTIONS: author:t num:t
+     :EXPORT_OPTIONS: author:nil num:t
      :EXPORT_AUTHOR: PHIL 971
      :ID:       20220908T120337.014748
      :END:
@@ -690,6 +716,8 @@ Below are notes I use in undergraduate introductions to E2. I lay out some of th
 Here I discuss Spinoza's so-called "parallelism" doctrine, as well as its relation to his overall project of articulating the conditions of the intelligibility of reality. 
 
 #+toc: headlines 6
+
+-----
 
 #+INCLUDE: ~/Documents/notes/lecture-notes/20220907T084828--spinozas-parallelism-and-the-psr__teaching.org :lines "6-"
 
@@ -702,11 +730,12 @@ Here I discuss Spinoza's so-called "parallelism" doctrine, as well as its relati
 #+print_bibliography:
 
 *** Leibniz On Substance & Truth 
+    SCHEDULED: <2022-09-14 Wed>
     :PROPERTIES:
     :EXPORT_HUGO_TAGS: explanation intelligibility leibniz psr substance truth
     :EXPORT_FILE_NAME: leibniz-substance
     :EXPORT_DATE: September 14, 2022
-    :EXPORT_OPTIONS: author:t num:t
+    :EXPORT_OPTIONS: author:nil num:t
     :EXPORT_AUTHOR: PHIL 971
     :ID:       20220914T135107.188323
     :END:
@@ -715,6 +744,8 @@ Here I discuss Spinoza's so-called "parallelism" doctrine, as well as its relati
 Here I discuss the basic elements of Leibniz's view of substance, truth as conceptual containment, and his idealist theory of monads. I show how Leibniz uses the PSR to argue against materialist conceptions of substance, as well as so-called "absolute" conceptions of space.[fn:2]
 
 #+toc: headlines 6
+
+------
 
 **** Leibniz -- Chronology 
 
@@ -762,7 +793,7 @@ Substances thus constitute the basic 'furniture' of reality.
 
 #+INCLUDE: ~/Documents/notes/lecture-notes/20210729T005817--leibnizidealism__teaching.org::#monads :minlevel 5
 
-#+INCLUDE: "~/Documents/notes/zettel/20200314T122920--notes-on-leibniz-clarke__teaching.org::#leibnizs-third-reply" :minlevel 4
+#+INCLUDE: "~/Documents/notes/zettel/20220924T170615--notes-on-leibniz-clarke__teaching.org::#leibnizs-third-reply" :minlevel 4
 
 
 
@@ -778,12 +809,13 @@ Substances thus constitute the basic 'furniture' of reality.
 #+print_bibliography:
 
 
-*** DONE Leibniz on Freedom & Contingency
+*** Leibniz on Freedom & Contingency
+    SCHEDULED: <2022-09-22 Thu>
     :PROPERTIES:
     :EXPORT_HUGO_TAGS: contingency freedom leibniz necessity psr responsibility
     :EXPORT_FILE_NAME: leibniz-freedom
     :EXPORT_DATE: September 22, 2022
-    :EXPORT_OPTIONS: author:t num:t
+    :EXPORT_OPTIONS: author:nil num:t
     :EXPORT_AUTHOR: PHIL 971
     :ID:       20220917T161827.750074
     :END:
@@ -791,6 +823,8 @@ Substances thus constitute the basic 'furniture' of reality.
 I discuss Leibniz's position on freedom and contingency. It is important for Leibniz that his view allow for the ability to do otherwise, or leeway in action, that we take to be exemplified in saying of some act that it was possible for it not to be done (or the event not to occur, etc.). Thus, though Liebniz accepts a seemingly unrestricted form of the PSR, he does not want to accept the kind of so-called "necessitarian" position of Spinoza. The question is whether Leibniz succeeds in doing so. 
 
 #+toc: headlines 6
+
+-----
 
 #+INCLUDE: ~/Documents/notes/lecture-notes/20210729T005817--leibnizfreedom__teaching.org :lines "6-"
 
@@ -807,11 +841,12 @@ I discuss Leibniz's position on freedom and contingency. It is important for Lei
 
 
 *** Crusius & Kant on Determining Grounds
+    SCHEDULED: <2022-09-29 Thu>
     :PROPERTIES:
     :EXPORT_HUGO_TAGS: contingency crusius freedom kant libertarianism necessity psr responsibility
     :EXPORT_FILE_NAME: crusius-and-kant
     :EXPORT_DATE: September 29, 2022
-    :EXPORT_OPTIONS: author:t num:t ':t
+    :EXPORT_OPTIONS: author:nil num:t ':t
     :EXPORT_AUTHOR: PHIL 971
     :ID:       20220927T115445.592326
     :END:
@@ -838,11 +873,12 @@ Here I discuss Crusius's distinction between sufficient and determining grounds,
 
 
 *** Kant & Ontotheology
+    SCHEDULED: <2022-10-06 Thu>
     :PROPERTIES:
     :EXPORT_HUGO_TAGS: contingency crusius freedom kant libertarianism necessity psr responsibility
     :EXPORT_FILE_NAME: kant-ontotheology
     :EXPORT_DATE: October 6, 2022
-    :EXPORT_OPTIONS: author:t num:t ':t
+    :EXPORT_OPTIONS: author:nil num:t ':t
     :EXPORT_AUTHOR: PHIL 971
     :ID:       20221002T111549.123571
     :END:
@@ -866,11 +902,12 @@ Here I discuss Kant's theory of ground (a recap of last week's discussion) and h
 
 
 *** Kant & The Temporal PSR
+    SCHEDULED: <2022-10-13 Thu>
     :PROPERTIES:
     :EXPORT_HUGO_TAGS: contingency freedom kant necessity psr reason time
     :EXPORT_FILE_NAME: kant-temporal-psr
     :EXPORT_DATE: October 13, 2022
-    :EXPORT_OPTIONS: author:t num:t ':t
+    :EXPORT_OPTIONS: author:nil num:t ':t
     :EXPORT_AUTHOR: PHIL 971
     :ID:       20221012T220355.850099
     :END:
@@ -881,13 +918,8 @@ In these notes I discuss Kant's position on the PSR in the critical period, unde
 
 -------
 
-#+INCLUDE: ~/Documents/notes/lecture-notes/20221011T123223--kant-and-the-analogies-of-experience__teaching.org :lines "6-"
+#+INCLUDE: "~/Documents/notes/lecture-notes/20221011T123223--kant-and-the-analogies-of-experience__teaching.org" :lines "6-"
 
-
-**** References
-     :PROPERTIES:
-     :UNNUMBERED: t
-     :END:
 
 #+print_bibliography:
 
@@ -1336,22 +1368,4 @@ mv *.pdf static/materials/handouts
    1) Problems w/P28
        1) in what capacity is God the cause of the existence of finite things at all (since their finite existence does not follow from his absolute nature) and, even more importantly
        2) in what sense is then their existence necessary (since they seem to necessarily follow from each other within the realm of natura naturata)? 
-
-* Configuration :noexport:
-#+startup: nologdone
-#+hugo_base_dir: ./ 
-#+todo: TODO | DONE CANCELED
-#+select_tags: export
-#+exclude_tags: noexport archive nohugo notes scrap
-#+language: en
-#+latex_compiler: xelatex
-#+options: ':t toc:nil prop:nil p:t
-#+latex_class: org-notes
-#+options: h:4 
-#+options: preamble:nil
-#+options: num:nil 
-#+options: author:nil
-#+cite_export: csl chicago-author-date-16th-edition.csl
-#+bibliography: ~/Dropbox/Work/bibfile.bib
-
 

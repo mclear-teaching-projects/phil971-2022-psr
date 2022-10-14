@@ -1,12 +1,10 @@
 +++
 title = "Forms of The PSR"
-author = ["PHIL 971"]
-publishDate = 2022-08-22T00:00:00-04:00
+publishDate = 2022-08-22T00:00:00-05:00
 tags = ["aristotle", "aquinas", "causality", "descartes", "explanation", "psr", "parmenides", "plato"]
 draft = false
 weight = 0
-toc = false
-link-citations = true
+type = "post"
 +++
 
 In this set of notes I discuss the origins of the PSR in Greek Antiquity, its development by Aquinas, and applications of it by Descartes. A central aim is to show different senses of the principle as well as its roots in explanation and theory generation.
@@ -27,6 +25,8 @@ In this set of notes I discuss the origins of the PSR in Greek Antiquity, its de
 
 </div>
 <!--endtoc-->
+
+---
 
 
 ## <span class="section-num">1</span> The PSR Schema {#the-psr-schema}

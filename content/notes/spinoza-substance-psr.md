@@ -1,12 +1,10 @@
 +++
 title = "Spinoza on Substance & the PSR"
-author = ["PHIL 971"]
-publishDate = 2022-09-01T00:00:00-04:00
+publishDate = 2022-09-01T00:00:00-05:00
 tags = ["causality", "descartes", "explanation", "psr", "spinoza", "substance"]
 draft = false
 weight = 0
-toc = false
-link-citations = true
+type = "post"
 +++
 
 Here I discuss some issues concerning the manner in which the PSR figures in Spinoza&rsquo;s argument for substance monism in _Ethics_ I. Special attention is paid to connections between Spinoza&rsquo;s and Descartes&rsquo;s views, as well as which, if any, version of the PSR Spinoza endorses.
@@ -23,6 +21,8 @@ Here I discuss some issues concerning the manner in which the PSR figures in Spi
 
 </div>
 <!--endtoc-->
+
+---
 
 
 ## <span class="section-num">1</span> Spinoza on the PSR &amp; Intelligibility {#spinoza-on-the-psr-and-intelligibility}
@@ -194,8 +194,6 @@ the feature of necessary existence. For example, suppose we think the causal rel
 
 So does Spinoza accept that the causal relation, while asymmetric and transitive, is nevertheless at least possibly reflexive? It seems so. If that is the case then Spinoza differs from many contemporary philosophers of &ldquo;ground&rdquo; who hold that a ground must have all three of the above features.
 
-
-## References {#references}
 
 ## References
 

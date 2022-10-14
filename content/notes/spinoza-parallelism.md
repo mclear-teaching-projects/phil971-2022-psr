@@ -1,12 +1,10 @@
 +++
 title = "Spinoza's Parallelism & The PSR"
-author = ["PHIL 971"]
 publishDate = 2022-09-08T00:00:00-05:00
 tags = ["explanation", "mind-body", "parallelism", "psr", "spinoza", "substance"]
 draft = false
 weight = 0
-toc = false
-link-citations = true
+type = "post"
 +++
 
 Here I discuss Spinoza&rsquo;s so-called &ldquo;parallelism&rdquo; doctrine, as well as its relation to his overall project of articulating the conditions of the intelligibility of reality.
@@ -19,9 +17,12 @@ Here I discuss Spinoza&rsquo;s so-called &ldquo;parallelism&rdquo; doctrine, as 
 - <span class="section-num">2</span> [The Demonstration](#the-demonstration)
 - <span class="section-num">3</span> [The Scholium &amp; Corollary](#the-scholium-and-corollary)
 - <span class="section-num">4</span> [The Intelligibility of Everything](#the-intelligibility-of-everything)
+- [References](#references)
 
 </div>
 <!--endtoc-->
+
+---
 
 The central passage of the _Ethics_ for understanding Spinoza&rsquo;s conception of the relation between extension and thought is E2p7, which states:
 
@@ -80,7 +81,7 @@ The proposition and what follows raises a variety of questions. The statement of
 
 While the metaphors of &ldquo;mirroring&rdquo;, etc., are fine as far as they go, Spinoza also articulates a seemingly related claim concerning ideas (or modes of thought) and &ldquo;things&rdquo; (including modes of extension).
 
-> E2p7s: Before we proceed further, we must recall here what we showed [NS: in the First Part], namely, that whatever can be perceived by an infinite intellect as constituting an essence of substance pertains to one substance only, and consequently that the thinking substance and the extended substance are one and the same substance, which is now comprehended under this attribute, now under that. So also a mode of extension and the idea of that mode are one and the same thing, but expressed in two ways. Some of the Hebrews seem to have seen this, as if through a cloud, when they maintained that God, God&rsquo;s intellect, and the things understood by him are one and the same.
+> E2p7s: Before we proceed further, we must recall here what we showed [in E1], namely, that whatever can be perceived by an infinite intellect as constituting an essence of substance pertains to one substance only, and consequently that the thinking substance and the extended substance are one and the same substance, which is now comprehended under this attribute, now under that. So also a mode of extension and the idea of that mode are one and the same thing, but expressed in two ways. Some of the Hebrews seem to have seen this, as if through a cloud, when they maintained that God, God&rsquo;s intellect, and the things understood by him are one and the same.
 
 The claim in the scholium is not obviously the same as that in the proposition, for it references not a parallelism between ideas and things, but a parallelism between modes of one attribute and modes of another. These are not equivalent.[^fn:2] The postulate is seemingly compatible with there being a lack of parallel between the relations of modes other than ideas to modes of other (infinitely many) attributes. The scholium, on the other hand, is seemingly compatible with a lack of parallel within the attribute of thought (e.g. of lower-order ideas and higher-order ideas) even though there is a parallel between the order of modes in one attribute and that of another.
 
@@ -110,6 +111,7 @@ Spinoza is often characterized as committed to the intelligibility of everything
 It&rsquo;s hard to see how it could be the latter, for Spinoza is _already_ committed to the in principle conceivability of everything in E1a2-4. Those axioms require that everything must be conceived -- either through itself or another (1a2); that conception must be through causes (1a4); and that causes always necessitate (1a3). From these it follows that everything that is (and that could be) is the result of a necessitating cause, and since causal relations _are_ rational relations, everything conceivable is rationally grounded. At best then, parallelism allows Spinoza to spell out, in greater detail, commitments already initially articulated in E1. But really this is as it should be, since all things are supposed to follow from God&rsquo;s essence and so all the conseuqences of the subsequent books of the _Ethics_ should already be in a sense contained in the content of the first book.
 
 However, this does leave the axioms of E1 in a vulnerable position, for there does not seem to be any argument that Spinoza can provide for them (they are axioms). The best that perhaps can be said is that they are the more plausible given the overall plausibility of the consequences drawn from them. This also indicates a broader question: is there anything that can actually be pointed to in the way of an _argument_ for explanatory rationalism of the sort articulated by Spinoza? What would such an argument look like, without out presupposing a version of the PSR itself?
+
 
 ## References
 

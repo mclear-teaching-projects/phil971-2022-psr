@@ -1,12 +1,10 @@
 +++
 title = "Spinoza's Mind"
-author = ["PHIL 971"]
-publishDate = 2022-09-08T00:00:00-04:00
+publishDate = 2022-09-08T00:00:00-05:00
 tags = ["explanation", "mind-body", "parallelism", "psr", "spinoza", "substance"]
 draft = false
 weight = 0
-toc = false
-link-citations = true
+type = "post"
 +++
 
 Below are notes I use in undergraduate introductions to E2. I lay out some of the basic issues regarding Spinoza&rsquo;s view of the mind and the mind-body relation.[^fn:1]
@@ -23,6 +21,8 @@ Below are notes I use in undergraduate introductions to E2. I lay out some of th
 
 </div>
 <!--endtoc-->
+
+---
 
 
 ## <span class="section-num">1</span> The Mind as Mode {#the-mind-as-mode}
@@ -143,8 +143,6 @@ nevertheless the ideas one enjoys during one&rsquo;s existence have a timeless a
 element to them, and in this sense only can an individual person partake of
 immortality.
 
-
-## References {#references}
 
 ## References
 

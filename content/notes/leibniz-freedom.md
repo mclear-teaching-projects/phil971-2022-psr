@@ -1,11 +1,10 @@
 +++
 title = "Leibniz on Freedom & Contingency"
-author = ["PHIL 971"]
+publishDate = 2022-09-22T00:00:00-05:00
 tags = ["contingency", "freedom", "leibniz", "necessity", "psr", "responsibility"]
 draft = false
 weight = 0
-toc = false
-link-citations = true
+type = "post"
 +++
 
 I discuss Leibniz&rsquo;s position on freedom and contingency. It is important for Leibniz that his view allow for the ability to do otherwise, or leeway in action, that we take to be exemplified in saying of some act that it was possible for it not to be done (or the event not to occur, etc.). Thus, though Liebniz accepts a seemingly unrestricted form of the PSR, he does not want to accept the kind of so-called &ldquo;necessitarian&rdquo; position of Spinoza. The question is whether Leibniz succeeds in doing so.
@@ -22,6 +21,8 @@ I discuss Leibniz&rsquo;s position on freedom and contingency. It is important f
 
 </div>
 <!--endtoc-->
+
+---
 
 
 ## <span class="section-num">1</span> The Problem of Freedom {#the-problem-of-freedom}

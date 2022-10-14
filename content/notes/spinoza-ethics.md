@@ -1,13 +1,11 @@
 +++
 title = "Spinoza's Ethics"
-author = ["PHIL 971"]
-publishDate = 2022-09-01T00:00:00-04:00
+publishDate = 2022-09-01T00:00:00-05:00
 slug = "reading-spinoza"
 tags = ["causality", "explanation", "psr", "spinoza"]
 draft = false
 weight = 0
-toc = false
-link-citations = true
+type = "post"
 +++
 
 A brief discussion of how to read Spinoza&rsquo;s masterpiece, the _Ethics_.
@@ -22,6 +20,8 @@ A brief discussion of how to read Spinoza&rsquo;s masterpiece, the _Ethics_.
 
 </div>
 <!--endtoc-->
+
+---
 
 
 ## <span class="section-num">1</span> Background {#background}
@@ -119,8 +119,6 @@ Scholia
 : explanatory remarks on the propositions; these are some of the places
     where Spinoza engages in more informal explanation and elucidation
 
-
-## References {#references}
 
 ## References
 
