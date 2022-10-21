@@ -476,7 +476,6 @@ Last week we discussed the sense in which Kant thinks there is a legitimate theo
 
 - [[https://discord.com/channels/1006739669842673674/1030262182883115060][Discussion thread]]
 - [[file:static/materials/handouts/handout-dialectic.pdf][Background handout on the Dialectic]]
-- Notes (TBA....)
 
 **** Readings
 - Kant
@@ -520,10 +519,30 @@ None of the proofs which argue from the effects of this being to its existence a
 #+end_quote
 
 
-*** TODO Jacobi's Challenge (Guest: Jim Kreines)
-- Jacobi: /Letters on Spinoza/ (1st ed) pp. 179–203, 216–228, 233–4
-- Mendelssohn: /Morning Hours/, ch. 10, excerpt
-- Kreines, TBA
+*** DONE Week 10 – Jacobi's Challenge: Faith or Nihilism (Guest: Jim Kreines)
+SCHEDULED: <2022-10-27 Thu>
+:PROPERTIES:
+:EXPORT_HUGO_TAGS: faith intelligibility jacobi kant nihilism psr reason spinoza
+:EXPORT_FILE_NAME: week10
+:END:        
+
+This week we discuss the reception of issues surrounding the PSR and reason in
+the reception of Kant's philosophy in Germany. [[https://www1.cmc.edu/pages/faculty/jkreines/][Jim Kreines]] will join us to
+discuss some work of his in progress.
+
+- [[https://discord.com/channels/1006739669842673674/1032817391589138523][Discussion thread]]
+- [[https://phil880.colinmclear.net/notes/kant-spinoza-pantheism/][Background notes]] (section 2)  
+
+**** Readings
+- Jacobi: [[file:static/materials/readings/jacobi-spinoza.pdf][/Letters on Spinoza/]] (1st ed) pp. 179–204, 216–228, 232–6, (2nd ed) pp. 370-8
+- Mendelssohn: /[[file:static/materials/readings/mendelssohn-dream.pdf][Morning Hours]]/, ch. 10, excerpt
+- Kreines: "A Theory of German Idealism: Where Philosophy Turns the PSR Upside Down" (see discord)
+   +  We'll focus our discussion primarily on §1 of the paper
+
+**** Recommended   
+- Kant: "[[https://www.icloud.com/iclouddrive/09dr3wYSRPZdwqMlyTqXlGlQA#kant1996a][What Does It Mean to Orient Oneself in Thinking?]]"
+- Beck: “[[file:static/materials/readings/beck-on-lessing.pdf][Lessing]]” - excerpt from Early German Philosophy
+- Beiser: [[file:static/materials/readings/beiser-fate-2-3.pdf][/The Fate of Reason/, chs. 2-3]]
 
 *** TODO Acosmism
 - Maimon: /The Autobiography Of Solomon Maimon/, ch. 15 (excerpt)
