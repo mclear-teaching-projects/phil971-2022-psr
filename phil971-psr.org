@@ -544,13 +544,35 @@ discuss some work of his in progress.
 - Beck: “[[file:static/materials/readings/beck-on-lessing.pdf][Lessing]]” - excerpt from Early German Philosophy
 - Beiser: [[file:static/materials/readings/beiser-fate-2-3.pdf][/The Fate of Reason/, chs. 2-3]]
 
-*** TODO Acosmism
-- Maimon: /The Autobiography Of Solomon Maimon/, ch. 15 (excerpt)
+*** DONE Week 11 – The Acosmism Problem
+SCHEDULED: <2022-11-03 Thu>
+:PROPERTIES:
+:EXPORT_HUGO_TAGS: acosmism being determinacy maimon kant nihilism psr reason spinoza
+:EXPORT_FILE_NAME: week11
+:END:        
+
+This week we will discuss a problem we've been dealing with only obliquely thus
+far, namely, whether commitment to an unrestricted application of the PSR
+results in a position according to which one has to deny the existence of finite
+beings. This is the so-called "acosmism problem". We'll look at a brief
+statement of it by Maimon, who coined the term "acosmism", as well as Hegel's
+critical discussion of the problem as it arises (or so Hegel contends) in Spinoza's work.
+
+- [[https://discord.com/channels/1006739669842673674/1035352267353759766][Discussion thread]]
+- For related background reading on Hegel see my [[https://phil880.colinmclear.net/notes/][PHIL 880 notes]] 
+
+**** Readings
+- Maimon: [[file:static/materials/readings/maimon-autobiography-ch15.pdf][/The Autobiography of Solomon Maimon/]], ch. 15 (focus on pp. 62-5)
+   + For an overview of Maimon's life see his [[https://plato.stanford.edu/entries/maimon/][SEP entry]]
 - Hegel:
-   + /Encyclopedia Logic/, §50, §151
-   + /Science of Logic/, ch. 1 - Being 
-   + /Lectures on the History of Philosophy/, 151-65
-- Melamed: "Salomon Maimon and the Rise of Spinozism in German Idealism"
+   + [[file:static/materials/readings/hegel-history-spinoza.pdf][/Lectures on the History of Philosophy/ (excerpt)]], pp. 151-65
+   + [[file:static/materials/readings/hegel-EL-being-essence.pdf][/Encyclopedia Logic/ (excerpt)]], §50, §§86-98, §151 (focus on the discussions of determinacy, infinity, and Spinoza) 
+   + (Optional) [[file:static/materials/readings/hegel-SL-chs1-2.pdf][/Science of Logic/ (excerpt)]], chs. 1-2; pp. 59-125 (these cover the derivation of =<being>= and =<existence>= in the /Encyclopedia/ in greater depth)
+- Newlands: "[[file:static/materials/readings/newlands-hegel-spinoza.pdf][Hegel's Idealist Reading of Spinoza]]"    
+
+**** Recommended      
+- Melamed: "[[file:static/materials/readings/melamed-maimon.PDF][Salomon Maimon and the Rise of Spinozism in German Idealism]]"
+  
 
 *** TODO Schopenhauer on the PSR
 - Schopenhauer: /The Fourfold Root of the Principle of Sufficient Reason/, §§1-16, 17-20, 23, 46-52
