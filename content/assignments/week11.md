@@ -26,11 +26,11 @@ critical discussion of the problem as it arises (or so Hegel contends) in Spinoz
     -   For an overview of Maimon&rsquo;s life see his [SEP entry](https://plato.stanford.edu/entries/maimon/)
 -   Hegel:
     -   [_Lectures on the History of Philosophy_ (excerpt)](/materials/readings/hegel-history-spinoza.pdf), pp. 151-65
-    -   [_Encyclopedia Logic_ (excerpt)](static/materials/readings/hegel-EL-being.pdf), §50, §§86-98, §151 (focus on the discussions of determinacy, infinity, and Spinoza)
+    -   [_Encyclopedia Logic_ (excerpt)](/materials/readings/hegel-EL-being-essence.pdf), §50, §§86-98, §151 (focus on the discussions of determinacy, infinity, and Spinoza)
     -   (Optional) [_Science of Logic_ (excerpt)](/materials/readings/hegel-SL-chs1-2.pdf), chs. 1-2; pp. 59-125 (these cover the derivation of `<being>` and `<existence>` in the _Encyclopedia_ in greater depth)
 -   Newlands: &ldquo;[Hegel&rsquo;s Idealist Reading of Spinoza](/materials/readings/newlands-hegel-spinoza.pdf)&rdquo;
 
 
 ## Recommended {#recommended}
 
--   Melamed: &ldquo;[Salomon Maimon and the Rise of Spinozism in German Idealism](static/materials/readings/melamed-maimon.PDF)&rdquo;
+-   Melamed: &ldquo;[Salomon Maimon and the Rise of Spinozism in German Idealism](/materials/readings/melamed-maimon.pdf)&rdquo;

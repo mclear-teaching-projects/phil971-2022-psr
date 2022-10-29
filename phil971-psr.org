@@ -569,9 +569,9 @@ critical discussion of the problem as it arises (or so Hegel contends) in Spinoz
    + [[file:static/materials/readings/hegel-EL-being-essence.pdf][/Encyclopedia Logic/ (excerpt)]], §50, §§86-98, §151 (focus on the discussions of determinacy, infinity, and Spinoza) 
    + (Optional) [[file:static/materials/readings/hegel-SL-chs1-2.pdf][/Science of Logic/ (excerpt)]], chs. 1-2; pp. 59-125 (these cover the derivation of =<being>= and =<existence>= in the /Encyclopedia/ in greater depth)
 - Newlands: "[[file:static/materials/readings/newlands-hegel-spinoza.pdf][Hegel's Idealist Reading of Spinoza]]"    
-
+  
 **** Recommended      
-- Melamed: "[[file:static/materials/readings/melamed-maimon.PDF][Salomon Maimon and the Rise of Spinozism in German Idealism]]"
+- Melamed: "[[file:static/materials/readings/melamed-maimon.pdf][Salomon Maimon and the Rise of Spinozism in German Idealism]]"
   
 
 *** TODO Schopenhauer on the PSR
