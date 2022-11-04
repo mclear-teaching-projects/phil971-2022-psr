@@ -581,6 +581,10 @@ SCHEDULED: <2022-11-10 Thu>
 :EXPORT_FILE_NAME: week12
 :END:        
 
+This week we look at Schopenhauer's early work (subsequently revised) on the principle (or principles) of sufficient reason. We'll see his revisions to Kant's own view, though he remains broadly sympathetic to Kant in comparison with his negative view of post-Kantian German Idealism. 
+
+- [[https://discord.com/channels/1006739669842673674/1037909373428711495][Discussion thread]]
+
 **** Readings
 
 - [[https://plato.stanford.edu/entries/schopenhauer/][SEP entry on Schopenhauer]] (§§1-3)
