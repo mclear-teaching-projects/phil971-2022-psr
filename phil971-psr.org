@@ -574,17 +574,29 @@ critical discussion of the problem as it arises (or so Hegel contends) in Spinoz
 - Melamed: "[[file:static/materials/readings/melamed-maimon.pdf][Salomon Maimon and the Rise of Spinozism in German Idealism]]"
   
 
-*** TODO Schopenhauer on the PSR
-- Schopenhauer: /The Fourfold Root of the Principle of Sufficient Reason/, §§1-16, 17-20, 23, 46-52
+*** DONE Week 12 – Schopenhauer on the PSR
+SCHEDULED: <2022-11-10 Thu>
+:PROPERTIES:
+:EXPORT_HUGO_TAGS: explanation kant psr reason
+:EXPORT_FILE_NAME: week12
+:END:        
 
-*** TODO Limiting the PSR? Dasgupta v. MDR
-- Dasgupta: "Metaphysical Rationalism"
-- Della Rocca: "Tamers, deniers, and me"
+**** Readings
 
+- [[https://plato.stanford.edu/entries/schopenhauer/][SEP entry on Schopenhauer]] (§§1-3)
+- Schopenhauer: [[file:static/materials/readings/schopenhauer-psr.pdf][/The Fourfold Root of the Principle of Sufficient Reason/]], especially §§1-16, 17-20, 23, 46-52
 
-*** TODO Inquiry & the PSR (Guest: Fatema Amijee)
+**** Recommended
+- Gardner: "[[http://www.cambridge.org/core/journals/kantian-review/article/schopenhauers-contraction-of-reason-clarifying-kant-and-undoing-german-idealism/9649F0053DF2BF0CE1C6107F671AD37A][Schopenhauer’s Contraction of Reason]]"
+
+*** TODO Week 13 – Inquiry & the PSR (Guest: Fatema Amijee)
 - Kant: On the regulative use of the ideas of pure reason
 - Amijee: "Inquiry and Metaphysical Rationalism"
+
+
+*** TODO Week 14 – Limiting the PSR? Dasgupta v. MDR
+- Dasgupta: "Metaphysical Rationalism"
+- Della Rocca: "Tamers, deniers, and me"
 
 
 ** Class Notes
