@@ -1,5 +1,5 @@
 +++
-title = "Week 11 – The Acosmism Problem"
+title = "Week 11 – The Acosmism Problem (Guest: Nick Stang)"
 publishDate = 2022-11-03T00:00:00-04:00
 tags = ["acosmism", "being", "determinacy", "maimon", "kant", "nihilism", "psr", "reason", "spinoza"]
 draft = false

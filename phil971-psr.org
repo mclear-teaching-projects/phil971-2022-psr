@@ -544,7 +544,7 @@ discuss some work of his in progress.
 - Beck: “[[file:static/materials/readings/beck-on-lessing.pdf][Lessing]]” - excerpt from Early German Philosophy
 - Beiser: [[file:static/materials/readings/beiser-fate-2-3.pdf][/The Fate of Reason/, chs. 2-3]]
 
-*** DONE Week 11 – The Acosmism Problem
+*** DONE Week 11 – The Acosmism Problem (Guest: Nick Stang)
 SCHEDULED: <2022-11-03 Thu>
 :PROPERTIES:
 :EXPORT_HUGO_TAGS: acosmism being determinacy maimon kant nihilism psr reason spinoza
