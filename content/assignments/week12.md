@@ -17,7 +17,7 @@ This week we look at Schopenhauer&rsquo;s early work (subsequently revised) on t
 ## Readings {#readings}
 
 -   [SEP entry on Schopenhauer](https://plato.stanford.edu/entries/schopenhauer/) (§§1-3)
--   Schopenhauer: [_The Fourfold Root of the Principle of Sufficient Reason_](/materials/readings/schopenhauer-psr.pdf), especially §§1-16, 17-20, 23, 46-52
+-   Schopenhauer: [_The Fourfold Root of the Principle of Sufficient Reason_](/materials/readings/schopenhauer-psr.pdf), especially §§1-20, 23, 46-52
 
 
 ## Recommended {#recommended}

@@ -588,7 +588,7 @@ This week we look at Schopenhauer's early work (subsequently revised) on the pri
 **** Readings
 
 - [[https://plato.stanford.edu/entries/schopenhauer/][SEP entry on Schopenhauer]] (§§1-3)
-- Schopenhauer: [[file:static/materials/readings/schopenhauer-psr.pdf][/The Fourfold Root of the Principle of Sufficient Reason/]], especially §§1-16, 17-20, 23, 46-52
+- Schopenhauer: [[file:static/materials/readings/schopenhauer-psr.pdf][/The Fourfold Root of the Principle of Sufficient Reason/]], especially §§1-20, 23, 46-52
 
 **** Recommended
 - Gardner: "[[http://www.cambridge.org/core/journals/kantian-review/article/schopenhauers-contraction-of-reason-clarifying-kant-and-undoing-german-idealism/9649F0053DF2BF0CE1C6107F671AD37A][Schopenhauer’s Contraction of Reason]]"
