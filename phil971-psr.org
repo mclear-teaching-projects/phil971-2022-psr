@@ -594,10 +594,25 @@ This week we look at Schopenhauer's early work (subsequently revised) on the pri
 **** Recommended
 - Gardner: "[[http://www.cambridge.org/core/journals/kantian-review/article/schopenhauers-contraction-of-reason-clarifying-kant-and-undoing-german-idealism/9649F0053DF2BF0CE1C6107F671AD37A][Schopenhauer’s Contraction of Reason]]"
 
-*** TODO Week 13 – Inquiry & the PSR (Guest: Fatema Amijee)
-- Kant: On the regulative use of the ideas of pure reason
-- Amijee: "Inquiry and Metaphysical Rationalism"
+*** DONE Week 13 – Inquiry & the PSR (Guest: Fatema Amijee)
+SCHEDULED: <2022-11-17 Thu>
+:PROPERTIES:
+:EXPORT_HUGO_TAGS: explanation inquiry psr reason
+:EXPORT_FILE_NAME: week13
+:END:        
 
+This week we discuss the sense in which a version of PSR might be required or
+presupposed in any form of rational inquiry. We'll read and discuss [[http://fatemaamijee.weebly.com/][Fatema
+Amijee's]] paper, "Inquiry and Metaphysical Rationalism".
+
+- [[https://discord.com/channels/1006739669842673674/1040408900521959494][Discussion thread]]
+
+**** Readings
+- Amijee: "[[https://unl.primo.exlibrisgroup.com/discovery/fulldisplay?docid=cdi_webofscience_primary_000790131200001&context=PC&vid=01UON_LINC:UNL&lang=en&search_scope=MyInst_and_CI&adaptor=Primo%20Central&query=any,contains,amijee%20inquiry%20and%20metaphysical%20rationalism&offset=0][Inquiry and metaphysical rationalism]]"
+
+**** Recommended  
+- Kant: [[file:static/materials/readings/kant-regulative-ideas.pdf][On the regulative use of the ideas of pure reason]]
+- Pruss: "[[file:static/materials/readings/pruss-IBE-psr.pdf][Inference to the best or only explanation]]"  
 
 *** TODO Week 14 – Limiting the PSR? Dasgupta v. MDR
 - Dasgupta: "Metaphysical Rationalism"
