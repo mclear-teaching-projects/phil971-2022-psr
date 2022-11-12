@@ -614,6 +614,31 @@ Amijee's]] paper, "Inquiry and Metaphysical Rationalism".
 - Kant: [[file:static/materials/readings/kant-regulative-ideas.pdf][On the regulative use of the ideas of pure reason]]
 - Pruss: "[[file:static/materials/readings/pruss-IBE-psr.pdf][Inference to the best or only explanation]]"  
 
+*** Passage Analysis III
+SCHEDULED: <2022-11-18 Fri>
+:PROPERTIES:
+:EXPORT_HUGO_TAGS: passage-analysis
+:EXPORT_FILE_NAME: analysis-3
+:END:
+
+Choose from *one* of the two provided passages. In no more than 500 words
+describe the argument or point in the passage in as plain English as
+possible. The is due via [[mailto:mclear@unl.edu][email]] Friday, November 18th by 5 p.m.
+
+**** Passage I
+Hegel, /Lectures on the history of philosophy/, p. 154
+#+begin_quote
+We have before us two determinations, the universal or what has being in and for itself, and secondly the determination of the particular and singular, that is, individuality. Now it is not hard to demonstrate that the particular or the singular is something altogether limited, that its concept altogether depends upon an other, that it is dependent, does not truly exist for itself, and so is not truly actual. With regard to the determinate, Spinoza established this thesis: /omnis determination est negatio/ [all determination is negation]. Hence only the nonparticularized or the universal is. It alone is what is substantial and therefore truly actuaL As a singular thing, the soul or the mind is something limited. It is by negation that a singular thing is. Therefore it [the singular thing] does not have genuine actuality. This on the whole is Spinoza’s idea.
+#+end_quote
+
+**** Passage II
+Jacobi, /Concerning the doctrine of Spinoza/, p. 371-2
+#+begin_quote
+This somewhat more serious mistake comes about in the same way as the less serious one into which Spinoza fell, by confusing the concept of cause with the concept of ground, and so depriving the former of what is peculiar to it, and reducing "cause" for speculative purposes to a merely logical entity. I have already elucidated this process elsewhere, and have, as I believe, sufficiently established that, so far as the concept of cause is distinguished from that of ground, it is a concept of experience which we owe to the consciousness of our own causality and passivity, and cannot be derived from the merely idealistic concept of ground any more than it can be resolved into it.
+
+A union of the two, such as we find in the principle of sufficient reason, is not therefore inadmissible, as long as we never for a moment forget what specifically lies at the ground of each and which made of each a possible concept. The principle of sufficient reason says: "Every thing dependent depends, on something"; that of causality: "Everything that is done, must be done through something." In the first principle, the "from something" is already implied in the word "dependent"; just as in the second, the "through something" is already implied by the word "done." Both of them are identical principles, so that they have universal and apodictic validity. But they are unified through the proposition: "Everything conditional must have a condition," which is equally identical, and hence equally universal and necessary.
+#+end_quote
+
 *** TODO Week 14 – Limiting the PSR? Dasgupta v. MDR
 - Dasgupta: "Metaphysical Rationalism"
 - Della Rocca: "Tamers, deniers, and me"
