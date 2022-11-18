@@ -639,10 +639,27 @@ This somewhat more serious mistake comes about in the same way as the less serio
 A union of the two, such as we find in the principle of sufficient reason, is not therefore inadmissible, as long as we never for a moment forget what specifically lies at the ground of each and which made of each a possible concept. The principle of sufficient reason says: "Every thing dependent depends, on something"; that of causality: "Everything that is done, must be done through something." In the first principle, the "from something" is already implied in the word "dependent"; just as in the second, the "through something" is already implied by the word "done." Both of them are identical principles, so that they have universal and apodictic validity. But they are unified through the proposition: "Everything conditional must have a condition," which is equally identical, and hence equally universal and necessary.
 #+end_quote
 
-*** TODO Week 14 – Limiting the PSR? Dasgupta v. MDR
-- Dasgupta: "Metaphysical Rationalism"
-- Della Rocca: "Tamers, deniers, and me"
+*** DONE Week 14 – Limiting the PSR? Dasgupta v. MDR
+SCHEDULED: <2022-12-01 Thu>
+:PROPERTIES:
+:EXPORT_HUGO_TAGS: ground explanation psr rationalism
+:EXPORT_FILE_NAME: week14
+:END:
 
+We've seen various arguments for "the" PSR and a few for its limitation. Is it
+plausible that the PSR might be both true but restricted in various ways? This
+week we'll look at argument for and against this.
+
+- [[https://discord.com/channels/1006739669842673674/1043002105880920064][Discussion thread]]
+
+**** Readings
+- Dasgupta: "[[https://unl.primo.exlibrisgroup.com/permalink/01UON_LINC/13u3t94/cdi_proquest_journals_1961616125][Metaphysical rationalism]]"
+- Della Rocca: "[[https://unl.primo.exlibrisgroup.com/permalink/01UON_LINC/13u3t94/cdi_crossref_primary_10_1007_s11098_020_01485_0][Tamers, deniers, and me]]"
+
+**** Recommended
+- Della Rocca: "[[file:static/materials/readings/mdr-tame-philosophy.pdf][The taming of philosophy]]"
+- Pruss: "[[https://unl.primo.exlibrisgroup.com/permalink/01UON_LINC/13u3t94/cdi_proquest_journals_197227878][A restricted principle of sufficient reason and the cosmological argument]]" 
+- Amijee: "[[https://unl.primo.exlibrisgroup.com/permalink/01UON_LINC/13u3t94/cdi_crossref_primary_10_1007_s11098_020_01487_y][Explaining contingent facts]]"
 
 ** Class Notes
    :PROPERTIES:
