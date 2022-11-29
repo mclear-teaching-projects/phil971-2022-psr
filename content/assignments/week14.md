@@ -14,6 +14,7 @@ plausible that the PSR might be both true but restricted in various ways? This
 week we&rsquo;ll look at argument for and against this.
 
 -   [Discussion thread](https://discord.com/channels/1006739669842673674/1043002105880920064)
+-   [Notes]({{< relref "restricting-psr" >}}) ([PDF](/materials/handouts/restricting-psr.pdf))
 
 
 ## Readings {#readings}
