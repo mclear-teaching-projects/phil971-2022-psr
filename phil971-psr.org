@@ -614,7 +614,7 @@ Amijee's]] paper, "Inquiry and Metaphysical Rationalism".
 - Kant: [[file:static/materials/readings/kant-regulative-ideas.pdf][On the regulative use of the ideas of pure reason]]
 - Pruss: "[[file:static/materials/readings/pruss-IBE-psr.pdf][Inference to the best or only explanation]]"  
 
-*** Passage Analysis III
+*** DONE Passage Analysis III
 SCHEDULED: <2022-11-18 Fri>
 :PROPERTIES:
 :EXPORT_HUGO_TAGS: passage-analysis
@@ -661,6 +661,25 @@ week we'll look at argument for and against this.
 - Della Rocca: "[[file:static/materials/readings/mdr-tame-philosophy.pdf][The taming of philosophy]]"
 - Pruss: "[[https://unl.primo.exlibrisgroup.com/permalink/01UON_LINC/13u3t94/cdi_proquest_journals_197227878][A restricted principle of sufficient reason and the cosmological argument]]" 
 - Amijee: "[[https://unl.primo.exlibrisgroup.com/permalink/01UON_LINC/13u3t94/cdi_crossref_primary_10_1007_s11098_020_01487_y][Explaining contingent facts]]"
+
+  
+*** DONE Week 15 – PSR, Skepticism, & Explanation
+SCHEDULED: <2022-12-08 Thu>
+:PROPERTIES:
+:EXPORT_HUGO_TAGS: explanation naturalism psr rationalism science skepticism
+:EXPORT_FILE_NAME: week15
+:END:
+
+Last week we looked at arguments concerning endorsement of a limited form of PSR, and the potential problems that such attempts at restriction generate. This (our final) week we discuss the consequences of endorsing one form or another of outright PSR skepticism/denial. What consequences, if any, are there to a whole rejection of PSR?
+
+**** Readings
+- Koons & Pruss: "[[https://link.springer.com/article/10.1007/s11098-020-01482-3][Skepticism and the principle of sufﬁcient reason]]"
+
+**** Recommended 
+- Kleinschmidt: "[[file:static/materials/readings/kleinschmidt-psr-reasoning.pdf][Reasoning without the principle of sufficient reason]]"
+- Pruss: /The principle of sufficient reason: A reassessment/ (chs. [[file:static/materials/readings/pruss-psr-reasonable.pdf][14, 16]])
+- Nozick: "[[file:static/materials/readings/nozick-metaphysics.pdf][Why is there something rather than nothing?]]"  
+- Rosenberg: "[[https://www.jstor.org/stable/2653675][Naturalistic epistemology for eliminative materialists]]"  
 
 ** Class Notes
    :PROPERTIES:
