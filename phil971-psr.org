@@ -672,6 +672,8 @@ SCHEDULED: <2022-12-08 Thu>
 
 Last week we looked at arguments concerning endorsement of a limited form of PSR, and the potential problems that such attempts at restriction generate. This (our final) week we discuss the consequences of endorsing one form or another of outright PSR skepticism/denial. What consequences, if any, are there to a whole rejection of PSR?
 
+- [[https://discord.com/channels/1006739669842673674/1048256643588173885][Discussion thread]]
+
 **** Readings
 - Koons & Pruss: "[[https://link.springer.com/article/10.1007/s11098-020-01482-3][Skepticism and the principle of sufﬁcient reason]]"
 
