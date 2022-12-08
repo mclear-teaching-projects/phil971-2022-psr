@@ -673,6 +673,7 @@ SCHEDULED: <2022-12-08 Thu>
 Last week we looked at arguments concerning endorsement of a limited form of PSR, and the potential problems that such attempts at restriction generate. This (our final) week we discuss the consequences of endorsing one form or another of outright PSR skepticism/denial. What consequences, if any, are there to a whole rejection of PSR?
 
 - [[https://discord.com/channels/1006739669842673674/1048256643588173885][Discussion thread]]
+- [[id:20221208T085250.814762][Notes]] ([[file:static/materials/handouts/psr-skepticism.pdf][PDF]])  
 
 **** Readings
 - Koons & Pruss: "[[https://link.springer.com/article/10.1007/s11098-020-01482-3][Skepticism and the principle of sufﬁcient reason]]"
@@ -1113,7 +1114,35 @@ In these notes I look at some recent arguments from Shamik Dasgupta for restrict
 
 
 
+*** PSR Skepticism
+SCHEDULED: <2022-12-08 Thu>
+:PROPERTIES:
+:EXPORT_HUGO_TAGS:  knowledge psr reason restriction skepticism
+:EXPORT_FILE_NAME: psr-skepticism
+:EXPORT_DATE: Decemeber 8, 2022
+:EXPORT_OPTIONS: author:nil num:t ':t
+:EXPORT_AUTHOR: PHIL 971
+:ID:       20221208T085250.814762
+:END:
+
+Here I discuss Koons and Pruss's recent argument that skepticism about PSR leads to skepticism about whether we have any empirical knowledge at all.
+
+#+toc:headlines 6
+
+-----
+
+#+INCLUDE:  "~/Documents/notes/ref-notes/20221207T162627--koons2021__bib.org" :lines "24-"
+
+**** References
+:PROPERTIES:
+:UNNUMBERED: t
+:END:
+
+#+print_bibliography:
+
+
 ** Handouts
+
 *** Week 5 Handout
     :PROPERTIES:
     :EXPORT_FILE_NAME: week-5-handout

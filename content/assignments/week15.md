@@ -1,6 +1,6 @@
 +++
 title = "Week 15 – PSR, Skepticism, & Explanation"
-publishDate = 2022-12-08T00:00:00-05:00
+publishDate = 2022-12-08T00:00:00-06:00
 tags = ["explanation", "naturalism", "psr", "rationalism", "science", "skepticism"]
 draft = false
 weight = -100
@@ -12,6 +12,7 @@ type = "post"
 Last week we looked at arguments concerning endorsement of a limited form of PSR, and the potential problems that such attempts at restriction generate. This (our final) week we discuss the consequences of endorsing one form or another of outright PSR skepticism/denial. What consequences, if any, are there to a whole rejection of PSR?
 
 -   [Discussion thread](https://discord.com/channels/1006739669842673674/1048256643588173885)
+-   [Notes]({{< relref "psr-skepticism" >}}) ([PDF](/materials/handouts/psr-skepticism.pdf))
 
 
 ## Readings {#readings}
